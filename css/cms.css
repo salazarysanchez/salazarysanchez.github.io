@@ -1,0 +1,175 @@
+/*
+ * CMS de Movimiento Libre
+ *
+ * Copyright 2014 Guillermo Valdés Lozano <guivaloz@movimientolibre.com>
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+ * MA 02110-1301, USA.
+ *
+ */
+
+/*
+ * GENERAL
+ */
+body {
+    background-color:#888;
+    padding-top:50px;
+    font-family:"Liberation Sans",Arial,sans-serif;
+}
+a         { color:#6500A8; }
+a:hover,
+a:focus   { color:#000; }
+a:active,
+a:visited { color:#6500A8; }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family:"Liberation Sans",Arial,sans-serif;
+    font-weight:bold;
+}
+code, kbd, pre, samp {
+    font-family:"Liberation Mono","DejaVu Sans Mono","Courier New",monospace;
+}
+
+/*
+ * SIN ESQUINAS REDONDEADAS
+ */
+.panel,
+.panel-default,
+.panel-group,
+.panel,
+.panel-heading,
+.list-group{
+    border-radius:0px;
+    border:0px;
+}
+.panel > .list-group:last-child .list-group-item:last-child {
+    border-radius:0px;
+}
+
+/*
+ * MENU PRINCIPAL
+ */
+#menu-principal {
+    background-color:#FFF;
+    border-bottom:solid 2px #6500A8;
+}
+
+/* NOMBRE DEL SITIO */
+#menu-principal a.navbar-brand         { background-color:#FFF; color:#222; }
+#menu-principal a.navbar-brand:hover,
+#menu-principal a.navbar-brand:focus   { background-color:#EEE; color:#000; }
+#menu-principal a.navbar-brand:active,
+#menu-principal a.navbar-brand:visited { color:#222; }
+
+/* OPCIONES */
+#menu-principal .navbar-nav li a         { background-color:#FFF; color:#222; }
+#menu-principal .navbar-nav li a:hover,
+#menu-principal .navbar-nav li a:focus   { background-color:#EEE; color:#000; }
+#menu-principal .navbar-nav li a:active,
+#menu-principal .navbar-nav li a:visited { color:#222; }
+
+/*
+ * CONTENIDO
+ */
+#contenido { background-color:#888; }
+#contenido .container {
+    background-color:#EEE;
+    padding-top:8px;
+    padding-bottom:8px;
+}
+#contenido .jumbotron    {
+    background-color:#000;
+    background-image:url("../imagenes/black-800x278.png");
+    background-repeat:no-repeat;
+    background-position:left;
+    color:#FFF;
+    margin-bottom:12px; }
+#contenido .jumbotron h1 { font-size:48px; }
+#contenido .jumbotron p  { font-size:14px; }
+#contenido section {
+    background-color:#FFF;
+    padding:8px;
+    font-size:16px;
+    line-height:1.5em;
+    border-bottom:solid 2px #BBB;
+    margin-bottom:8px;
+}
+#contenido article {
+    background-color:#FFF;
+    padding:8px;
+    font-size:16px;
+    line-height:1.5em;
+    border-bottom:solid 2px #BBB;
+    margin-bottom:8px;
+}
+#contenido h1,
+#contenido h2,
+#contenido h3 {
+    margin-top:8px;
+    margin-bottom:8px;
+}
+#contenido blockquote p {
+    font-size:16px;
+    line-height:1.5em;
+}
+.autor-fecha {
+    font-size:12px;
+    line-height:1em;
+    color:#888;
+}
+.btn-publicacion-completa,
+.btn-publicacion-completa:hover,
+.btn-publicacion-completa:focus {
+    border-color:#A52A2A;
+    color:#A52A2A;
+}
+.btn-categoria,
+.btn-categoria:hover,
+.btn-categoria:focus {
+    color:#A52A2A;
+}
+
+/* PAGINACION */
+.pagination > .active > a,
+.pagination > .active > a:hover,
+.pagination > .active > a:focus { background-color:gray; border-color:gray; color:white; }
+
+/*
+ * MENU SECUNDARIO
+ */
+.menu-secundario { margin-bottom:8px; }
+.menu-secundario .list-group-item { padding:4px 15px; }
+
+/*
+ * PIE
+ */
+#pie {
+    background-color:#444;
+    color:#AAA;
+    font-size:12px;
+}
+#pie p {
+    padding-top:12px;
+    padding-bottom:12px;
+}
+#pie a         { color:#CCC; font-weight:bold; }
+#pie a:hover,
+#pie a:focus   { color:#FFF; }
+#pie a:active,
+#pie a:visited { color:#CCC; }

@@ -1,0 +1,97 @@
+//Aportaciones personales al codigo
+
+
+@font-face { font-family: ''Colaborator''; src: url('fonts/ColabMed.otf') format (''otf''); 
+}
+
+.VerMas{font-weight: bold; font-size: 18px; color: #88C249;}
+
+
+.rss{width: 100px;}
+img{ 
+	margin: 0;
+	padding-left:12px;
+	padding-top: 5px; 
+	padding-bottom:5px; 
+	width: 350px;}
+
+p{font-size: 14px;}
+
+ul{list-style-type: none;}
+
+.entradasblog ul{font-size: 14px; padding-left: 40px; padding-right: 40px; list-style-type: square;}
+
+a{
+	color:#615C8B;
+}
+
+.Contenido{
+	background-color: #615C8B;
+	max-width: 100%;
+	height: 100%;
+}
+.ContenidoPie{
+	background-color: #615C8B;
+	min-width:100%; 
+	min-height:100%;
+	color: #ffffff;
+	padding-top: 20px;
+	font-size: 13px;
+
+}
+.ContenidoPie a{color:#ffffff; 
+font-size: 15px;
+font-weight: bold;
+padding: 20px;
+width: 100%;
+}
+
+}
+.ContenidoPie a:hover{color:#000000; 
+font-size: 15px;
+font-weight: bold;
+
+}
+
+
+
+.Post{background-color: #ffffff;
+padding: 20px 20px 17px 17px; 
+text-align: justify;
+margin-top: -38px;
+
+}
+
+.Reuniones{
+width: 300px;}
+
+.Reuniones li{font-size: 14px;
+min-width: 270px;}
+
+
+.NavPrincipal{
+color:#ffffff;
+padding: 10px;
+font-size: 18px;
+font-weight: bold;
+
+}
+
+.NavPrincipal:hover{
+color:#000000;
+padding: 10px;
+: 20px;
+}
+
+
+
+.Lateral{
+	margin-top: 30px;
+	margin-right:-20px;
+	background-color: #DBDBDB;
+}
+.Logo{
+	width: 585px; margin-bottom: 20px;
+}
+
+img.RedesSociales {width: 50px;}

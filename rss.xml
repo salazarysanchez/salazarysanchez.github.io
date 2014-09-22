@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>salazarysanchez</title>
+    <link>https://salazarysanchez.github.io</link>
+    <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
+    <item>
+      <title>Reboot</title>
+      <link>https://salazarysanchez.github.io/entradas/2014-09-21-reboot.html</link>
+      <description>
+&lt;p&gt;A partir de éste momento publicaré en mi sitio y &lt;a href=&quot;https://salazarysanchez.github.io&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sun, 21 Sep 2014 18:00:00 -0500</pubDate>
+      <dc:date>2014-09-21T18:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>Publicaciones</title>
+      <link>https://salazarysanchez.github.io/publicaciones/Publicaciones.html</link>
+      <description>
+&lt;p&gt;Me gusta escribir y promover el Software Libre; y para muestra, un botón:&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sun, 21 Sep 2014 17:59:00 -0500</pubDate>
+      <dc:date>2014-09-21T17:59:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>Contacto</title>
+      <link>https://salazarysanchez.github.io/contacto/contacto.html</link>
+      <description>
+&lt;p&gt;Pueden contactarme por distintos medios:&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sun, 21 Sep 2014 17:58:00 -0500</pubDate>
+      <dc:date>2014-09-21T17:58:00-05:00</dc:date>
+    </item>
+  </channel>
+</rss>
