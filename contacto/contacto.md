@@ -11,7 +11,7 @@ Pueden contactarme por distintos medios:
 
 ### e-mail
 
-Escribanme a **orodolfo.salazars** en **gmail** punto **com** y mucho mejor si me escriben usando mi <a href="contacto/0x29C518B2.asc">llave pública</a>.
+Escribanme a **osvaldo** en **cryptolab** punto **net** y mucho mejor si me escriben usando mi <a href="contacto/0x342E8CE1.asc">llave pública</a>.
 
 ### Redes sociales
 
