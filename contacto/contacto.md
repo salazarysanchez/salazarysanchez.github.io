@@ -19,7 +19,9 @@ Estoy a su servicio si requieren una asesoría, plática, conferencia o ayuda en
 
 ### e-mail
 
-Escribanme a **osvaldo** en **cryptolab** punto **net** y mucho mejor si me escriben usando mi <a href="contacto/0x342E8CE1.asc">llave pública</a>.
+Escribanme a 
+<img class="img-responsive" style="margin-left" src="contacto/Correo02.png">
+y mucho mejor si me escriben usando mi <a href="contacto/0x342E8CE1.asc">llave pública</a>.
 
 ### Redes sociales
 
