@@ -3,10 +3,10 @@ The Internet's Own Boy: The Story of Aaron Swartz
 
 Fecha: 2014-07-27 03:04
 Autor: Osvaldo
-Categorías: Aaron Swartz
+Categorías: Aaron Swartz, Videos
 
 <center>
-<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-07-27-The-Internets-Own-Boy-The-Story-of-Aaron-Swartz/TheInternetsOwnBoyTheStoryofAaronSwartz.jpg" alt="mozilla" width="425" height="350">
+<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-07-27-The-Internets-Own-Boy-The-Story-of-Aaron-Swartz/TheInternetsOwnBoyTheStoryofAaronSwartz.jpg" alt="poster Aaron Swartz" width="425" height="350">
 </center>
 
 <!-- break -->
@@ -22,7 +22,7 @@ En junio de 2013, Swartz fue incluido póstumamente en el [Salón de la Fama de 
 Tiempo después, Brian Knappenberger, por medio de [kickstarter](http://www.kickstarter.com/projects/26788492/aaron-swartz-documentary-the-internets-own-boy-0) obtuvo los fondos suficientes (y un poco mas) para filmar el documental [The Internet's Own Boy: The Story of Aaron Swartz](http://vimeo.com/ondemand/internetsownboy/94238859) misma que cuenta con la siguiente licencia:
 
 <center>
-<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-07-27-The-Internets-Own-Boy-The-Story-of-Aaron-Swartz/TIOB.png" alt="mozilla" width="425" height="350">
+<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-07-27-The-Internets-Own-Boy-The-Story-of-Aaron-Swartz/TIOB.png" alt="Licencias" width="425" height="350">
 </center>
 
 El documental se puede [alquilar o se puede comprar](http://vimeo.com/ondemand/internetsownboy/94238859), pero también se puede [descargar](http://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz) y usar los [subtitulos](http://www.amara.org/fr/videos/5Mo4oAj1bxOb/info/the-internets-own-boy-the-story-of-aaron-swartz/) de su agrado.
