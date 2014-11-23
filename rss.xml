@@ -63,5 +63,16 @@
       <pubDate>Sun, 21 Sep 2014 17:58:00 -0500</pubDate>
       <dc:date>2014-09-21T17:58:00-05:00</dc:date>
     </item>
+    <item>
+      <title>Girar videos en GNU/Linux</title>
+      <link>https://salazarysanchez.github.io/entradas/2014-08-10-girar-videos-en-gnu-linux.html</link>
+      <description>
+&lt;p&gt;Se terminaron las vacaciones y ya todos están de regreso para trabajar y/o estudiar. Muchos conservaron de sus vacaciones, si viajaron, recuerdos, fotos y videos; y algunos, por la emoción del momento, lo grabaron con la cámara no de la manera correcta, esto es, inclinada a 90º, 180º o a 270º provocando &lt;a href=&quot;http://es.wikipedia.org/wiki/Tort%C3%ADcolis\&quot;&gt;tortícolis&lt;/a&gt; a todos los que les presumen los videos.&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sun, 10 Aug 2014 22:35:00 -0500</pubDate>
+      <dc:date>2014-08-10T22:35:00-05:00</dc:date>
+    </item>
   </channel>
 </rss>

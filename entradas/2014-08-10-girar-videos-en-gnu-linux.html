@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="utf-8">
-  <title>salazarysanchez - Categoría Reboot</title>
+  <title>salazarysanchez - Girar videos en GNU/Linux</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="Osvaldo">
@@ -49,17 +49,81 @@
                 <p>Mejoremos el mundo y nuestras vidas un Hack a la vez.</p>
             </div>
 
-<header><h1>Categoría Reboot</h1></header>
-<section>
-  <h3><a href="../entradas/2014-09-21-reboot.html">Reboot</a></h3>
-  <blockquote>
+<article>
+  <header>
+    <h1>Girar videos en GNU/Linux</h1>
+    <p class="autor-fecha">Por Osvaldo, 2014-08-10 22:35</p>
+  </header>
 
-<p>A partir de éste momento publicaré en mi sitio y <a href="https://salazarysanchez.github.io">aquí</a>.</p>
+<p>Se terminaron las vacaciones y ya todos están de regreso para trabajar y/o estudiar. Muchos conservaron de sus vacaciones, si viajaron, recuerdos, fotos y videos; y algunos, por la emoción del momento, lo grabaron con la cámara no de la manera correcta, esto es, inclinada a 90º, 180º o a 270º provocando <a href="http://es.wikipedia.org/wiki/Tort%C3%ADcolis\">tortícolis</a> a todos los que les presumen los videos.</p>
 
+<center>
+<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-08-10-girar-videos-en-gnu-linux/Videos-girados.png" alt="videos girados" width="425" height="350" />
+</center>
 
-  </blockquote>
-  <button class="btn btn-default btn-sm btn-publicacion-completa" type="button" onclick="location.href='../entradas/2014-09-21-reboot.html'">Publicación completa...</button>
-</section>
+<p>En GNU/Linux podemos girar los videos la cantidad de grados necesarios, para ello podemos usar una de las dos siguientes herramientas: <a href="http://ffmpeg.org/">FFmpeg</a> o <a href="http://www.mplayerhq.hu/">MEncoder</a>.</p>
+
+<p>Todo lo que mostraré es en <a href="http://www.debian.org/">Debian</a>, por lo que si usas otra distribución, lo instales por favor de acuerdo a ella.</p>
+
+<p>La primer forma de hacerlo es con <strong>FFmpeg</strong>, el cual podemos instalar con:</p>
+
+<pre><code>$ sudo apt-get install ffmpeg
+</code></pre>
+
+<p>Una vez instalado, usamos FFmpeg con los siguientes parámetros:</p>
+
+<pre><code>$ ffmpeg -i Video-A-Girar.mp4 -vf "transpose=2" -sameq -y Video-Girado.mp4
+</code></pre>
+
+<p>Dependiendo el uso podemos cambiar los valores en <em>-vf</em>:</p>
+
+<ul>
+  <li>Para girar 90º en dirección a las agujas del reloj: <em>"transpose=2"</em></li>
+  <li>Para girar 90º en dirección contraria a las agujas del reloj: <em>"transpose=3"</em></li>
+  <li>Para girarlo verticalmente: <em>vflip</em></li>
+</ul>
+
+<p>Otra herramienta para girar los videos es <strong>MEncoder</strong> el cual instalamos con:</p>
+
+<pre><code>$ sudo apt-get install mplayer mencoder
+</code></pre>
+
+<p>MEncoder es un codificador de vídeo libre que se incluye en el reproductor multimedia MPlayer, por ello la instalación de ambos.</p>
+
+<p>Una vez instalado, usamos MEncoder con los siguientes parámetros:</p>
+
+<pre><code>$ mencoder -ovc lavc -vf rotate=1 -oac pcm Video-A-Girar.mp4 -o Video-Girado.mp4
+</code></pre>
+
+<p>Dependiendo el uso podemos cambiar los valores en <em>-vf rotate</em>:</p>
+
+<ul>
+  <li>Para girar 90º en dirección a las agujas del reloj y con flip: <em>rotate=0</em></li>
+  <li>Para girar 90º en dirección a las agujas del reloj: <em>rotate=1</em></li>
+  <li>Para girar 90º en dirección contraria a las agujas del reloj: <em>rotate=2</em></li>
+  <li>Para girar 90º en dirección contraria a las agujas del reloj y con flip: <em>rotate=3</em></li>
+</ul>
+
+<p>Ahora ya pueden disfrutar sus videos sin dañar el cuello.</p>
+
+<p>Recuerden que siempre pueden revisar estos y mas parámetros, tanto de FFmpeg, de MEncoder y de otros comandos, usando el comando <em>man</em>:</p>
+
+<pre><code>$ man ffmpeg 
+$ man mencoder
+</code></pre>
+
+<p>Espero les sea útil.</p>
+
+<p>Nos vemos :D</p>
+
+  <footer>
+    <div class="btn-group">
+<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/gnu_linux.html'">GNU/Linux</button>
+<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/videos.html'">Videos</button>
+<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/debian.html'">Debian</button>
+    </div>
+  </footer>
+</article>
       </div>
       <div class="col-md-3">
         <aside>
