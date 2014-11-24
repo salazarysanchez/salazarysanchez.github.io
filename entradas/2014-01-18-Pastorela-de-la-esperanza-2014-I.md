@@ -19,7 +19,7 @@ La obra "Pastorela de la esperanza" se presentará en:
 
 * Auditorio Municipal de San Pedro de las Colonias, Coahuila los dias 11 y 12 de enero del 2014 a las 19:00 horas.
 * Teatro de la Ciudad \"Rogelio Montemayor\"; Matamoros, Coahuila, el día 18 de enero del 2014 a las 19:00 horas.
-* [Teatro Salvador Novo](http://maps.google.com.mx/?ie=UTF8&ll=25.530493,-103.453193&spn=0.001142,0.001725&t=h&z=19); Torreón, Coahuila, el día 19 de enero del 2014 a las 19:00 horas.
+* [Teatro Salvador Novo](http://www.openstreetmap.org/#map=17/25.53003/-103.45253); Torreón, Coahuila, el día 19 de enero del 2014 a las 19:00 horas.
 
 En todas las funciones la entrada será gratuita.
 
