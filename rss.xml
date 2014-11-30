@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Cosas por hacer</title>
+      <link>https://salazarysanchez.github.io/entradas/2014-11-29-cosas-por-hacer.html</link>
+      <description>
+&lt;p&gt;Hace poco ví nuevamente la película &lt;a href=&quot;http://www.imdb.com/title/tt0825232/&quot;&gt;“The bucket list”&lt;/a&gt;; al terminar la película recordé…&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sat, 29 Nov 2014 23:45:00 -0600</pubDate>
+      <dc:date>2014-11-29T23:45:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Aterrizando en un cometa</title>
       <link>https://salazarysanchez.github.io/entradas/2014-11-10-aterrizando-en-un-cometa.html</link>
       <description>
@@ -84,19 +95,6 @@
       <author>Osvaldo</author>
       <pubDate>Sat, 02 Aug 2014 06:39:00 -0500</pubDate>
       <dc:date>2014-08-02T06:39:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>The Internet's Own Boy: The Story of Aaron Swartz</title>
-      <link>https://salazarysanchez.github.io/entradas/2014-07-27-The-Internets-Own-Boy-The-Story-of-Aaron-Swartz.html</link>
-      <description>
-&lt;center&gt;
-&lt;img class=&quot;img-responsive&quot; style=&quot;width:40%;height:auto;margin-right:12px;&quot; src=&quot;2014-07-27-The-Internets-Own-Boy-The-Story-of-Aaron-Swartz/TheInternetsOwnBoyTheStoryofAaronSwartz.jpg&quot; alt=&quot;poster Aaron Swartz&quot; width=&quot;425&quot; height=&quot;350&quot; /&gt;
-&lt;/center&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Sun, 27 Jul 2014 03:04:00 -0500</pubDate>
-      <dc:date>2014-07-27T03:04:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
