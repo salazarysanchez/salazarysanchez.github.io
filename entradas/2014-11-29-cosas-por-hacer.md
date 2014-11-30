@@ -5,7 +5,7 @@ Fecha: 2014-11-29 23:45
 Autor: Osvaldo
 Categorías: Cosas por hacer
 
-Hace poco ví nuevamente la película ["The bucket list"](http://www.imdb.com/title/tt0825232/); al terminar la película recordé...
+Hace poco vi nuevamente la película ["The bucket list"](http://www.imdb.com/title/tt0825232/); al terminar la película recordé...
 
 <!-- break -->
 
@@ -19,17 +19,17 @@ Hace poco ví nuevamente la película ["The bucket list"](http://www.imdb.com/ti
 
 Una frase que repito en mis conferencias es de George Bernard Shaw: "Si tú tienes una manzana y yo tengo una manzana e intercambiamos las manzanas, entonces tanto tú como yo seguiremos teniendo una manzana. Pero si tú tienes una idea y yo tengo una idea e intercambiamos ideas, entonces ambos tendremos dos ideas."
 
-Dicho lo anterior compartire algunas de las cosas que quiero hacer, o tener. Si quieren ayudar a cumplir uno de estos objetivos (ya sea: que lo hagamos entre los dos, que me ayuden a hacerlo, que me oriente como hacerlo al corto, mediano o largo plazo, o bien, con porras :-) ), de antemano se los agradezco.
+Dicho lo anterior compartiré algunas de las cosas que quiero hacer, o tener. Si quieren ayudar a cumplir uno de estos objetivos (ya sea: que lo hagamos entre los dos, que me ayuden a hacerlo, que me oriente como hacerlo al corto, mediano o largo plazo, o bien, con porras :-) ), de antemano se los agradezco.
 
 * Casarme.
-* Dar, por lo menos, una conferencia sobre Software Libre en cada estado de México.
+* Dar, por lo menos, una conferencia sobre [Software Libre](https://es.wikipedia.org/wiki/Software_libre) en cada estado de México.
 * Dar, por lo menos, una conferencia sobre Software Libre fuera del país.
 * Hacer una Maestría.
 * Hacer un Doctorado.
 * Poner mi propia empresa.
 * Volver a dar clases en una Universidad.
-* Realizar investigación cientifica y/o teatral.
-* Tener mi propio observatorio (el cual todos podran usar sin costo alguno).
+* Realizar investigación científica y/o teatral.
+* Tener mi propio observatorio (el cual todos podrán usar sin costo alguno).
 * Viajar al espacio.
 * Poner una sala de lectura.
 * Ser de tal calidad que sea considerado a estar en la Compañía Nacional de Teatro.
@@ -41,6 +41,7 @@ Dicho lo anterior compartire algunas de las cosas que quiero hacer, o tener. Si 
 * Aprender Zapoteco.
 * Montar un mirror de una distribución de GNU/Linux en mi estado.
 * Escribir una obra de teatro.
+* Ayudar a que se retire la vigilancia de la Ley de Telecomunicaciones (Artículo 190).
 
 Ésta lista puede crecer el día de mañana, pero trataré que no disminuya.
 
