@@ -29,9 +29,9 @@ El único inconveniente que le veo es que usa flash player, pero eso lo tratare 
 
 Al término de un periodo estimado de 2 años 4 meses se obtendrá un certificado de bachillerato, obviamente validado por la SEP, con el que se puede continuar estudiando el siguiente nivel: una carrera.
 
-Existen muchas opciones, pero hoy hablaré de una: Universidad Abierta y a Distancia de México (UNADM).
+Existen muchas opciones, pero hoy hablaré de una: Universidad Abierta y a Distancia de México (UnADM).
 
-La [UNADM](http://www.unadmexico.mx/), es una opción educativa de calidad, totalmente a distancia y gratuita. Se ofrecen varias carreras, por mencionar algunas:
+La [UnADM](http://www.unadmexico.mx/), es una opción educativa de calidad, __totalmente a distancia y gratuita__. Se ofrecen varias carreras, por mencionar algunas:
 
 * Desarrollo comunitario
 * Seguridad pública
