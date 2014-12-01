@@ -5,7 +5,7 @@ Fecha: 2014-07-28 11:05
 Autor: Osvaldo
 Categorías: Publicaciones, Bytes Libres
 
-El presente artículo lo envíe para que se publicará en la sección _Bytes Libres_, pero la publicación de la sección se cerró; por lo que la escribo aquí esperando que a alguien le sea útil la información.
+El presente artículo lo envíe para que se publicara en la sección _Bytes Libres_, pero la publicación de la sección se cerró; por lo que la escribo aquí esperando que a alguien le sea útil la información.
 
 <!-- break -->
 
