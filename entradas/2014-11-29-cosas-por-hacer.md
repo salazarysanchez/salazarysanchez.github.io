@@ -40,6 +40,7 @@ Dicho lo anterior compartiré algunas de las cosas que quiero hacer, o tener. Si
 * Aprender Náhuatl.
 * Aprender Zapoteco.
 * Montar un mirror de una distribución de GNU/Linux en mi estado.
+* Tomar curso con ZK.
 * Escribir una obra de teatro.
 * Ayudar a que se retire la vigilancia de la Ley de Telecomunicaciones (Artículo 190).
 
