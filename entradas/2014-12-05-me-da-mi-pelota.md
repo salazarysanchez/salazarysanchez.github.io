@@ -25,7 +25,7 @@ Por eso no me gusta que hoy, cuando algún niño quiebra algo (ventana, maceta, 
 
 Recordé como de niño vimos a varios amigos volar la pelota a una casa que no era la suya y también como pedían la pelota; y algunos dueños no la regresaban y como otros la regresaban desinflada... pero también recuerdo que otros la regresaban bien. Cuando no la regresaban, nos entristecíamos y, después de unas horas, buscábamos otra actividad... o buscábamos otra pelota.
 
-Pero hoy cuando alguien no regresa la pelota a los niños, he visto como gritan insultos y lanzan objetos diversos a la casa en cuestión. Trato de decirles las opciones que usábamos en mis ayeres, pero no escuchan. Y dueño de la casa tampoco. Y la policía que llego por la llamada del dueño da opciones que no son escuchadas. Y los padres de los niños tampoco escuchan.
+Pero hoy cuando alguien no regresa la pelota a los niños, he visto como gritan insultos y lanzan objetos diversos a la casa en cuestión. Trato de decirles las opciones que usábamos en mis ayeres, pero no escuchan. Y el dueño de la casa tampoco. Y la policía que llego por la llamada del dueño da opciones que no son escuchadas. Y los padres de los niños tampoco escuchan.
 
 Nadie escucha.
 
@@ -33,7 +33,7 @@ Por una pelota.
 
 Por una pelota que se pudo usar con toda la fuerza de la juventud en el lugar adecuado, si las plazas o áreas deportivas (y el camino a éstas) estuviera iluminado, para que los niños acudan a ellas a jugar y no afectar a terceros; y así todos estar tranquilos.
 
-Antes, un niño sin pelota en la calle o con pelota pero sin un lugar donde o con quien jugar, es malo.
+Antes, un niño sin pelota en la calle o con pelota pero sin un lugar donde o con quien jugar, era malo.
 
 Hoy, un niño sin pelota en la calle o con pelota pero sin un lugar donde o con quien jugar, sigue siendo malo... o peor.
 
