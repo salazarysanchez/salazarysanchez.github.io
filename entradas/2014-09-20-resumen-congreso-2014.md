@@ -33,4 +33,4 @@ Gracias a todos por su asistencia.
 
 Vive libre, sé libre, usa software libre.
 
-_* Artículo publicado en el sitio del [GULAG el 20 de septiembre del 2014](http://gulag.org.mx/entradas/2014-09-20-resumen-congreso-2014.html)._
+_* Artículo publicado originalmente en el sitio del [GULAG el 20 de septiembre del 2014](http://gulag.org.mx/entradas/2014-09-20-resumen-congreso-2014.html)._
