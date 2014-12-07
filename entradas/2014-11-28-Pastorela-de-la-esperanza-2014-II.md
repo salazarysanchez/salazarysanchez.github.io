@@ -45,3 +45,11 @@ En todas las funciones __la entrada será gratuita__.
 <br />
 
 __Los esperamos :)__
+
+<br />
+
+__Notas:__
+
+* [Siglo de Torreón - 7 de diciembre del 2014](http://www.elsiglodetorreon.com.mx/noticia/1065298.presentan-pastorela-en-el-novo.html)
+
+<br />
