@@ -9,11 +9,7 @@ Hace poco vi nuevamente la película ["The bucket list"](http://www.imdb.com/tit
 
 <!-- break -->
 
-<center>
-<a href="https://www.youtube.com/watch?v=2OUEf5hx9-k">
-<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-11-29-cosas-por-hacer/BucketList.png" alt="The bucket list" width="425" height="350">
-</a>
-</center>
+<iframe width="420" height="315" src="//www.youtube.com/embed/2OUEf5hx9-k" frameborder="0" allowfullscreen></iframe>
 
 ...recordé varias personas que por alguna razón no comparten las ideas o proyectos que tienen, ante el temor de la envidia o del mal de ojo o [mencione la superstición que conozca]: "Si digo esto no se va a realizar", "De inmediato empieza la gente mal vibrosa y no se me cumple nada", entre otras expresiones; o en estos tiempos de copyright, "para que no me roben las ideas".
 
