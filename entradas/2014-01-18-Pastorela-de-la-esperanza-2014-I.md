@@ -28,3 +28,12 @@ En todas las funciones la entrada será gratuita.
 </center>
 
 __Los esperamos :)__
+
+<br />
+
+__Notas:__
+
+* [El Sampetrino - 8 de enero del 2014](http://www.elsampetrino.com/2014/01/invitan-a-sampetrinos-a-disfrutar-de-pastorelas-de-la-esperanza-este-fin-de-semana/)
+* [El Sampetrino - 13 de enero del 2014](http://www.elsampetrino.com/2014/01/con-exito-se-presenta-pastorela-de-la-esperanza-en-san-pedro/)
+
+<br />

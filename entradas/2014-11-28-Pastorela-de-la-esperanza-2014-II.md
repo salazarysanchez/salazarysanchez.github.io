@@ -9,10 +9,16 @@ Ha llegado diciembre y sus posadas... y tamales, y atole y, por supuesto, sus pa
 
 <!-- break -->
 
+<center>
+<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-11-28-Pastorela-de-la-esperanza-2014-II/pastorela-p.jpg" alt="pastores" width="525" height="450">
+</center>
+
+<br />
+
 Y por que el público así lo pide, regresamos con la presentación de la obra __"Pastorela de la esperanza"__ de Miguel Sabido, obra que es presentada bajo la dirección de [Gerardo Moscoso C.](http://companialagaviota.com/gerardo-moscoso/), con la brillante participación de 30 actores y actrices de todas las edades, y con un [servidor](https://salazarysanchez.github.io/contacto/contacto.html) como asistente de dirección.
 
 <center>
-<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-11-28-Pastorela-de-la-esperanza-2014-II/01-pastorela-2014.jpg" alt="pastorela" width="525" height="450">
+<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-11-28-Pastorela-de-la-esperanza-2014-II/pastorela-d.jpg" alt="diablillos" width="525" height="450">
 </center>
 
 <br />
