@@ -101,11 +101,7 @@ En su viaje antes de llegar a el cometa, Rosetta tuvo acercamiento a los asteroi
 
 <br/>
 
-<center>
-<a href="https://www.youtube.com/watch?v=trljrwTbr4w">
-<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-11-10-aterrizando-en-un-cometa/01.png" alt="Deep Impact" width="425" height="350">
-</a>
-</center>
+<iframe width="420" height="315" src="//www.youtube.com/embed/trljrwTbr4w" frameborder="0" allowfullscreen></iframe>
 
 <br/>
 
@@ -113,37 +109,21 @@ Después de aprovechar los impulsos gravitacionales de la Tierra (3) y de Marte 
 
 <br/>
 
-<center>
-<a href="https://www.youtube.com/watch?v=RYVlJKSEsyM">
-<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-11-10-aterrizando-en-un-cometa/02.png" alt="Deep Impact" width="425" height="350">
-</a>
-</center>
+<iframe width="420" height="315" src="//www.youtube.com/embed/RYVlJKSEsyM" frameborder="0" allowfullscreen></iframe>
 
 <br/>
 
-<center>
-<a href="https://www.youtube.com/watch?v=s35Jlwobcqk">
-<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-11-10-aterrizando-en-un-cometa/03.png" alt="Deep Impact" width="425" height="350">
-</a>
-</center>
+<iframe width="420" height="315" src="//www.youtube.com/embed/s35Jlwobcqk" frameborder="0" allowfullscreen></iframe>
 
 <br/>
 
-<center>
-<a href="https://www.youtube.com/watch?v=ZTziL4Y-dbU">
-<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-11-10-aterrizando-en-un-cometa/04.png" alt="Deep Impact" width="425" height="350">
-</a>
-</center>
+<iframe width="420" height="315" src="//www.youtube.com/embed/ZTziL4Y-dbU" frameborder="0" allowfullscreen></iframe>
 
 <br/>
 
 Después, en agosto del 2014, Rosetta llega a 67P/Churyumov-Gerasimenko y empieza a orbitarlo a menos de 200 kilometros del núcleo del cometa, consiguiendo con ello valiosas fotografías las cuales, después de ser estudiadas por los cientificos de la ESA, se logro determinar el lugar de aterrizaje llamado al inicio “Sitio J” pero después de un concurso para buscar nombre, se le nombró [Agilkia](http://blogs.esa.int/rosetta/2014/11/04/hello-agilkia/).
 
-<center>
-<a href="https://www.youtube.com/watch?v=9pTd_JHULBM">
-<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-11-10-aterrizando-en-un-cometa/05.png" alt="Deep Impact" width="425" height="350">
-</a>
-</center>
+<iframe width="420" height="315" src="//www.youtube.com/embed/9pTd_JHULBM" frameborder="0" allowfullscreen></iframe>
 
 El próximo 12 de noviembre [se transmitirá](http://new.livestream.com/ESA/) el aterrizaje de la sonda Philae, mismo que invito a que lo vean y así podrán contárselo a sus amigos y descendientes de un evento que solamente nos imaginábamos o leíamos en los cuentos de ciencia-ficción. Aquí está lo que realizará Philae mientras aterriza:
 
@@ -195,11 +175,7 @@ El lugar de aterrizaje, [Agilkia](http://blogs.esa.int/rosetta/2014/11/04/hello-
 
 Reitero la invitación para que vean el aterrizaje en el cometa 67P/Churyumov-Gerasimenko el [12 de noviembre del 2014](http://new.livestream.com/ESA/)... aunque en lo personal me hubiera gustado que aterrizara el día 13.
 
-<center>
-<a href="https://www.youtube.com/watch?v=AvkPFXdpOQQ">
-<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-11-10-aterrizando-en-un-cometa/06.png" alt="Deep Impact" width="425" height="350">
-</a>
-</center>
+<iframe width="420" height="315" src="//www.youtube.com/embed/AvkPFXdpOQQ" frameborder="0" allowfullscreen></iframe>
 
 <br/>
 
