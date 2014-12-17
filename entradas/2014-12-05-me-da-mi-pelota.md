@@ -49,5 +49,6 @@ Abandono mis recuerdos y pensamientos mientras tomo en mis manos la pelota verde
 
 Lo miro alejarse e integrarse con sus amigos.
 
-Se que la volverán a aventar.
+Sé que la volverán a aventar.
 
+<br />
