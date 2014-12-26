@@ -13,9 +13,9 @@ Primero impartí el taller **"Diseño gráfico con Software Libre"** en donde a 
 
 Aquí una muestra de la creatividad de las muchachas y los muchachos:
 
-<img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="2014-10-16-semana-academica-xx-4/gato.jpg" alt="poster congreso 2014" width="425" height="350">
+<img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="2014-10-16-semana-academica-xx-4/gato.jpg" alt="gatito" width="425" height="350">
 
-<img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="2014-10-16-semana-academica-xx-4/jovenes.jpg" alt="poster congreso 2014" width="425" height="350">
+<img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="2014-10-16-semana-academica-xx-4/jovenes.jpg" alt="jovenes" width="425" height="350">
 
 En la conferencia **"El derecho a la privacidad en la era digital"** expliqué la historia de la criptografía hasta nuestros dias, declaraciones de distintas personalidades y autoridades con que buscan justificar la vigilancia.
 
