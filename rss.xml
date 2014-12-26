@@ -68,6 +68,28 @@
       <dc:date>2014-11-10T20:00:00-06:00</dc:date>
     </item>
     <item>
+      <title>Foro Académico Nacional 2014</title>
+      <link>https://salazarysanchez.github.io/entradas/2014-10-24-foro-academico-nacional-2014.html</link>
+      <description>
+&lt;p&gt;Una conferencia que impartí gustó tanto que fui invitado a darla en el &lt;a href=&quot;http://www.itlalaguna.edu.mx/&quot;&gt;Instituto Tecnólogico de La Laguna&lt;/a&gt;, y como siempre, representando al &lt;a href=&quot;http://gulag.org.mx/&quot;&gt;GULAG&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Fri, 24 Oct 2014 22:00:00 -0500</pubDate>
+      <dc:date>2014-10-24T22:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>Semana Academica XX.4</title>
+      <link>https://salazarysanchez.github.io/entradas/2014-10-16-semana-academica-xx-4.html</link>
+      <description>
+&lt;p&gt;Una vez más fui invitado a dar una conferencia y un taller en la Escuela de Sistemas de la &lt;a href=&quot;http://www.uadec.mx/&quot;&gt;U.A. de C.&lt;/a&gt; Unidad Torreón, todo relacionado con el software libre y siempre representando al &lt;a href=&quot;http://gulag.org.mx/&quot;&gt;GULAG&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Thu, 16 Oct 2014 22:00:00 -0500</pubDate>
+      <dc:date>2014-10-16T22:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Medio pan y un libro</title>
       <link>https://salazarysanchez.github.io/entradas/2014-09-28-medio-pan-y-un-libro.html</link>
       <description>
@@ -77,28 +99,6 @@
       <author>Osvaldo</author>
       <pubDate>Sun, 28 Sep 2014 17:00:00 -0500</pubDate>
       <dc:date>2014-09-28T17:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Reboot</title>
-      <link>https://salazarysanchez.github.io/entradas/2014-09-21-reboot.html</link>
-      <description>
-&lt;p&gt;A partir de éste momento publicaré en mi sitio y &lt;a href=&quot;https://salazarysanchez.github.io&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Sun, 21 Sep 2014 18:00:00 -0500</pubDate>
-      <dc:date>2014-09-21T18:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Publicaciones</title>
-      <link>https://salazarysanchez.github.io/publicaciones/Publicaciones.html</link>
-      <description>
-&lt;p&gt;Me gusta escribir y promover el Software Libre; y para muestra, un botón:&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Sun, 21 Sep 2014 17:59:00 -0500</pubDate>
-      <dc:date>2014-09-21T17:59:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
