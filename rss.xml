@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Nuevo Grupo de Usuarios de GNU/Linux en Torreón</title>
+      <link>https://salazarysanchez.github.io/entradas/2015-01-31-nuevo-gul-en-torreon.html</link>
+      <description>
+&lt;p&gt;Torreón cuenta ya con un nuevo grupo de GNU/Linuxeros, ellos están en la Escuela de Sistemas Unidad Torreón de la Universidad Autónoma de Coahuila.&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sat, 31 Jan 2015 23:00:00 -0600</pubDate>
+      <dc:date>2015-01-31T23:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>La encuesta de Gunnar</title>
       <link>https://salazarysanchez.github.io/entradas/2014-12-09-gunnar-encuesta.html</link>
       <description>
@@ -88,17 +99,6 @@
       <author>Osvaldo</author>
       <pubDate>Thu, 16 Oct 2014 22:00:00 -0500</pubDate>
       <dc:date>2014-10-16T22:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Medio pan y un libro</title>
-      <link>https://salazarysanchez.github.io/entradas/2014-09-28-medio-pan-y-un-libro.html</link>
-      <description>
-&lt;p&gt;Discurso de Federico García Lorca al pueblo de Fuente Vaqueros (Granada) en septiembre de 1931 en la inauguración de la biblioteca de su pueblo:&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Sun, 28 Sep 2014 17:00:00 -0500</pubDate>
-      <dc:date>2014-09-28T17:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
