@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Document Freedom Day 2015 en Torreón</title>
+      <link>https://salazarysanchez.github.io/entradas/2015-03-22-DFD2015.html</link>
+      <description>
+&lt;p&gt;El próximo &lt;strong&gt;25 de marzo&lt;/strong&gt; se celebrará el &lt;strong&gt;Document Freedom Day&lt;/strong&gt; en Torreón con una conferencia en la Escuela de Sistemas de la UAdeC.&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sun, 22 Mar 2015 23:00:00 -0600</pubDate>
+      <dc:date>2015-03-22T23:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Nuevo Grupo de Usuarios de GNU/Linux en Torreón</title>
       <link>https://salazarysanchez.github.io/entradas/2015-01-31-nuevo-gul-en-torreon.html</link>
       <description>
@@ -88,17 +99,6 @@
       <author>Osvaldo</author>
       <pubDate>Fri, 24 Oct 2014 22:00:00 -0500</pubDate>
       <dc:date>2014-10-24T22:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Semana Academica XX.4</title>
-      <link>https://salazarysanchez.github.io/entradas/2014-10-16-semana-academica-xx-4.html</link>
-      <description>
-&lt;p&gt;Una vez más fui invitado a dar una conferencia y un taller en la Escuela de Sistemas de la &lt;a href=&quot;http://www.uadec.mx/&quot;&gt;U.A. de C.&lt;/a&gt; Unidad Torreón, todo relacionado con el software libre y siempre representando al &lt;a href=&quot;http://gulag.org.mx/&quot;&gt;GULAG&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Thu, 16 Oct 2014 22:00:00 -0500</pubDate>
-      <dc:date>2014-10-16T22:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>

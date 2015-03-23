@@ -9,7 +9,7 @@ Torreón cuenta ya con un nuevo grupo de GNU/Linuxeros, ellos están en la Escue
 
 <!-- break -->
 
-El sábado 31 de enero del 2015 asistí para dar la primer conferencia del nuevo grupo organizado por el M. Edgar Lugo y con apoyo de las autoridades de la Escuela.
+El sábado 31 de enero del 2015 asistí, representando al GULAG, para dar la primer conferencia del nuevo grupo organizado por el M. Edgar Lugo y con apoyo de las autoridades de la Escuela.
 
 A pesar de la lluvia y el frío que se tuvo en la mañana de ese día asistieron 20 jóvenes, entre maestras, maestros y estudiantes y fue en la salón que se reservo para ese fin donde inicie mi conferencia: "Conociendo el mundo del Software Libre"
 
