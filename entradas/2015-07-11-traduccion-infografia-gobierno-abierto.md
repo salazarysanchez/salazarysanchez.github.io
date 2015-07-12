@@ -58,3 +58,9 @@ También use el archivo fuente ([SVG](https://es.wikipedia.org/wiki/Scalable_Vec
 Dejo también el link al <a href="2015-07-11-traduccion-infografia-gobierno-abierto/Open_government_-_spanish_1.zip">archivo fuente en español (SVG)</a> en caso de que alguien encuentre un error (el cual espero me lo hagan llegar) o si desean realizar la traducción a otro idioma.
 
 <br />
+
+###Actualización:
+
+Pueden encontrar estos archivos en Wikimedia, en [PNG](https://commons.wikimedia.org/wiki/File:Open_government_-_spanish_1.png) y en [SVG](https://commons.wikimedia.org/wiki/File:Open_government_-_spanish.svg).
+
+<br />
