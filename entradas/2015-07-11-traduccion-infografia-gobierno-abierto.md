@@ -1,4 +1,4 @@
-Traducción infografía (Gobierno Abierto)
+Traducción al español de infografía (Gobierno Abierto)
 ==================================
 
 Fecha: 2015-07-11 22:45
