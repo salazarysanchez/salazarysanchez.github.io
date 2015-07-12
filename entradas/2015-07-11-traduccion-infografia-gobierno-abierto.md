@@ -1,4 +1,4 @@
-Traducción al español de infografía (Gobierno Abierto)
+Traducción al español de diagrama (Gobierno Abierto)
 ==================================
 
 Fecha: 2015-07-11 22:45
@@ -9,7 +9,7 @@ Existen muchas formas de colaborar en los proyectos de código libre, uno de ell
 
 <!-- break -->
 
-Para la traducción al español de la infografía sobre el tema de [Gobierno Abierto](http://www.trcimplan.gob.mx/blog/la-gran-oportunidad-del-gobierno-abierto.html) use las versiones en inglés e italiano.
+Para la traducción al español de el diagrama sobre el tema de [Gobierno Abierto](http://www.trcimplan.gob.mx/blog/la-gran-oportunidad-del-gobierno-abierto.html) use las versiones en inglés e italiano.
 
 También use el archivo fuente ([SVG](https://es.wikipedia.org/wiki/Scalable_Vector_Graphics)) que modifique con [Inkscape](http://inkscape.org/).
 
