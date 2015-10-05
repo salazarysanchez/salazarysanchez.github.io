@@ -9,7 +9,7 @@ Una conferencia que impartí gustó tanto que fui invitado a darla en el [Instit
 
 <!-- break -->
 
-La conferencia en cuestión fue **"El derecho a la privacidad en la era digital"** en la cual expliqué la historia de la criptografía hasta nuestros dias, declaraciones de distintas personalidades y autoridades con que buscan justificar la vigilancia.
+La conferencia en cuestión fue [**"El derecho a la privacidad en la era digital"**](https://github.com/ChicoXXX/Conferencia-DPED) en la cual expliqué la historia de la criptografía hasta nuestros dias, declaraciones de distintas personalidades y autoridades con que buscan justificar la vigilancia.
 
 Traté el tema de los derechos humanos que algunos olvidan.
 
@@ -19,4 +19,7 @@ De igual manera se citaron ejemplos de invasión a el derecho a la privacidad en
 
 Aquí el cortometraje "Remove" que también vimos:
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/GOfRpnzzmVc" frameborder="0" allowfullscreen></iframe>
+<video style="width:400px;height:300px;" controls>
+    <source src="2014-10-16-semana-academica-xx-4/Remove.ogv" type="video/ogg">
+    <p>This is fallback content to display if the browser does not support the video element.</p>
+</video>
