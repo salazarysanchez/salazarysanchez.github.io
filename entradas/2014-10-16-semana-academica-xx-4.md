@@ -17,7 +17,7 @@ Aquí una muestra de la creatividad de las muchachas y los muchachos:
 
 <img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="2014-10-16-semana-academica-xx-4/jovenes.jpg" alt="jovenes" width="425" height="350">
 
-En la conferencia **"El derecho a la privacidad en la era digital"** expliqué la historia de la criptografía hasta nuestros dias, declaraciones de distintas personalidades y autoridades con que buscan justificar la vigilancia.
+En la conferencia [**"El derecho a la privacidad en la era digital"**](https://github.com/ChicoXXX/Conferencia-DPED) expliqué la historia de la criptografía hasta nuestros dias, declaraciones de distintas personalidades y autoridades con que buscan justificar la vigilancia.
 
 También traté el tema de los derechos humanos que algunos olvidan.
 
@@ -27,4 +27,7 @@ De igual manera se citaron ejemplos de invasión a el derecho a la privacidad en
 
 Aquí el cortometraje "Remove" que también vimos:
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/GOfRpnzzmVc" frameborder="0" allowfullscreen></iframe>
+<video style="width:400px;height:300px;" controls>
+    <source src="2014-10-16-semana-academica-xx-4/Remove.ogv" type="video/ogg">
+    <p>This is fallback content to display if the browser does not support the video element.</p>
+</video>
