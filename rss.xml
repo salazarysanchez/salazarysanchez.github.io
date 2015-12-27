@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Editar un ePub desde la terminal</title>
+      <link>https://salazarysanchez.github.io/entradas/2015-12-26-editar-epub-terminal.html</link>
+      <description>
+&lt;p&gt;Después de encontrar un error en un libro en formato ePub, clásico en mí, reporté el error… pero al paso de los días no obtuve respuesta a mi reporte, por lo que decidí corregirlo.&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sat, 26 Dec 2015 21:00:00 -0600</pubDate>
+      <dc:date>2015-12-26T21:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Traducción al español de diagrama (Gobierno Abierto)</title>
       <link>https://salazarysanchez.github.io/entradas/2015-07-11-traduccion-infografia-gobierno-abierto.html</link>
       <description>
@@ -88,21 +99,6 @@
       <author>Osvaldo</author>
       <pubDate>Tue, 09 Dec 2014 12:10:00 -0600</pubDate>
       <dc:date>2014-12-09T12:10:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>¿Me da mi pelota?</title>
-      <link>https://salazarysanchez.github.io/entradas/2014-12-05-me-da-mi-pelota.html</link>
-      <description>
-&lt;p&gt;Se escucha el grito - “¡Ya la volaste, &lt;a href=&quot;http://lema.rae.es/drae/?val=g%C3%BCey&quot;&gt;Güey&lt;/a&gt;!”.&lt;/p&gt;
-
-&lt;p&gt;Un segundo después, se escucha el golpe contra la pared y varias cosas que caen. &lt;/p&gt;
-
-&lt;p&gt;Al siguiente segundo el grito que se escucha es - “¡Tú la pateaste, tú vas!”&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Fri, 05 Dec 2014 22:00:00 -0600</pubDate>
-      <dc:date>2014-12-05T22:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
