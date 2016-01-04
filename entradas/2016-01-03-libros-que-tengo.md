@@ -9,7 +9,7 @@ Aquí estaré publicando los libros impresos que tengo en mi pequeña biblioteca
 
 <!-- break -->
 
-Solamente publicaré los libros impresos que tengo. Si quieren ver cuales me faltan, vean los libros que quiero conseguir.
+Solamente publicaré los libros impresos que tengo. Si quieren ver cuales me faltan, vean los libros que [quiero conseguir](https://salazarysanchez.github.io/entradas/2016-01-03-libros-a-conseguir.html).
 
 En breve indicaré cuando termine de publicar los que tengo, por lo pronto inició con:
 
