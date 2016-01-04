@@ -60,3 +60,5 @@ Algunos de los aquí publicados los he leído por que, o me los prestaron (amigo
 Esta lista aún no esta terminada... y estoy seguro que cuando crea tenerla terminada, surgirá un nuevo libro a conseguir.
 
 Así que, si me van a regalar un libro, ya saben cual(es) comprar ;)
+
+__PD. Se aceptan sugerencias ;)__
