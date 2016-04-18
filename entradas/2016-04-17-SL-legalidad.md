@@ -2,7 +2,7 @@ El Software Libre como aliado de la legalidad en tu empresa
 ===========
 
 Fecha: 2016-04-14 01:00
-Autor: Chico
+Autor: Osvaldo
 Categorías: Conferencias, Software Libre, Free Software
 
 El 18 de abril daré la conferencia **El Software Libre como aliado de la legalidad en tu empresa** en la Escuela de Sistemas, de la UAdeC, en Torreón, Coahuila.
