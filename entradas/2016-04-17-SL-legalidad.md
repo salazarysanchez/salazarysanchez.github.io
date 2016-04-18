@@ -13,6 +13,6 @@ En breve escribiré un resumen de la conferencia.
 
 ### Descargas
 
-* [Presentación](2016-04-17-SL-legalidad/SL_Aliado_Legalidad_Empresa.zip) 3.9MB
+* [Presentación](2016-04-17-SL-legalidad/SLAliadoLegalidad.pdf) 3.9MB
 * [Archivos fuente](2016-04-17-SL-legalidad/SL_Aliado_Legalidad_Empresa.zip) 3.3MB
 
