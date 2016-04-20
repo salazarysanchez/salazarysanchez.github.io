@@ -9,6 +9,19 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>¿Qué les queda a los jóvenes?</title>
+      <link>https://salazarysanchez.github.io/entradas/2016-04-20-Que-les-queda-a-los-jovenes.html</link>
+      <description>
+&lt;p&gt;&lt;strong&gt;¿Qué les queda a los jóvenes?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;¿Qué les queda por probar a los jóvenes &lt;br /&gt; en este mundo de paciencia y asco? &lt;br /&gt; ¿Sólo grafitti? ¿Rock? ¿Escepticismo?&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Wed, 20 Apr 2016 01:00:00 -0500</pubDate>
+      <dc:date>2016-04-20T01:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>El Software Libre como aliado de la legalidad en tu empresa</title>
       <link>https://salazarysanchez.github.io/entradas/2016-04-17-SL-legalidad.html</link>
       <description>
@@ -84,17 +97,6 @@
       <author>Osvaldo</author>
       <pubDate>Sun, 24 May 2015 18:00:00 -0500</pubDate>
       <dc:date>2015-05-24T18:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>FLISOL 2015</title>
-      <link>https://salazarysanchez.github.io/entradas/2015-04-26-flisol-2015.html</link>
-      <description>
-&lt;p&gt;&lt;img src=&quot;2015-04-26-flisol-2015/flisol-2015-poster-0480.jpg&quot; alt=&quot;Poster FLISOL 2015&quot; /&gt;&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Sun, 26 Apr 2015 11:00:00 -0500</pubDate>
-      <dc:date>2015-04-26T11:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
