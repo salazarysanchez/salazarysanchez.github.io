@@ -14,11 +14,11 @@ Me gusta escribir y promover el Software Libre; y para muestra, un botón:
 
 ### [Columna Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html)
 
-**Mayo 2016** [Ranking de universidades en Software Libre](http://www.gulag.org.mx/entradas/2016-07-05-Bits-Libres-RuSL.html)
+**Julio 2016** [Ranking de universidades en Software Libre](https://salazarysanchez.github.io/entradas/2016-07-05-Bits-Libres-RuSL.html)
 
-**Junio 2016** [Datos Abiertos](http://www.gulag.org.mx/entradas/2016-06-14-Bits-Libres-Datos-Abiertos.html)
+**Junio 2016** [Datos Abiertos](https://salazarysanchez.github.io/entradas/2016-06-14-Bits-Libres-Datos-Abiertos.html)
 
-**Julio 2016** [Flisol 2016](http://www.gulag.org.mx/entradas/2016-05-10-Bits-Libres-Flisol-2016.html)
+**Mayo 2016** [Flisol 2016](https://salazarysanchez.github.io/entradas/2016-05-10-Bits-Libres-Flisol-2016.html)
 
 <br />
 
