@@ -14,6 +14,14 @@ Me gusta escribir y promover el Software Libre; y para muestra, un botón:
 
 ### [Columna Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html)
 
+**Noviembre 2016** [Va una idea](https://salazarysanchez.github.io/entradas/2016-11-09-Bits-Libres-Va-Una-Idea.html)
+
+**Octubre 2016** [Soberanía Tecnológica](https://salazarysanchez.github.io/entradas/2016-10-05-Bits-Libres-Soberania-Tecnologica.html)
+
+**Septiembre 2016** [Congreso Software Libre](https://salazarysanchez.github.io/entradas/2016-09-07-Bits-Libres-Congreso-Software-Libre.html)
+
+**Agosto 2016** [Tux en el espacio](https://salazarysanchez.github.io/entradas/2016-08-10-Bits-Libres-Tux-Espacio.html)
+
 **Julio 2016** [Ranking de universidades en Software Libre](https://salazarysanchez.github.io/entradas/2016-07-05-Bits-Libres-RuSL.html)
 
 **Junio 2016** [Datos Abiertos](https://salazarysanchez.github.io/entradas/2016-06-14-Bits-Libres-Datos-Abiertos.html)
