@@ -5,7 +5,7 @@ Fecha: 2014-11-28 10:04
 Autor: Osvaldo
 Categorías: Teatro
 
-Ha llegado diciembre y sus posadas... y tamales, y atole y, por supuesto, sus pastorelas; y en el [Teatro Salvador Novo](http://www.openstreetmap.org/#map=17/25.53003/-103.45253) representaremos para ustedes, sin dilatación ni tardanza una humilde pastorela llamada _"de la esperanza"_.
+Ha llegado diciembre y sus posadas... y tamales, y atole y, por supuesto, sus pastorelas; y en el [Teatro Salvador Novo](http://www.openstreetmap.org/#map=17/25.53003/-103.45253) representaremos para ustedes, sin dilación ni tardanza una humilde pastorela llamada _"de la esperanza"_.
 
 <!-- break -->
 
