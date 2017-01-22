@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Bits Libres - ¿Por qué me gusta Linux?</title>
+      <link>https://salazarysanchez.github.io/entradas/2017-01-21-Bits-Libres-Por-que-me-gusta-linux.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en enero del 2017&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sat, 21 Jan 2017 20:00:00 -0600</pubDate>
+      <dc:date>2017-01-21T20:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Ser nuestros propios Hackers</title>
       <link>https://salazarysanchez.github.io/entradas/2016-12-10-Bits-Libres-Ser-Nuestro-Propio-Hacker.html</link>
       <description>
@@ -89,17 +100,6 @@ los mismos rebaños, las mismas recuas.&lt;/p&gt;
       <author>Osvaldo</author>
       <pubDate>Wed, 20 Jul 2016 17:00:00 -0500</pubDate>
       <dc:date>2016-07-20T17:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Ranking de universidades en Software Libre</title>
-      <link>https://salazarysanchez.github.io/entradas/2016-07-05-Bits-Libres-RuSL.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en julio del 2016&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Tue, 05 Jul 2016 23:30:00 -0500</pubDate>
-      <dc:date>2016-07-05T23:30:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
