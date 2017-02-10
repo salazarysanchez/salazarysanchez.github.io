@@ -14,6 +14,12 @@ Me gusta escribir y promover el Software Libre; y para muestra, un botón:
 
 ### [Columna Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html)
 
+**Febrero 2017** [Impulsar la Innovación (I): Ciencia Ficción](https://salazarysanchez.github.io/entradas/2017-02-10-Bits-Libres-Impulsar-La-Innovacion-Ciencia-Ficcion.html) _Por Chico_
+
+**Enero 2017** [¿Por qué me gusta Linux?](https://salazarysanchez.github.io/entradas/2017-01-21-Bits-Libres-Por-que-me-gusta-linux.html) _Por Chico_
+
+**Diciembre 2016** [Ser nuestros propios Hackers](https://salazarysanchez.github.io/entradas/2016-12-10-Bits-Libres-Ser-Nuestro-Propio-Hacker.html) _Por Chico_
+
 **Noviembre 2016** [Va una idea](https://salazarysanchez.github.io/entradas/2016-11-09-Bits-Libres-Va-Una-Idea.html)
 
 **Octubre 2016** [Soberanía Tecnológica](https://salazarysanchez.github.io/entradas/2016-10-05-Bits-Libres-Soberania-Tecnologica.html)
