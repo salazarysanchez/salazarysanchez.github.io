@@ -9,6 +9,21 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Taller de git y github en la Escuela de Sistemas U.T. de la UAdeC</title>
+      <link>https://salazarysanchez.github.io/entradas/2017-03-08-Taller-Git-Github-UAdeC.html</link>
+      <description>
+&lt;p&gt;Atendiendo a la invitación, acudí el 7 de marzo a dar el taller &lt;strong&gt;“Compartiendo código con Git y Github”&lt;/strong&gt; en la Semana Académica celebrada por la &lt;strong&gt;&lt;a href=&quot;http://www.sistemastorreon.uadec.mx/sistemas/&quot;&gt;Escuela de Sistemas, Unidad Torreón&lt;/a&gt; de la &lt;a href=&quot;http://www.uadec.mx/&quot;&gt;Univeridad Autónoma de Coahuila&lt;/a&gt;&lt;/strong&gt;, como siempre representando al &lt;a href=&quot;http://gulag.org.mx/&quot;&gt;GULAG&lt;/a&gt;.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img class=&quot;img-responsive&quot; style=&quot;width:40%;height:auto;margin-right:12px;&quot; src=&quot;2017-03-08-Taller-Git-Github-UAdeC/git-github.png&quot; alt=&quot;Git-Github&quot; width=&quot;425&quot; height=&quot;350&quot; /&gt;
+&lt;/center&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Wed, 08 Mar 2017 22:00:00 -0600</pubDate>
+      <dc:date>2017-03-08T22:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Impulsar la Innovación (y II): Cambiar el “no” por “¿qué tal si...?”</title>
       <link>https://salazarysanchez.github.io/entradas/2017-03-08-Bits-Libres-Impulsar-La-Innovacion-Cambiar-No-Por-Si.html</link>
       <description>
@@ -84,17 +99,6 @@
       <author>Osvaldo</author>
       <pubDate>Wed, 05 Oct 2016 17:10:00 -0500</pubDate>
       <dc:date>2016-10-05T17:10:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Congreso Software Libre</title>
-      <link>https://salazarysanchez.github.io/entradas/2016-09-07-Bits-Libres-Congreso-Software-Libre.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en septiembre del 2016&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Wed, 07 Sep 2016 18:00:00 -0500</pubDate>
-      <dc:date>2016-09-07T18:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
