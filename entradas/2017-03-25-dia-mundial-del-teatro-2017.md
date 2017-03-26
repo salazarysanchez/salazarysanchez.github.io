@@ -15,6 +15,16 @@ El Día Mundial del Teatro fue creado en 1961 por el [Instituto Internacional de
 
 Desde entonces, cada año el 27 de marzo, el Día Mundial del Teatro se celebra en muchas y variadas formas por los Centros Nacionales del ITI de los cuales en la actualidad hay casi 100 en todo el mundo. Cada año, una figura sobresaliente en el teatro o una persona excepcional en corazón y espíritu de otro campo, es invitada a compartir sus reflexiones sobre el teatro y la armonía internacional. Lo que se conoce como el Mensaje Internacional se traduce en más de 20 idiomas, leído por decenas de miles de espectadores antes de las presentaciones en teatros de todo el mundo.
 
+En años anteriores hemos celebrado el Día Mundial del Teatro con la puesta en escena "El viaje de los cantores" en el Teatro Nazas (2010) y en el Teatro Salvador Novo (2011, 2012, 2013, 2014, 2015 y 2016).
+
+<center>
+<img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="2017-03-25-dia-mundial-del-teatro-2017/Culebra2017.png" alt="Culebra2017" width="425" height="350">
+</center>
+
+<br />
+
+El __lunes 27 de marzo del 2017, a las 19:00 horas, en el Teatro Salvador Novo (C. Galeana y prolongación Colón, en Torreón)__, celebraremos el día Mundial del Teatro con la puesta en escena __"La Culebra (Espectáculo Globalifóbico)"__ dramaturgia y dirección de Gerardo Moscoso C. donde verán a un servidor como asistente de Dirección y a 20 actores en escena.
+
 El Mensaje con motivo del Día Internacional del Teatro de este año, 2017, es redactado por [Isabelle Huppert](https://en.wikipedia.org/wiki/Isabelle_Huppert). El [mensaje](https://www.world-theatre-day.org/pdfs/WTD_Huppert_2017_EN.pdf) es el siguiente:
 
 <br />
