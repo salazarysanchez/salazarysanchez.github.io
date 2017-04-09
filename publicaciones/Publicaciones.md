@@ -14,11 +14,15 @@ Me gusta escribir y promover el Software Libre; y para muestra, un botón:
 
 ### [Columna Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html)
 
-**Febrero 2017** [Impulsar la Innovación (I): Ciencia Ficción](https://salazarysanchez.github.io/entradas/2017-02-10-Bits-Libres-Impulsar-La-Innovacion-Ciencia-Ficcion.html) _Por Chico_
+**Abril 2017** [Software Libre estadístico](https://salazarysanchez.github.io/entradas/2017-04-09-Bits-Libres-Software-Libre-Estadistico.html)
 
-**Enero 2017** [¿Por qué me gusta Linux?](https://salazarysanchez.github.io/entradas/2017-01-21-Bits-Libres-Por-que-me-gusta-linux.html) _Por Chico_
+**Marzo 2017** [Impulsar la Innovación (y II): Cambiar el "no" por "¿qué tal si...?"](https://salazarysanchez.github.io/entradas/2017-03-08-Bits-Libres-Impulsar-La-Innovacion-Cambiar-No-Por-Si.html)
 
-**Diciembre 2016** [Ser nuestros propios Hackers](https://salazarysanchez.github.io/entradas/2016-12-10-Bits-Libres-Ser-Nuestro-Propio-Hacker.html) _Por Chico_
+**Febrero 2017** [Impulsar la Innovación (I): Ciencia Ficción](https://salazarysanchez.github.io/entradas/2017-02-10-Bits-Libres-Impulsar-La-Innovacion-Ciencia-Ficcion.html)
+
+**Enero 2017** [¿Por qué me gusta Linux?](https://salazarysanchez.github.io/entradas/2017-01-21-Bits-Libres-Por-que-me-gusta-linux.html)
+
+**Diciembre 2016** [Ser nuestros propios Hackers](https://salazarysanchez.github.io/entradas/2016-12-10-Bits-Libres-Ser-Nuestro-Propio-Hacker.html)
 
 **Noviembre 2016** [Va una idea](https://salazarysanchez.github.io/entradas/2016-11-09-Bits-Libres-Va-Una-Idea.html)
 

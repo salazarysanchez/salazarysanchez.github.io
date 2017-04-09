@@ -13,7 +13,7 @@ _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-
 
 En el mundo del Software Libre existen muchos programas para estadísticas donde sobresale R y PSPP. Si bien lo ideal es su uso desde la terminal (¿recuerdan esa pantalla de fondo negro y letras verdes?) también existe la interfaz gráfica (GUI, por sus siglas en inglés). 
 
-En el pasado Congreso de Software Libre organizado por el Grupo de Usuarios de GNU/Linux de La Laguna(GULAG) tuvimos la participación de Roberto Andrade Fonseca quien, entre todo el conocimiento que amablemente compartió, incluía el uso del programa estadístico R y su GUI, RStudio.
+En el pasado Congreso de Software Libre organizado por el Grupo de Usuarios de GNU/Linux de La Laguna (GULAG) tuvimos la participación de Roberto Andrade Fonseca quien, entre todo el conocimiento que amablemente compartió, incluía el uso del programa estadístico R y su GUI, RStudio.
 
 En el sitio web [https://guabyboy.blogspot.mx/](https://guabyboy.blogspot.mx/) de nuestro amigo y miembro del GULAG, Gabriel Peña Amozurrutia, podemos encontrar una serie de artículos en los que nos muestra, paso a paso, como hacer cálculos estadísticos y crear el gráfico necesario.
 
