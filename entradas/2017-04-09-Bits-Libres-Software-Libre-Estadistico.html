@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="utf-8">
-  <title>salazarysanchez - Convertir odt/ods en pdf con LibreOffice desde terminal</title>
+  <title>salazarysanchez - Bits Libres - Software Libre estadístico</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="Osvaldo">
@@ -51,105 +51,35 @@
 
 <article>
   <header>
-    <h1>Convertir odt/ods en pdf con LibreOffice desde terminal</h1>
-    <p class="autor-fecha">Por Osvaldo, 2014-04-28 02:48</p>
+    <h1>Bits Libres - Software Libre estadístico</h1>
+    <p class="autor-fecha">Por Osvaldo, 2017-04-09 11:00</p>
   </header>
 
-<p>En <a href="http://www.libreoffice.org/">Libreoffice</a>, desde antes que lo implementaran en Microsoft Office, se puede guardar el documento de trabajo en formato pdf (sigla del inglés portable document format) con solo presionar un icono.</p>
+<p><em>Publicado en la sección <a href="http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html">Bits Libres</a> del periódico <a href="http://periodicoentretodos.com/">Entretodos</a>, en abril del 2017</em></p>
 
-<p>Ayer me surgió la pregunta: <em>“¿Se podrá desde terminal hacer lo mismo?”</em>. La lógica apuntaba a que si se podía.</p>
+<h3 id="software-libre-estadstico">Software Libre estadístico</h3>
 
-<p>Buscando en la terminal, escribí el clásico comando <em>man</em> en la terminal de mi <a href="http://www.debian.org/">Debian</a> (donde X.X es la versión de LibreOffice instalada):</p>
+<p>En el mundo del Software Libre existen muchos programas para estadísticas donde sobresale R y PSPP. Si bien lo ideal es su uso desde la terminal (¿recuerdan esa pantalla de fondo negro y letras verdes?) también existe la interfaz gráfica (GUI, por sus siglas en inglés).</p>
 
-<pre><code>$ man libreofficeX.X</code></pre>
+<p>En el pasado Congreso de Software Libre organizado por el Grupo de Usuarios de GNU/Linux de La Laguna(GULAG) tuvimos la participación de Roberto Andrade Fonseca quien, entre todo el conocimiento que amablemente compartió, incluía el uso del programa estadístico R y su GUI, RStudio.</p>
 
-<p>con lo que obtuve:</p>
+<p>En el sitio web <a href="https://guabyboy.blogspot.mx/">https://guabyboy.blogspot.mx/</a> de nuestro amigo y miembro del GULAG, Gabriel Peña Amozurrutia, podemos encontrar una serie de artículos en los que nos muestra, paso a paso, como hacer cálculos estadísticos y crear el gráfico necesario.</p>
 
-<pre><code>No manual entry for libreofficeX.X
-See 'man 7 undocumented' for help when manual pages are not available.</code></pre>
+<p>Aquí podemos ver la forma en que estos programas han evolucionado y permiten trabajar de manera fácil desde la importación de datos hasta la gráfica final pasando por los cálculos necesarios con un software que cualquier persona puede descargar y usar libremente, en la cantidad de computadoras que se necesite, sin necesidad de pagar una costosa licencia para usar solamente en una computadora.</p>
 
-<p>La lógica me indicó buscar la ayuda, y como no la obtuve por <em>man</em> lo intenté con el siguiente comando:</p>
+<p>El dinero que se paga por la licencia para usar ese otro programa se puede usar para, por ejemplo, o adquirir una computadora más o mejorar instalaciones o la adquisición de libros o capacitaciones o <inserte aquí="" alguna="" necesidad="" de="" su="" casa="" estudios="">.</inserte></p>
 
-<pre><code>$ libreofficeX.X -h</code></pre>
+<p>No por ser libres estos programas son menos eficientes, al contrario.</p>
 
-<p>con lo que obtuve:</p>
-
-<pre><code>LibreOffice X.X 89ea49ddacd9aa532507cbf654f2bb22b1
-
-Usage: soffice [options] [documents...]
-
-Options:
-- -minimized keep startup bitmap minimized.
-- -invisible no startup screen, no default document and no UI.
-- -norestore suppress restart/restore after fatal errors.
-- -quickstart starts the quickstart service
-- -nologo don\'t show startup screen.
-- -nolockcheck  don\'t check for remote instances using the installation
-- -nodefault don\'t start with an empty document
-- -headless like invisible but no userinteraction at all.
-- -help/-h/-? show this message and exit.
-- -version display the version information.
-- -writer create new text document.
-- -calc create new spreadsheet document.
-- -draw create new drawing.
-- -impress create new presentation.
-- -base create new database.
-- -math create new formula.
-- -global create new global document.
-- -web create new HTML document.
--o open documents regardless whether they are templates or not.
--n always open documents as new files (use as template).
-
-- -display &lt;display&gt;
-Specify X-Display to use in Unix/X11 versions.
--p &lt;documents...&gt;
-print the specified documents on the default printer.
-- -pt &lt;printer&gt; &lt;documents...&gt;
-print the specified documents on the specified printer.
-- -view &lt;documents...&gt;
-open the specified documents in viewer-(readonly-)mode.
-- -show &lt;presentation&gt;
-open the specified presentation and start it immediately
-- -accept=&lt;accept-string&gt;
-Specify an UNO connect-string to create an UNO acceptor through which
-other programs can connect to access the API
-- -unaccept=&lt;accept-string&gt;
-Close an acceptor that was created with --accept=&lt;accept-string&gt;
-Use --unnaccept=all to close all open acceptors
-- -infilter=&lt;filter&gt;
-Force an input filter type if possible
-Eg. --infilter=\"Calc Office Open XML\"
-- -convert-to output_file_extension[:output_filter_name] [- -outdir output_dir] files
-Batch convert files.
-If - -outdir is not specified then current working dir is used as output_dir.
-Eg. - -convert-to pdf *.doc
-- -convert-to pdf:writer_pdf_Export - -outdir /home/user *.doc
-- -print-to-file [-printer-name printer_name] [- -outdir output_dir] files
-Batch print files to file.
-If - -outdir is not specified then current working dir is used as output_dir.
-Eg. - -print-to-file *.doc
-- -print-to-file - -printer-name nasty_lowres_printer - -outdir /home/user *.doc
-- -pidfile file
-Store soffice.bin pid to file.
-
-Remaining arguments will be treated as filenames or URLs of documents to open.</code></pre>
-
-<p>Leyendo a detalle lo anterior, use lo siguiente:</p>
-
-<pre><code>$ libreofficeX.X - -headless - -convert-to pdf "Propuesta trabajo.odt"</code></pre>
-
-<p>Con lo que obtuve un documento <em>Propuesta trabajo.pdf</em> de un archivo creado con writer. Buen resultado obtuve al convertir una hoja de calculo a pdf con:</p>
-
-<pre><code>$ libreofficeX.X - -headless - -convert-to pdf "Presupuesto.ods"</code></pre>
-
-<p>No tuve ningun problema en convertir a pdf archivos con extensión .doc, .xls, .docx y .xlsx</p>
-
-<p>Espero les sea de utilidad como lo fue para mi :D</p>
+<p>Seamos libres y perdamos el miedo al cambio.</p>
 
   <footer>
     <div class="btn-group">
-<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/libreoffice.html'">LibreOffice</button>
-<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/debian.html'">Debian</button>
+<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/publicaciones.html'">Publicaciones</button>
+<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/bits_libres.html'">Bits Libres</button>
+<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/gulag.html'">GULAG</button>
+<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/software_libre.html'">Software Libre</button>
+<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/free_software.html'">Free Software</button>
     </div>
   </footer>
 </article>
