@@ -19,7 +19,7 @@ En el sitio web [https://guabyboy.blogspot.mx/](https://guabyboy.blogspot.mx/) d
 
 Aquí podemos ver la forma en que estos programas han evolucionado y permiten trabajar de manera fácil desde la importación de datos hasta la gráfica final pasando por los cálculos necesarios con un software que cualquier persona puede descargar y usar libremente, en la cantidad de computadoras que se necesite, sin necesidad de pagar una costosa licencia para usar solamente en una computadora.
 
-El dinero que se paga por la licencia para usar ese otro programa se puede usar para, por ejemplo, o adquirir una computadora más o mejorar instalaciones o la adquisición de libros o capacitaciones o <inserte aquí alguna necesidad de su casa de estudios>.
+El dinero que se paga por la licencia para usar ese otro programa se puede usar para, por ejemplo, o adquirir una computadora más o mejorar instalaciones o la adquisición de libros o capacitaciones o _< inserte aquí alguna necesidad de su casa de estudios >_.
 
 No por ser libres estos programas son menos eficientes, al contrario. 
 
