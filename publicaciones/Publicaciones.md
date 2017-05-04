@@ -14,6 +14,8 @@ Me gusta escribir y promover el Software Libre; y para muestra, un botón:
 
 ### [Columna Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html)
 
+**Mayo 2017** [[Re] Conociendo nuestros derechos: Derecho a la privacidad](https://salazarysanchez.github.io/entradas/2017-05-03-Bits-Libres-Derecho-A-La-Privacidad.html)
+
 **Abril 2017** [Software Libre estadístico](https://salazarysanchez.github.io/entradas/2017-04-09-Bits-Libres-Software-Libre-Estadistico.html)
 
 **Marzo 2017** [Impulsar la Innovación (y II): Cambiar el "no" por "¿qué tal si...?"](https://salazarysanchez.github.io/entradas/2017-03-08-Bits-Libres-Impulsar-La-Innovacion-Cambiar-No-Por-Si.html)
