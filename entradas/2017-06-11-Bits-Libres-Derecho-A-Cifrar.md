@@ -5,7 +5,7 @@ Fecha: 2017-06-11 23:40
 Autor: Osvaldo
 Categorías: Publicaciones, Bits Libres, GULAG, Software Libre, Free Software
 
-_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en julio del 2017_
+_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en junio del 2017_
 
 <!-- break -->
 
