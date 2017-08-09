@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Bits Libres - Sobre la Neutralidad de la Red</title>
+      <link>https://salazarysanchez.github.io/entradas/2017-08-09-Bits-Libres-Sobre-la-Neutralidad-de-la-Red.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en agosto del 2017&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Wed, 09 Aug 2017 13:30:00 -0500</pubDate>
+      <dc:date>2017-08-09T13:30:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Lean los contratos</title>
       <link>https://salazarysanchez.github.io/entradas/2017-07-08-Bits-Libres-Lean-Los-Contratos.html</link>
       <description>
@@ -88,17 +99,6 @@
       <author>Osvaldo</author>
       <pubDate>Wed, 08 Mar 2017 22:00:00 -0600</pubDate>
       <dc:date>2017-03-08T22:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Impulsar la Innovación (y II): Cambiar el “no” por “¿qué tal si...?”</title>
-      <link>https://salazarysanchez.github.io/entradas/2017-03-08-Bits-Libres-Impulsar-La-Innovacion-Cambiar-No-Por-Si.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en marzo del 2017&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Wed, 08 Mar 2017 11:00:00 -0600</pubDate>
-      <dc:date>2017-03-08T11:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
