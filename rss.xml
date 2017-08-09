@@ -9,6 +9,26 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Convertir de .xls a .csv en Libreoffice desde terminal en GNU/Linux</title>
+      <link>https://salazarysanchez.github.io/entradas/2017-08-09-Convertir-xls-a-csv-libreoffice-terminal-linux.html</link>
+      <description>
+&lt;p&gt;Hace unos días &lt;a href=&quot;https://twitter.com/guabyboy&quot;&gt;Guabyboy&lt;/a&gt; y un servidor, mientras disfrutabamos de un café, hablabamos de &lt;a href=&quot;https://es.wikipedia.org/wiki/Software_libre&quot;&gt;Software Libre&lt;/a&gt; (para variar): como hacer calculos estadisticos con &lt;a href=&quot;https://www.gnu.org/software/pspp/&quot;&gt;PSPP&lt;/a&gt;. Para ello usamos &lt;a href=&quot;https://es.wikipedia.org/wiki/Datos_abiertos&quot;&gt;datos abiertos&lt;/a&gt; que propcorciona el gobierno, y nos encontramos que los porporcionan en .xls, y no en &lt;a href=&quot;https://es.wikipedia.org/wiki/CSV&quot;&gt;.CSV&lt;/a&gt; que sería lo ideal.&lt;/p&gt;
+
+&lt;p&gt;El archivo en cuestión tenía miles de registros (filas y columnas) y al abrirlo en &lt;a href=&quot;http://www.libreoffice.org/&quot;&gt;Libreoffice&lt;/a&gt; para convertirlo a CSV se tardaba mucho, y se tardaba mucho más después de aplicar la orden “Guardar como…” se tardaba aún más… en eso recordé que en &lt;a href=&quot;https://salazarysanchez.github.io/entradas/2014-04-28-Convertir-odt-ods-en-pdf-con-LibreOffice-desde-terminal.html&quot;&gt;LibreOffice también se puede usar la terminal&lt;/a&gt;, por lo que leí la ayuda de LibreOffice desde terminal de mi &lt;a href=&quot;http://www.debian.org/&quot;&gt;Debian&lt;/a&gt; y encontré que usando:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ libreofficeX.X --headless --convert-to csv Archivo_con_miles_de datos.xls&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;donde X.X es la versión de LibreOffice instalada&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;se puede crear el respectivo archivo .csv en un tiempo mucho menor.&lt;/p&gt;
+
+&lt;p&gt;Espero les sea de utilidad como lo fue para nosotros :D&lt;/p&gt;
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Wed, 09 Aug 2017 14:10:00 -0500</pubDate>
+      <dc:date>2017-08-09T14:10:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Sobre la Neutralidad de la Red</title>
       <link>https://salazarysanchez.github.io/entradas/2017-08-09-Bits-Libres-Sobre-la-Neutralidad-de-la-Red.html</link>
       <description>
@@ -84,21 +104,6 @@
       <author>Osvaldo</author>
       <pubDate>Sat, 25 Mar 2017 23:50:00 -0600</pubDate>
       <dc:date>2017-03-25T23:50:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Taller de git y github en la Escuela de Sistemas U.T. de la UAdeC</title>
-      <link>https://salazarysanchez.github.io/entradas/2017-03-08-Taller-Git-Github-UAdeC.html</link>
-      <description>
-&lt;p&gt;Atendiendo a la invitación, acudí el 7 de marzo a dar el taller &lt;strong&gt;“Compartiendo código con Git y Github”&lt;/strong&gt; en la Semana Académica celebrada por la &lt;strong&gt;&lt;a href=&quot;http://www.sistemastorreon.uadec.mx/sistemas/&quot;&gt;Escuela de Sistemas, Unidad Torreón&lt;/a&gt; de la &lt;a href=&quot;http://www.uadec.mx/&quot;&gt;Univeridad Autónoma de Coahuila&lt;/a&gt;&lt;/strong&gt;, como siempre representando al &lt;a href=&quot;http://gulag.org.mx/&quot;&gt;GULAG&lt;/a&gt;.&lt;/p&gt;
-
-&lt;center&gt;
-&lt;img class=&quot;img-responsive&quot; style=&quot;width:40%;height:auto;margin-right:12px;&quot; src=&quot;2017-03-08-Taller-Git-Github-UAdeC/git-github.png&quot; alt=&quot;Git-Github&quot; width=&quot;425&quot; height=&quot;350&quot; /&gt;
-&lt;/center&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Wed, 08 Mar 2017 22:00:00 -0600</pubDate>
-      <dc:date>2017-03-08T22:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
