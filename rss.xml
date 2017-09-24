@@ -9,6 +9,23 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>No te rindas</title>
+      <link>https://salazarysanchez.github.io/entradas/2017-09-23-No-te-rindas.html</link>
+      <description>
+&lt;p&gt;No te rindas, &lt;br /&gt;
+aun estas a tiempo &lt;br /&gt;
+de alcanzar y comenzar de nuevo, &lt;br /&gt;
+aceptar tus sombras, &lt;br /&gt;
+enterrar tus miedos, &lt;br /&gt;
+liberar el lastre, &lt;br /&gt;
+retomar el vuelo. &lt;br /&gt;&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sat, 23 Sep 2017 23:50:00 -0500</pubDate>
+      <dc:date>2017-09-23T23:50:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Convertir de .xls a .csv en Libreoffice desde terminal en GNU/Linux</title>
       <link>https://salazarysanchez.github.io/entradas/2017-08-09-Convertir-xls-a-csv-libreoffice-terminal-linux.html</link>
       <description>
@@ -93,17 +110,6 @@
       <author>Osvaldo</author>
       <pubDate>Sun, 09 Apr 2017 11:00:00 -0500</pubDate>
       <dc:date>2017-04-09T11:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Día Mundial del Teatro 2017</title>
-      <link>https://salazarysanchez.github.io/entradas/2017-03-25-dia-mundial-del-teatro-2017.html</link>
-      <description>
-&lt;p&gt;El Día Mundial del Teatro fue creado en 1961 por el &lt;a href=&quot;http://www.world-theatre-day.org/&quot;&gt;Instituto Internacional del Teatro (ITI)&lt;/a&gt;. Se celebra anualmente el 27 de marzo por los Centros ITI y la comunidad teatral internacional. Varios eventos teatrales nacionales e internacionales son organizados para conmemorar esta ocasión. La característica más importante es la lectura del Mensaje Internacional del Día Mundial del Teatro a través del cual, por invitación del ITI, una figura de talla mundial comparte sus reflexiones sobre el tema del Teatro y una Cultura de Paz. El primer Mensaje Internacional del Día Mundial del Teatro fue escrito por Jean Cocteau (Francia) en 1962.&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Sat, 25 Mar 2017 23:50:00 -0600</pubDate>
-      <dc:date>2017-03-25T23:50:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
