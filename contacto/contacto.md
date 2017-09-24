@@ -21,4 +21,8 @@ y mucho mejor si me escriben usando mi <a href="contacto/0xA9FA005C.asc">llave p
 
 ### Redes sociales
 
-I <a href="http://twitter.com/osvaldo_salazar">Twitter</a> I <a href="http://github.com/ChicoXXX">GitHub</a> I <a href="https://poddery.com/people/77a27da593d0e844">Diaspora*</a> I <a href="https://quitter.se/chico">Quitter</a> I
+I <a href="http://twitter.com/osvaldo_salazar">Twitter</a> I <a href="https://poddery.com/people/77a27da593d0e844">Diaspora*</a> I <a href="https://quitter.se/chico">Quitter</a> I <a href="https://mastodon.social/@chicoxxx">Mastodon</a> I
+
+### Otros medios
+
+I <a href="http://github.com/ChicoXXX">GitHub</a> I 
