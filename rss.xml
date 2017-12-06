@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Bits Libres - Tiempos de compartir</title>
+      <link>https://salazarysanchez.github.io/entradas/2017-12-03-Bits-Libres-Tiempos-de-compartir.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en diciembre del 2017&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sun, 03 Dec 2017 13:00:00 -0600</pubDate>
+      <dc:date>2017-12-03T13:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Tercer ITS San Pedro Contest</title>
       <link>https://salazarysanchez.github.io/entradas/2017-11-10-3er-ITS-San-Pedro-Contest.html</link>
       <description>
@@ -96,26 +107,6 @@ retomar el vuelo. &lt;br /&gt;&lt;/p&gt;
       <author>Osvaldo</author>
       <pubDate>Fri, 01 Sep 2017 13:30:00 -0500</pubDate>
       <dc:date>2017-09-01T13:30:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Convertir de .xls a .csv en Libreoffice desde terminal en GNU/Linux</title>
-      <link>https://salazarysanchez.github.io/entradas/2017-08-09-Convertir-xls-a-csv-libreoffice-terminal-linux.html</link>
-      <description>
-&lt;p&gt;Hace unos días &lt;a href=&quot;https://twitter.com/guabyboy&quot;&gt;Guabyboy&lt;/a&gt; y un servidor, mientras disfrutábamos de un café, hablábamos de &lt;a href=&quot;https://es.wikipedia.org/wiki/Software_libre&quot;&gt;Software Libre&lt;/a&gt; (para variar): como hacer cálculos estadísticos con &lt;a href=&quot;https://www.gnu.org/software/pspp/&quot;&gt;PSPP&lt;/a&gt;. Para ello usamos &lt;a href=&quot;https://es.wikipedia.org/wiki/Datos_abiertos&quot;&gt;datos abiertos&lt;/a&gt; que proporciona el gobierno, y nos encontramos que los proporcionan en .xls, y no en &lt;a href=&quot;https://es.wikipedia.org/wiki/CSV&quot;&gt;.CSV&lt;/a&gt; que sería lo ideal.&lt;/p&gt;
-
-&lt;p&gt;El archivo en cuestión tenía miles de registros (filas y columnas) y al abrirlo en &lt;a href=&quot;http://www.libreoffice.org/&quot;&gt;Libreoffice&lt;/a&gt; para convertirlo a CSV se tardaba mucho, y se tardaba mucho más después de aplicar la orden “Guardar como…” se tardaba aún más… en eso recordé que en &lt;a href=&quot;https://salazarysanchez.github.io/entradas/2014-04-28-Convertir-odt-ods-en-pdf-con-LibreOffice-desde-terminal.html&quot;&gt;LibreOffice también se puede usar la terminal&lt;/a&gt;, por lo que leí la ayuda de LibreOffice desde terminal de mi &lt;a href=&quot;http://www.debian.org/&quot;&gt;Debian&lt;/a&gt; y encontré que usando:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ libreofficeX.X --headless --convert-to csv Archivo_con_miles_de datos.xls&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;donde X.X es la versión de LibreOffice instalada&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;se puede crear el respectivo archivo .csv en un tiempo mucho menor.&lt;/p&gt;
-
-&lt;p&gt;Espero les sea de utilidad como lo fue para nosotros :-D&lt;/p&gt;
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Wed, 09 Aug 2017 14:10:00 -0500</pubDate>
-      <dc:date>2017-08-09T14:10:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
