@@ -5,11 +5,11 @@ Fecha: 2016-01-03 18:10
 Autor: Osvaldo
 Categorías: Libros
 
-Me gusta mucho leer, y siempre estoy buscando libros impresos para hacer crecer mi pequeña biblioteca, sin dejar de lado los digitales.
+Me gusta mucho leer, y siempre estoy buscando libros en formato físico para hacer crecer mi pequeña biblioteca, sin dejar de lado los digitales.
 
 <!-- break -->
 
-Sí, me gustan los libros impresos a pesar de ser informático y tener acceso a los libros digitales. ¿Qué puedo decir? Me gustan, en especial el olor de un libro nuevo.
+Sí, me gustan los libros en formato físico a pesar de ser informático y tener acceso a los libros digitales. ¿Qué puedo decir? Me gustan, en especial el olor de un libro nuevo.
 
 <video style="width:400px;height:300px;" controls>
     <source src="2016-01-03-libros-a-conseguir/Book.mp4" type="video/mp4">
