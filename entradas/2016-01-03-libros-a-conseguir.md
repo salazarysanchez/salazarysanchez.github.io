@@ -46,13 +46,13 @@ Algunos de los aquí publicados los he leído por que, o me los prestaron (amigo
 * __La dama del perrito__ de _Chejov_
 * __La gaviota__ de _Chejov_
 * __La ladrona de libros__ de _Markus Zusak_
-* __La tía Tula__ de _Miguel de Unamuno_
+* <strike>La tía Tula de Miguel de Unamuno</strike>
 * __Las uvas de la ira__ de _John Steinbeck_
 * __Los hermanos Karamazov__ de _Fiodor Dostoyevski_
-* __Los relampagos de agosto__ de _Jorge Ibarguengoitia_
+* <strike>Los relampagos de agosto de Jorge Ibarguengoitia</strike>
 * __Noticias del Imperio__ de _Fernando del Paso_
 * __Pequeño teatro__ de _Ana María Matute_
-* __San Manuel Bueno, martir__ de _Miguel de Unamuno_
+* <strike>San Manuel Bueno, martir de Miguel de Unamuno</strike>
 * __Software libre para una sociedad libre__ de _Richard Stallman_
 * __Voces de Chernobil__ de _Svetlana Alexievich_
 
