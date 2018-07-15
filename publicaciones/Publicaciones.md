@@ -14,6 +14,32 @@ Me gusta escribir y promover el Software Libre; y para muestra, un botón:
 
 ### [Columna Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html)
 
+**Julio 2018** [Vamos ganando, pero...](http://www.gulag.org.mx/entradas/2018-07-01-Bits-Libres-Vamos-ganando-pero.html)
+
+**Junio 2018** [Interesarnos en la política](http://www.gulag.org.mx/entradas/2018-06-02-Bits-Libres-Interesarnos-en-la-politica.html)
+
+**Mayo 2018** [Sistemas de votación](http://www.gulag.org.mx/entradas/2018-05-03-Bits-Libres-Sistemas-de-votacion.html)
+
+**Abril 2018** [Documento libre](http://www.gulag.org.mx/entradas/2018-04-02-Bits-Libres-Documento-libre.html)
+
+**Marzo 2018** [Datos personales por un peso](http://www.gulag.org.mx/entradas/2018-03-04-Bits-Libres-datos-personales-por-un-peso.html)
+
+**Febrero 2018** [Mantener la confianza](http://www.gulag.org.mx/entradas/2018-02-03-Bits-Libres-Mantener-la-confianza.html)
+
+**Enero 2018** [Adaptarse al cambio](http://www.gulag.org.mx/entradas/2018-01-03-Bits-Libres-Adaptarse-al-cambio.html)
+
+**Diciembre 2017** [Tiempos de compartir](http://www.gulag.org.mx/entradas/2017-12-03-Bits-Libres-Tiempos-de-compartir.html)
+
+**Noviembre 2017** [Ahora es más fácil](http://www.gulag.org.mx/entradas/2017-11-02-Bits-Libres-Ahora-es-mas-facil.html)
+
+**Octubre 2017** [Más transparencia, por favor](http://www.gulag.org.mx/entradas/2017-10-01-Bits-Libres-Mas-transparencia-por-favor.html)
+
+**Septiembre 2017** [Beneficios de compartir](http://www.gulag.org.mx/entradas/2017-09-01-Bits-Libres-Beneficios-de-compartir.html)
+
+**Agosto 2017** [Sobre la Neutralidad de la Red](http://www.gulag.org.mx/entradas/2017-08-01-Bits-Libres-Sobre-la-Neutralidad-de-la-Red.html)
+
+**Julio 2017** [Lean los contratos](http://www.gulag.org.mx/entradas/2017-07-08-Bits-Libres-Lean-Los-Contratos.html)
+
 **Junio 2017** [[Re]Conociendo nuestros derechos: Derecho a cifrar](https://salazarysanchez.github.io/entradas/2017-06-11-Bits-Libres-Derecho-A-Cifrar.html)
 
 **Mayo 2017** [[Re] Conociendo nuestros derechos: Derecho a la privacidad](https://salazarysanchez.github.io/entradas/2017-05-03-Bits-Libres-Derecho-A-La-Privacidad.html)
