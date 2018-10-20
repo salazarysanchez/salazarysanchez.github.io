@@ -3,7 +3,7 @@
 
 Fecha: 2017-10-09 23:40
 Autor: Osvaldo
-Categorías: Conferencias, GULAG, Astronomía, Durango
+Categorías: Conferencias, GULAG, Astronomía, Semana Mundial del Espacio, Durango
 
 Con motivo de la celebración de la [Semana Mundial del Espacio](http://aem.gob.mx/sme-mexico/2017/) y con el [Grupo Astronómico de Gómez Palacio](https://facebook.com/pages/Grupo-Astron%C3%B3mico-G%C3%B3mez-Palacio/114277575272066/) como sede en Gómez Palacio, Dgo., impartí, representando al [GULAG](http://www.gulag.org.mx/), la conferencia _"[Software+Hardware] Libre + Astronomía"_ en el CONALEP de Gómez Palacio.
 
