@@ -3,7 +3,7 @@
 
 Fecha: 2014-04-11 16:57
 Autor: Osvaldo
-Categorías: Teatro
+Categorías: Teatro, Coahuila
 
 Desde diciembre del 2009 y hasta septiembre del 2010 se celebraron más de [50 representaciones](http://www.elsiglodetorreon.com.mx/noticia/563058.develan-placa-en-el-teatro-salvador-novo.html) de __"El Viaje de los Cantores", de _Hugo Salcedo___. Para celebrar la función número 50 se tuvo como padrinos a personalidades como la actriz [Luisa Huertas](http://www.ceuvoz.com.mx/LuisaHuertas.php) y [Luz Emilia Aguilar Z.](http://www.excelsior.com.mx/index.php?m=nota&buscado=1&id_nota=697137), grandes personalidades del ambiente teatral mexicano.
 
