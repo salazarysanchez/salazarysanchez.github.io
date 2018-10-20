@@ -3,7 +3,7 @@ Semana Académica en el ITSSPC
 
 Fecha: 2016-10-27 22:00
 Autor: Osvaldo
-Categorías: Conferencias, Software Libre
+Categorías: Conferencias, Software Libre, Coahuila
 
 Atendiendo a la invitación, acudí a dar la conferencia **"El derecho a la privacidad en la era digital"** en la Semana Académica celebrada en las instalaciones del [Instituto Tecnológico Superior de San Pedro de las Colonias](http://www.tecsanpedro.edu.mx/), como siempre representando al [GULAG](http://gulag.org.mx/).
 
