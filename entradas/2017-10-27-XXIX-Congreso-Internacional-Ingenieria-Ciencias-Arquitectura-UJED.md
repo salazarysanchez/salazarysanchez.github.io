@@ -3,7 +3,7 @@ XXIX Congreso Internacional de Ingeniería, Ciencias y Arquitectura
 
 Fecha: 2017-10-27 19:00
 Autor: Osvaldo
-Categorías: Conferencias, GULAG
+Categorías: Conferencias, GULAG, Durango
 
 Del 24 al 26 de octubre la **Facultad de Ingeniería, Ciencias y Arquitectura** de la **Universidad Juárez del Estado de Durango** celebró su **XXIX Congreso Internacional de Ingeniería, Ciencias y Arquitectura**, mismo al que fuí invitado a participar, como siempre representando al [GULAG](http://gulag.org.mx/).
 
