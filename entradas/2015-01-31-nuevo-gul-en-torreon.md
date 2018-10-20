@@ -3,7 +3,7 @@ Nuevo Grupo de Usuarios de GNU/Linux en Torreón
 
 Fecha: 2015-01-31 23:00
 Autor: Osvaldo
-Categorías: Conferencias, GNU/Linux, Software Libre, Free Software
+Categorías: Conferencias, GNU/Linux, Software Libre, Free Software, Coahuila
 
 Torreón cuenta ya con un nuevo grupo de GNU/Linuxeros, ellos están en la Escuela de Sistemas Unidad Torreón de la Universidad Autónoma de Coahuila.
 
