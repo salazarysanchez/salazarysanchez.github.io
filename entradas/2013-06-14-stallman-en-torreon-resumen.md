@@ -3,7 +3,7 @@ Stallman en Torreón - Resumen
 
 Fecha: 2013-06-14 18:54
 Autor: Osvaldo
-Categorías: Richard Stallman, GULAG
+Categorías: Richard Stallman, GULAG, Coahuila
 
 <center>
 <img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2013-06-01-richard-stallman-en-torreon/Congreso2013.jpeg" alt="poster Congreso 2013" width="425" height="350">
