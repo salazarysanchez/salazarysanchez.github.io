@@ -3,7 +3,7 @@ Día Mundial del Teatro 2016
 
 Fecha: 2016-03-27 12:00
 Autor: Osvaldo
-Categorías: Teatro
+Categorías: Teatro, Coahuila
 
 El Día Mundial del Teatro fue creado en 1961 por el [Instituto Internacional del Teatro (ITI)](http://www.world-theatre-day.org/). Se celebra anualmente el 27 de marzo por los Centros ITI y la comunidad teatral internacional. Varios eventos teatrales nacionales e internacionales son organizados para conmemorar esta ocasión. Uno de los más importantes es la circulación del Mensaje Internacional del Día Mundial del Teatro a través del cual, por invitación del ITI, una figura de talla mundial comparte sus reflexiones sobre el tema del Teatro y una Cultura de Paz. El primer Mensaje Internacional del Día Mundial del Teatro fue escrito por Jean Cocteau (Francia) en 1962.
 
