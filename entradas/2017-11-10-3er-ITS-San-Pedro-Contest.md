@@ -3,7 +3,7 @@ Tercer ITS San Pedro Contest
 
 Fecha: 2017-11-01 15:00
 Autor: Osvaldo
-Categorías: Concurso de Programación
+Categorías: Concurso de Programación, Coahuila
 
 Comparto con todos la **Convocatoria** que hace el **[Instituto Tecnológico Superior de San Pedro de Las Colonias](http://www.tecsanpedro.edu.mx/web/)** para participar en el **3er. Concurso de Programación IT San Pedro Contest** a realizarse el **23 y 24 de Noviembre del 2017**, con el objetivo de fomentar la programación de alto nivel entre estudiantes de nivel superior.
 
