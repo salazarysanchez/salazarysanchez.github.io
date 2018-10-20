@@ -3,7 +3,7 @@ Resumen del Congreso de Software Libre 2014
 
 Fecha: 2014-09-20 22:00
 Autor: Osvaldo
-Categorías: GULAG
+Categorías: GULAG, Coahuila
 
 <img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2014-09-13-congreso-2014/Poster-Congreso-2014.png" alt="poster congreso 2014" width="425" height="350">
 
