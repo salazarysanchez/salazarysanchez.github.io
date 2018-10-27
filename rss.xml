@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Derecho a la privacidad en la era digital</title>
+      <link>https://salazarysanchez.github.io/entradas/2018-10-26-Derecho-a-la-privacidad-Tec-SP.html</link>
+      <description>
+&lt;p&gt;Atendiendo a la invitación, acudí a dar la conferencia &lt;strong&gt;“El derecho a la privacidad en la era digital”&lt;/strong&gt; en la Jornada Académica celebrada en las instalaciones del &lt;a href=&quot;http://www.tecsanpedro.edu.mx/&quot;&gt;Instituto Tecnológico Superior de San Pedro de las Colonias&lt;/a&gt;, como siempre representando al &lt;a href=&quot;http://gulag.org.mx/&quot;&gt;GULAG&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Fri, 26 Oct 2018 23:00:00 -0500</pubDate>
+      <dc:date>2018-10-26T23:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Taller Infografía Espacial con Software Libre</title>
       <link>https://salazarysanchez.github.io/entradas/2018-10-05-Infografia-Espacial-con-Software-Libre.html</link>
       <description>
@@ -90,23 +101,6 @@
       <author>Osvaldo</author>
       <pubDate>Thu, 03 May 2018 08:00:00 -0500</pubDate>
       <dc:date>2018-05-03T08:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>FLISOL 2018</title>
-      <link>https://salazarysanchez.github.io/entradas/2018-04-28-flisol.html</link>
-      <description>
-&lt;center&gt;
-&lt;img class=&quot;img-responsive&quot; style=&quot;width:70%;height:auto;margin-right:12px;&quot; src=&quot;2018-04-28-flisol/LogoFLISoL-2018.png&quot; alt=&quot;Logo Flisol 2018&quot; width=&quot;325&quot; height=&quot;250&quot; /&gt;
-&lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Con el objetivo de promover y difundir el uso de Software Libre, el próximo &lt;strong&gt;sábado 28 de abril de 2018&lt;/strong&gt; se llevará a cabo el &lt;strong&gt;&lt;a href=&quot;https://flisol.info/FLISOL2018/Mexico/Torreon&quot;&gt;Festival Latinoamericano de Instalación de Software Libre&lt;/a&gt;&lt;/strong&gt; en el atrio principal de la &lt;strong&gt;Plaza Cuatro Caminos&lt;/strong&gt; ubicado en Blvd. Independencia 1300 Ote. Col.Navarro en &lt;strong&gt;Torreón, Coahuila, México.&lt;/strong&gt;&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Sat, 28 Apr 2018 10:00:00 -0500</pubDate>
-      <dc:date>2018-04-28T10:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>

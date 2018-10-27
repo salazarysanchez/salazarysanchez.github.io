@@ -1,11 +1,11 @@
-**"El derecho a la privacidad en la era digital"**
+Derecho a la privacidad en la era digital
 ==================================
 
 Fecha: 2018-10-26 23:00
 Autor: Osvaldo
 Categorías: Conferencias, Software Libre, Coahuila
 
-Atendiendo a la invitación, acudí a dar la conferencia **"El derecho a la privacidad en la era digital"** en la Jornada Académica celebrada en las instalaciones del [Instituto Tecnológico Superior de San Pedro de las Colonias](http://www.tecsanpedro.edu.mx/), como siempre representando al [GULAG](http://gulag.org.mx/).
+Atendiendo a la invitación, acudí a dar la conferencia **"El derecho a la privacidad en la era digital"** en la Jornada Académica celebrada en las instalaciones del [Instituto Tecnológico Superior de San Pedro de las Colonias](http://www.tecsanpedro.edu.mx/), como siempre, representando al [GULAG](http://gulag.org.mx/).
 
 <!-- break -->
 
