@@ -39,24 +39,19 @@ Podrá registrarse cualquier estudiante de educación superior que pueda comprob
 
 #### Registro:
 
-Los equipos deberán registrarse en la página de internet [http://sistemas.tecsanpedro.edu.mx](http://sistemas.tecsanpedro.edu.mx) antes del 16 de noviembre.
-Los equipos estarán conformados por 3 integrantes y 1 coach.
-Los integrantes no podrán participar en más de 1 equipo y 1 coach puede tener varios equipos.
-_*Limitado a Confirmación_
+Los equipos deberán registrarse en la página de internet [http://sistemas.tecsanpedro.edu.mx](http://sistemas.tecsanpedro.edu.mx) antes del 16 de noviembre.<br />Los equipos estarán conformados por 3 integrantes y 1 coach.<br />Los integrantes no podrán participar en más de 1 equipo y 1 coach puede tener varios equipos.<br />_*Limitado a Confirmación_
 
 <br />
 
 #### Competencia:
 
-El concurso será desarrollado en conjunto con el proyecto URI JUDGE ONLINE de Brasil quien nos proporcionará su plataforma para el desarrollo de la competencia, igualmente los problemas serán manejados por ellos para evitar preferencias entre las universidades participantes.
-Los problemas serán presentados en inglés.
-Los equipos podrán traer solo libros de programación y algoritmos para consulta.
+El concurso será desarrollado en conjunto con el proyecto URI JUDGE ONLINE de Brasil quien nos proporcionará su plataforma para el desarrollo de la competencia, igualmente los problemas serán manejados por ellos para evitar preferencias entre las universidades participantes.<br />Los problemas serán presentados en inglés.<br />Los equipos podrán traer solo libros de programación y algoritmos para consulta.
 
 <br />
 
 #### Premiación:
 
-Se premiarán a los integrantes del primer lugar. Además de diploma de participación a los participantes del concurso.
+Se premiarán a los integrantes del primer lugar.<br />Además de diploma de participación a los participantes del concurso.
 
 <br />
 
@@ -71,13 +66,9 @@ Se premiarán a los integrantes del primer lugar. Además de diploma de particip
 
 #### Contacto y Mayores Informes:
 
-Jefe de División de Ingeniería en Sistemas Computacionales
-Ing. Jose Luis Mota Espeleta
-div.sistemas@tecsanpedro.edu.mx
+Jefe de División de Ingeniería en Sistemas Computacionales.<br />Ing. Jose Luis Mota Espeleta.<br />div.sistemas@tecsanpedro.edu.mx
 
-Presidente de Academia
-MSC. Ulises Martínez Rodríguez
-umr@tecsanpedro.edu.mx
+Presidente de Academia.<br />MSC. Ulises Martínez Rodríguez<br />umr@tecsanpedro.edu.mx
 
 <br />
 
