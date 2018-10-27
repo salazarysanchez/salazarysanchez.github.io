@@ -23,3 +23,5 @@ Aquí el cortometraje "Remove" que también vimos:
     <source src="2014-10-16-semana-academica-xx-4/Remove.ogv" type="video/ogg">
     <p>This is fallback content to display if the browser does not support the video element.</p>
 </video>
+
+Destaco también la unión, alegría y compañerismo que vi entre alumnos, entre maestros y entre maestros-alumnos :-D
