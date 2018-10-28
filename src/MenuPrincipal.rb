@@ -112,6 +112,7 @@ if __FILE__ == $0
     principal.agregar('Presentaciones', 'presentaciones/index.html')
     principal.agregar('Licencias',      'licencias/index.html')
     principal.agregar('Contacto',       'contacto/index.html')
+    principal.agregar('Conferencias',   'conferencias/index.html')
     principal.agregar_derecha('GitHub', 'http://github.com/')
     principal.agregar_derecha('RSS',    'rss.xml')
     puts

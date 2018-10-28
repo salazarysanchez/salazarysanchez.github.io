@@ -55,7 +55,7 @@ class CMS < Imprenta
         @sitio_descripcion               = "Mejoremos el mundo y nuestras vidas un Hack a la vez."
         @sitio_url                       = "https://salazarysanchez.github.io"     # No use diagonal al final
         @autor_por_defecto               = "Osvaldo"                               # El autor por defecto para las publicaciones que no lo tengan definido
-        @publicaciones_directorios       = %w{ entradas publicaciones contacto }   # Los directorios que contenen las publicaciones
+        @publicaciones_directorios       = %w{ entradas publicaciones conferencias contacto }   # Los directorios que contenen las publicaciones
      #~ @publicaciones_etiquetas         = { 'documentacion' => 'Documentación' }  # Si hay que usar una etiqueta diferente para el directorio
         @publicaciones_por_pagina_maximo = 8                                       # Por defecto se ponen 5 publicaciones por página, aquí lo cambiamos a 8
         # Prepare el menu principal
@@ -63,6 +63,7 @@ class CMS < Imprenta
         @menu_principal.sitio_titulo = @sitio_titulo                               # Probé con '<img src="imagenes/gulag_2014_menu.png">' pero falla fuera de la raiz
         @menu_principal.agregar('Entradas',       'entradas/index.html')
         @menu_principal.agregar('Publicaciones',  'publicaciones/index.html')
+        @menu_principal.agregar('Conferencias',   'conferencias/index.html')
         @menu_principal.agregar('Contacto',       'contacto/index.html')
         @menu_principal.agregar_derecha('GitHub', 'https://github.com/salazarysanchez')
 #        @menu_principal.agregar_derecha('RSS',    'http://gulag.org.mx/rss.xml')
