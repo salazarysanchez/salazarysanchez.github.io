@@ -3,13 +3,15 @@ XXIX Congreso Internacional de Ingeniería, Ciencias y Arquitectura
 
 Fecha: 2017-10-27 19:00
 Autor: Osvaldo
-Categorías: Conferencias, GULAG, Durango
+Categorías: Conferencias, Talleres, GULAG, Durango
 
 Del 24 al 26 de octubre la **Facultad de Ingeniería, Ciencias y Arquitectura** de la **Universidad Juárez del Estado de Durango** celebró su **XXIX Congreso Internacional de Ingeniería, Ciencias y Arquitectura**, mismo al que fuí invitado a participar, como siempre representando al [GULAG](http://gulag.org.mx/).
 
 <!-- break -->
 
 <br />
+
+### El taller
 
 <center>
 <img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2017-10-27-XXIX-Congreso-Internacional-Ingeniería-Ciencias-Arquitectura-UJED/Taller-GIT-GITHUB-FICAUJED.png" alt="Git-Github en FICA UJED" width="425" height="350">
@@ -24,6 +26,8 @@ El primer día impartí el taller **"Compartiendo código con Git y Github"**: a
 </center>
 
 <br />
+
+### La conferencia
 
 El 25 de octubre impartí la conferencia **["El derecho a la privacidad en la era digital"](https://github.com/ChicoXXX/Conferencia-DPED)** explicando la historia de la criptografía hasta nuestros dias, declaraciones de distintas personalidades y autoridades con que buscan justificar la vigilancia. También traté el tema de los derechos humanos y las leyes que los defienden, tanto nacionales como internacionales.
 
