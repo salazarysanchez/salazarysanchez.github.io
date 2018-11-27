@@ -7,7 +7,19 @@ Categorías: Libros
 
 Me gusta mucho leer, y siempre estoy buscando libros en formato físico para hacer crecer mi pequeña biblioteca, sin dejar de lado los digitales.
 
+<br />
+
+<center>
+<img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="2016-01-03-libros-a-conseguir/darwin-vegher-638514-unsplash.jpg" alt="Libros" width="425" height="350">
+</center>
+
 <!-- break -->
+
+<center>
+<i>Crédito de imagen: <a href="https://unsplash.com/photos/W_ZYCEUapF0">Darwin Vegher</a> en <a href="https://unsplash.com/">Unsplash</a>.</i>
+</center>
+
+<br />
 
 Sí, me gustan los libros en formato físico a pesar de ser informático y tener acceso a los libros digitales. ¿Qué puedo decir? Me gustan, en especial el olor de un libro nuevo.
 
