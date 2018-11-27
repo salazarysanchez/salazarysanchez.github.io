@@ -55,6 +55,21 @@ Algunos de los aquí publicados los he leído por que, o me los prestaron (amigo
 * <strike>San Manuel Bueno, martir de Miguel de Unamuno</strike>
 * __Software libre para una sociedad libre__ de _Richard Stallman_
 * __Voces de Chernobil__ de _Svetlana Alexievich_
+* __Fire in the Valley: The Making of the Personal Computer__ de _Paul Freiberger y‎ Michael Swaine_
+* __The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution__ de _Walter Isaacson_
+* __Capitalism Without Capital: The Rise of the Intangible Economy__ de _Jonathan Haskel y‎ Stian Westlake_
+* __First Man: The Life of Neil A. Armstrong__ de _James R. Hansen_
+* __The Darkest Dark__ de _Chris Hadfield_
+* __You Are Here: Around the World in 92 Minutes__ de _Chris Hadfield_
+* __Endurance: A Year in Space, a Lifetime of Discovery__ de _Scott Kelly_
+* __Infinite Wonder: An Astronaut's Photographs from a Year in Space__ de _Scott Kelly_
+* __An Astronaut's Guide to Life on Earth__ de _Chris Hadfield_
+* __La Mente Nueva Del Emperador__ de _Roger Penrose_
+* __Arrugas en el tiempo__ de _por George Smoot y Keay Davidson_
+* __Modern Classical Physics: Optics, Fluids, Plasmas, Elasticity, Relativity, and Statistical Physics__ de _Kip S. Thorne y‎ Roger D. Blandford_
+* __Gravitation__ de _Charles W Misner y Kip S Thorne y John Archibald Wheeler_
+* __Agujeros Negros Y Tiempo Curvo. El Escandaloso Legado De Einstein__ de _Kip S. Thorne_
+* __Flying to the Moon: An Astronaut's Story__ de _Michael Collins_
 
 <br />
 
