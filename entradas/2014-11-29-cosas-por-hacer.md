@@ -19,7 +19,7 @@ Dicho lo anterior compartiré algunas de las cosas que quiero hacer, o tener. Si
 
 * Casarme.
 * Viajar a Chiapas.
-* Dar, por lo menos, una conferencia sobre [Software Libre](https://es.wikipedia.org/wiki/Software_libre) en cada estado de México. Hasta el momento he estado en [Coahuila](http://www.salazarysanchez.com/categorias/coahuila.html) y [Durango](http://www.salazarysanchez.com/categorias/durango.html).
+* Dar, por lo menos, una conferencia sobre [Software Libre](https://es.wikipedia.org/wiki/Software_libre) en cada estado de México. Hasta el momento he estado en [Coahuila](http://www.salazarysanchez.com/categorias/coahuila.html), [Durango](http://www.salazarysanchez.com/categorias/durango.html) y [San Luis Potosí](http://www.salazarysanchez.com/categorias/san_luis_potosi.html).
 * Dar, por lo menos, una conferencia sobre Software Libre fuera del país.
 * Hacer una Maestría.
 * Hacer un Doctorado.
