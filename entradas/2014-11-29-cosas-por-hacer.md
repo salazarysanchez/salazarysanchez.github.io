@@ -40,6 +40,9 @@ Dicho lo anterior compartiré algunas de las cosas que quiero hacer, o tener. Si
 * Tomar curso con ZK.
 * Escribir una obra de teatro.
 * Ayudar a que se retire la vigilancia de la Ley de Telecomunicaciones (Artículo 190).
+* Ayudar a que se autorice la Ley de Software Libre en Torreón.
+* Ayudar a que se autorice la Ley de Software Libre en Coahuila.
+* Ayudar a que se autorice la Ley de Software Libre en México.
 * Ver las pinturas y grabados de la Cueva de Altamira.
 
 Ésta lista puede crecer el día de mañana, pero trataré que no disminuya.
