@@ -3,7 +3,7 @@ Medio pan y un libro
 
 Fecha: 2014-09-28 17:00
 Autor: Osvaldo
-Categorías: Poetas y poesía
+Categorías: Poetas y poesía, Libros
 
 Discurso de Federico García Lorca al pueblo de Fuente Vaqueros (Granada) en septiembre de 1931 en la inauguración de la biblioteca de su pueblo:
 
