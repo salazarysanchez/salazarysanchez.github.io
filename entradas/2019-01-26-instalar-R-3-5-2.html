@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="utf-8">
-  <title>salazarysanchez - Categoría Comunidad</title>
+  <title>salazarysanchez - Instalar R 3.5.2 en Debian 9 (Stretch)</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="Osvaldo">
@@ -50,21 +50,67 @@
                 <p>Mejoremos el mundo y nuestras vidas un Hack a la vez.</p>
             </div>
 
-<header><h1>Categoría Comunidad</h1></header>
-<section>
-  <h3><a href="../entradas/2014-12-05-me-da-mi-pelota.html">¿Me da mi pelota?</a></h3>
-  <blockquote>
+<article>
+  <header>
+    <h1>Instalar R 3.5.2 en Debian 9 (Stretch)</h1>
+    <p class="autor-fecha">Por Osvaldo, 2019-01-26 01:00</p>
+  </header>
 
-<p>Se escucha el grito - “¡Ya la volaste, <a href="http://lema.rae.es/drae/?val=g%C3%BCey">Güey</a>!”.</p>
+<p>Estas son las instrucciones para instalar R en su versión 3.5.2 en Debian Stretch.</p>
 
-<p>Un segundo después, se escucha el golpe contra la pared y varias cosas que caen.</p>
+<p>Más adelante desarrollaré mejor el artículo.</p>
 
-<p>Al siguiente segundo el grito que se escucha es - “¡Tú la pateaste, tú vas!”</p>
+<p>Primero editamos /etc/apt/sources.list con nuestro editor favorito y agregamos:</p>
 
+<pre><code># R-CRAN
+deb http://cran.cnr.berkeley.edu/bin/linux/debian stretch-cran35/
+</code></pre>
 
-  </blockquote>
-  <button class="btn btn-default btn-sm btn-publicacion-completa" type="button" onclick="location.href='../entradas/2014-12-05-me-da-mi-pelota.html'">Publicación completa...</button>
-</section>
+<p>Nota: Recordemos que ya antes dicho archivo tuvo que tener escrito:</p>
+
+<pre><code># Debian Main
+deb http://deb.debian.org/debian stretch main
+</code></pre>
+
+<p>Grabamos y salimos de /etc/apt/sources.list.</p>
+
+<p>Ahora ejecutamos:</p>
+
+<pre><code>#apt install dirmngr
+</code></pre>
+
+<p>Y después:</p>
+
+<pre><code>#apt-key adv --keyserver keys.gnupg.net --recv-key 'E19F5F87128899B192B1A2C2AD5F960A256A04AF'
+</code></pre>
+
+<p>Ahora actualizamos:</p>
+
+<pre><code>#apt-get update
+</code></pre>
+
+<p>… e instalamos R:</p>
+
+<pre><code>#apt-get install r-base
+</code></pre>
+
+<p>Una vez terminada la instalación revisamos que sea la versión última (a la fecha, es la 3.5.2) con:</p>
+
+<pre><code>$R --version
+</code></pre>
+
+<p>Espero les sea útil.</p>
+
+<p>Nos vemos :D</p>
+
+  <footer>
+    <div class="btn-group">
+<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/gnu_linux.html'">GNU/Linux</button>
+<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/debian.html'">Debian</button>
+<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/r.html'">R</button>
+    </div>
+  </footer>
+</article>
       </div>
       <div class="col-md-3">
         <aside>
