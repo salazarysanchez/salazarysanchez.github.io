@@ -56,25 +56,33 @@
     <p class="autor-fecha">Por Osvaldo, 2019-01-26 01:00</p>
   </header>
 
-<p>Estas son las instrucciones para instalar R en su versión 3.5.2 en Debian Stretch.</p>
+<p>En fechas recientes, por razones de un interesante curso, necesité instalar <a href="https://en.wikipedia.org/wiki/R_(programming_language)">R</a> en su versión más reciente, 3.5.2, en mi <a href="https://www.debian.org/">Debian</a> <a href="https://wiki.debian.org/DebianStretch">Stretch</a>.</p>
 
-<p>Más adelante desarrollaré mejor el artículo.</p>
+<center>
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2019-01-26-instalar-R-3-5-2/R_logo.png" alt="Logo de R" width="250" height="250" />
+</center>
 
-<p>Primero editamos /etc/apt/sources.list con nuestro editor favorito y agregamos:</p>
+<p><br /></p>
 
-<pre><code># R-CRAN
-deb http://cran.cnr.berkeley.edu/bin/linux/debian stretch-cran35/
-</code></pre>
-
-<p>Nota: Recordemos que ya antes dicho archivo tuvo que tener escrito:</p>
+<p>Cuando instalamos Debian en nuestro archivo <em>/etc/apt/sources.list</em> debe estar la siguiente línea (y si no está, la agregamos):</p>
 
 <pre><code># Debian Main
 deb http://deb.debian.org/debian stretch main
 </code></pre>
 
-<p>Grabamos y salimos de /etc/apt/sources.list.</p>
+<p>Podemos visitar el <a href="https://cran.r-project.org/">sitio oficial de R</a> y seguir las instrucciones para <a href="https://cran.r-project.org/bin/linux/">nuestra distribución</a>; aquí resumiré las que se refieren a <a href="https://cran.r-project.org/bin/linux/debian/">Debian</a>.</p>
 
-<p>Ahora ejecutamos:</p>
+<p>Primero editamos <em>/etc/apt/sources.list</em> con nuestro editor favorito y agregamos:</p>
+
+<pre><code># R-CRAN
+deb http://cran.cnr.berkeley.edu/bin/linux/debian stretch-cran35/
+</code></pre>
+
+<p>El anterior repositorio lo podemos cambiar por cualquiera de los listados <a href="http://cran.r-project.org/mirrors.html">aquí</a>.</p>
+
+<p>Grabamos y salimos de <em>/etc/apt/sources.list</em>.</p>
+
+<p>Ahora, para bajar las credenciales, ejecutamos:</p>
 
 <pre><code>#apt install dirmngr
 </code></pre>
@@ -84,7 +92,7 @@ deb http://deb.debian.org/debian stretch main
 <pre><code>#apt-key adv --keyserver keys.gnupg.net --recv-key 'E19F5F87128899B192B1A2C2AD5F960A256A04AF'
 </code></pre>
 
-<p>Ahora actualizamos:</p>
+<p>Ahora actualizamos nuestro Debian:</p>
 
 <pre><code>#apt-get update
 </code></pre>
@@ -94,14 +102,14 @@ deb http://deb.debian.org/debian stretch main
 <pre><code>#apt-get install r-base
 </code></pre>
 
-<p>Una vez terminada la instalación revisamos que sea la versión última (a la fecha, es la 3.5.2) con:</p>
+<p>Una vez terminada la instalación revisamos que sea la última versión (3.5.2 en nuestro caso) con:</p>
 
 <pre><code>$R --version
 </code></pre>
 
 <p>Espero les sea útil.</p>
 
-<p>Nos vemos :D</p>
+<p>Nos vemos :-D</p>
 
   <footer>
     <div class="btn-group">

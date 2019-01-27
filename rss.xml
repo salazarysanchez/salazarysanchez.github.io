@@ -12,9 +12,11 @@
       <title>Instalar R 3.5.2 en Debian 9 (Stretch)</title>
       <link>https://salazarysanchez.github.io/entradas/2019-01-26-instalar-R-3-5-2.html</link>
       <description>
-&lt;p&gt;Estas son las instrucciones para instalar R en su versión 3.5.2 en Debian Stretch.&lt;/p&gt;
+&lt;p&gt;En fechas recientes, por razones de un interesante curso, necesité instalar &lt;a href=&quot;https://en.wikipedia.org/wiki/R_(programming_language)&quot;&gt;R&lt;/a&gt; en su versión más reciente, 3.5.2, en mi &lt;a href=&quot;https://www.debian.org/&quot;&gt;Debian&lt;/a&gt; &lt;a href=&quot;https://wiki.debian.org/DebianStretch&quot;&gt;Stretch&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Más adelante desarrollaré mejor el artículo.&lt;/p&gt;
+&lt;center&gt;
+&lt;img class=&quot;img-responsive&quot; style=&quot;width:50%;height:auto;margin-right:12px;&quot; src=&quot;2019-01-26-instalar-R-3-5-2/R_logo.png&quot; alt=&quot;Logo de R&quot; width=&quot;250&quot; height=&quot;250&quot; /&gt;
+&lt;/center&gt;
 
 </description>
       <author>Osvaldo</author>
