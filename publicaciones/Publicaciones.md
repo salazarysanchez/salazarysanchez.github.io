@@ -14,6 +14,18 @@ Me gusta escribir y promover el Software Libre; y para muestra, un botón:
 
 ### [Columna Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html)
 
+**Enero 2019** [Trabajemos con transparencia](http://www.gulag.org.mx/entradas/2019-01-01-Bits-Libres-Trabajemos-con-transparencia.html)
+
+**Diciembre 2018** [Compartiendo lo mejor de nosotros](http://www.gulag.org.mx/entradas/2018-12-01-Bits-Libres-Compartiendo-lo-mejor-de-nosotros.html)
+
+**Noviembre 2018** [Resistencia al cambio](http://www.salazarysanchez.com/entradas/2018-11-01-Bits-Libres-Resistencia-al-cambio.html)
+
+**Octubre 2018** [Más mujeres en TICs](http://www.salazarysanchez.com/entradas/2018-10-01-Bits-Libres-Mas-Mujeres-en-TICs.html)
+
+**Septiembre 2018** [Feliz cumpleaños](http://www.salazarysanchez.com/entradas/2018-09-01-Bits-Libres-Feliz-Cumpleanos.html)
+
+**Agosto 2018** [Migración](http://www.gulag.org.mx/entradas/2018-08-01-Bits-Libres-Migracion.html)
+
 **Julio 2018** [Vamos ganando, pero...](http://www.gulag.org.mx/entradas/2018-07-01-Bits-Libres-Vamos-ganando-pero.html)
 
 **Junio 2018** [Interesarnos en la política](http://www.gulag.org.mx/entradas/2018-06-02-Bits-Libres-Interesarnos-en-la-politica.html)
