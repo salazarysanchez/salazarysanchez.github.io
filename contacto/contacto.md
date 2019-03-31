@@ -19,10 +19,15 @@ Escribanme a
 <img class="img-responsive" style="margin-left" src="contacto/Correo02.png">
 y mucho mejor si me escriben usando mi <a href="contacto/0xA9FA005C.asc">llave pública</a>.
 
-### Redes sociales
+### Redes sociales libres
 
-I <a href="http://twitter.com/osvaldo_salazar">Twitter</a> I <a href="https://poddery.com/people/77a27da593d0e844">Diaspora*</a> I <a href="https://quitter.es/chicoxxx">Quitter</a> I <a href="https://mastodon.social/@chicoxxx">Mastodon</a> I
+I <a href="https://poddery.com/people/77a27da593d0e844">Diaspora*</a> I <a href="https://quitter.es/chicoxxx">Quitter</a> I <a href="https://mastodon.social/@chicoxxx">Mastodon</a> I
+
+### Más redes sociales
+
+I <a href="http://twitter.com/osvaldo_salazar">Twitter</a> I <a href="https://www.instagram.com/osvaldorsalazar/">Instagram</a> I
 
 ### Otros medios
 
-I <a href="http://github.com/ChicoXXX">GitHub</a> I 
+I <a href="http://github.com/ChicoXXX">GitHub</a> I <a href="https://gitlab.com/ChicoXXX">GitLab</a> I 
+
