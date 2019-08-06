@@ -1,7 +1,7 @@
 Bits Libres - Mujer y la Niña en la Ciencia
 ==================================
 
-Fecha: 2019-02-01 8:00
+Fecha: 2019-03-01 8:00
 Autor: Osvaldo
 Categorías: Publicaciones, Bits Libres, GULAG, Software Libre, Free Software
 

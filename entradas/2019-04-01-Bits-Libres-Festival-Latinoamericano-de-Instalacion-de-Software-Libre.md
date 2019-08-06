@@ -1,7 +1,7 @@
 Bits Libres - Festival Latinoamericano de Instalación de Software Libre
 ==================================
 
-Fecha: 2019-02-01 8:00
+Fecha: 2019-04-01 8:00
 Autor: Osvaldo
 Categorías: Publicaciones, Bits Libres, GULAG, Software Libre, Free Software
 
