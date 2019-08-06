@@ -20,6 +20,17 @@
       <dc:date>2019-05-01T08:00:00-05:00</dc:date>
     </item>
     <item>
+      <title>Bits Libres - De eso se trata</title>
+      <link>https://salazarysanchez.github.io/entradas/2019-02-01-Bits-Libres-De-eso-se-trata.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.com/&quot;&gt;Entretodos&lt;/a&gt;, en febrero del 2019&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Fri, 01 Feb 2019 08:00:00 -0600</pubDate>
+      <dc:date>2019-02-01T08:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Instalar R 3.5.2 en Debian 9 (Stretch)</title>
       <link>https://salazarysanchez.github.io/entradas/2019-01-26-instalar-R-3-5-2.html</link>
       <description>
@@ -94,17 +105,6 @@
       <author>Osvaldo</author>
       <pubDate>Thu, 01 Nov 2018 08:00:00 -0600</pubDate>
       <dc:date>2018-11-01T08:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>4o Concurso de Programación DEL ITS San Pedro Contest</title>
-      <link>https://salazarysanchez.github.io/entradas/2018-10-27-ITS-San-Pedro-Contest-2018.html</link>
-      <description>
-&lt;p&gt;Comparto con todos la &lt;strong&gt;Convocatoria&lt;/strong&gt; que hace el &lt;strong&gt;&lt;a href=&quot;http://www.tecsanpedro.edu.mx/web/&quot;&gt;Instituto Tecnológico Superior de San Pedro de Las Colonias&lt;/a&gt;&lt;/strong&gt; para participar en el &lt;strong&gt;4o Concurso de Programación IT San Pedro Contest&lt;/strong&gt; a realizarse el &lt;strong&gt;23 de Noviembre del 2018&lt;/strong&gt;, con el objetivo de fomentar la programación de alto nivel entre estudiantes de nivel superior.&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Sat, 27 Oct 2018 01:00:00 -0500</pubDate>
-      <dc:date>2018-10-27T01:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
