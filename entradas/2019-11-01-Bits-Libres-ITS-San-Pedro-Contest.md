@@ -3,7 +3,7 @@ Bits Libres - ITS San Pedro Contest
 
 Fecha: 2019-11-01 8:00
 Autor: Osvaldo
-Categorías: Publicaciones, Bits Libres, GULAG, Software Libre, Free Software
+Categorías: Publicaciones, Bits Libres, GULAG, Software Libre, Free Software, Coahuila
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.com/), en noviembre del 2019_
 
