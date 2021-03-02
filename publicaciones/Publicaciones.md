@@ -7,9 +7,6 @@ Categorías: Publicaciones
 
 Me gusta escribir y promover el Software Libre; y para muestra, un botón:
 
-<!-- break -->
-<br />
-
 ## Entretodos
 
 ### [Columna Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html)
