@@ -17,11 +17,11 @@ Estoy a su servicio si requieren una asesoría, plática, [conferencia](https://
 
 Escribanme a ![osvaldo at cryptolab dot net](contacto/Correo02.png) y mucho mejor si me escriben usando mi [llave pública](contacto/0xA9FA005C.asc).
 
-### Redes sociales libres
+### Redes libres
 
-I [Diaspora*](https://poddery.com/people/77a27da593d0e844) I [Mastodon](https://mastodon.social/@chicoxxx) I
+I [Diaspora*](https://poddery.com/people/77a27da593d0e844) I [Mastodon](https://mastodon.social/@chicoxxx) I [PeerTube](https://video.hardlimit.com/accounts/chico) I [Fediverse.tv](https://fediverse.tv/accounts/chico/video-channels) I
 
-### Más redes sociales
+### Redes no tan libres
 
 I [Twitter](https://twitter.com/osvaldo_salazar) I [Instagram](https://www.instagram.com/osvaldorsalazar/) I [medium](https://medium.com/@chicoxxx) I
 
