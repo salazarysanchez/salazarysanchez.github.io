@@ -20,6 +20,17 @@
       <dc:date>2021-05-01T08:00:00-05:00</dc:date>
     </item>
     <item>
+      <title>Flisol 2021: Transmisión desde la Comarca Lagunera y Taller en Ibagué</title>
+      <link>https://salazarysanchez.github.io/entradas/2021-04-24-Flisol-2021-Transmision-Comarca-Lagunera-Taller-Ibague.html</link>
+      <description>
+&lt;p&gt;El 24 de abril celebramos el &lt;strong&gt;&lt;a href=&quot;https://flisol.info/FLISOL2021/Mexico/Torreon?highlight=%28%5CbCategoryCity%5Cb%29&quot;&gt;Festival Latinoamericano de Instalación de Software Libre&lt;/a&gt;&lt;/strong&gt; desde la Comarca Lagunera en modalidad &lt;strong&gt;on line&lt;/strong&gt;.&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sat, 24 Apr 2021 15:00:00 -0500</pubDate>
+      <dc:date>2021-04-24T15:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Instalemos Software Libre</title>
       <link>https://salazarysanchez.github.io/entradas/2021-04-01-Bits-Libres-Instalemos-Software-Libre.html</link>
       <description>
@@ -89,21 +100,6 @@
       <author>Osvaldo</author>
       <pubDate>Sun, 16 Aug 2020 16:30:00 -0500</pubDate>
       <dc:date>2020-08-16T16:30:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Videoconferencia: El Software Libre como aliado de la legalidad en tu empresa</title>
-      <link>https://salazarysanchez.github.io/entradas/2020-08-14-SL-legalidad.html</link>
-      <description>
-&lt;p&gt;El 14 de agosto impartí la videoconferencia &lt;strong&gt;El Software Libre como aliado de la legalidad en tu empresa&lt;/strong&gt; en la Universidad Tecnológica de Oriental en Puebla.&lt;/p&gt;
-
-&lt;center&gt;
-&lt;img class=&quot;img-responsive&quot; style=&quot;width:40%;height:auto;margin-right:12px;&quot; src=&quot;2020-08-14-SL-legalidad/SL-OrientalPuebla.jpeg&quot; alt=&quot;UT Oriental&quot; width=&quot;425&quot; height=&quot;350&quot; /&gt;
-&lt;/center&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Fri, 14 Aug 2020 16:00:00 -0500</pubDate>
-      <dc:date>2020-08-14T16:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
