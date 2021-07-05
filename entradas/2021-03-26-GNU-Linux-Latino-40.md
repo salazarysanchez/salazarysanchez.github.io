@@ -3,7 +3,7 @@ Estamos en el meetup "GNU Linux Latino"
 
 Fecha: 2021-03-26 21:30
 Autor: Osvaldo
-Categorías: Meetup, Software Libre
+Categorías: Meetup, Software Libre, Entrevista
 
 En esta ocasión participé en la edición 40 del meetup "GNU Linux Latino" con el tema "Promoción y divulgación de Software Libre".
 
