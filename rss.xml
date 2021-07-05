@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Bits Libres - Normalidad</title>
+      <link>https://salazarysanchez.github.io/entradas/2021-06-01-Bits-Libres-Normalidad.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.mx/version-impresa/&quot;&gt;Entretodos&lt;/a&gt;, en junio del 2021&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Tue, 01 Jun 2021 08:00:00 -0500</pubDate>
+      <dc:date>2021-06-01T08:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Una gran colaboración</title>
       <link>https://salazarysanchez.github.io/entradas/2021-05-01-Bits-Libres-Una-gran-colaboracion.html</link>
       <description>
@@ -87,19 +98,6 @@
       <author>Osvaldo</author>
       <pubDate>Tue, 01 Dec 2020 08:00:00 -0600</pubDate>
       <dc:date>2020-12-01T08:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Starlink en Stellarium</title>
-      <link>https://salazarysanchez.github.io/entradas/2020-08-16-starlink-en-stellarium.html</link>
-      <description>
-&lt;center&gt;
-&lt;img class=&quot;img-responsive&quot; style=&quot;width:40%;height:auto;margin-right:12px;&quot; src=&quot;2020-08-16-starlink-en-stellarium/Stellarium-Logo.png&quot; alt=&quot;Stellarium Logo&quot; width=&quot;425&quot; height=&quot;350&quot; /&gt;
-&lt;/center&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Sun, 16 Aug 2020 16:30:00 -0500</pubDate>
-      <dc:date>2020-08-16T16:30:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
