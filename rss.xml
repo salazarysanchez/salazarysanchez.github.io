@@ -57,6 +57,17 @@
       <dc:date>2021-06-01T08:00:00-05:00</dc:date>
     </item>
     <item>
+      <title>6o Concurso de Programación DEL ITS San Pedro Contest</title>
+      <link>https://salazarysanchez.github.io/entradas/2021-05-27-ITS-San-Pedro-Contest-2021.html</link>
+      <description>
+&lt;p&gt;El &lt;strong&gt;&lt;a href=&quot;http://www.tecsanpedro.edu.mx/web/&quot;&gt;Instituto Tecnológico Superior de San Pedro de Las Colonias&lt;/a&gt;&lt;/strong&gt; me invitó a participar en un foro de discusión en el marco del &lt;strong&gt;6o Concurso de Programación IT San Pedro Contest&lt;/strong&gt; realizado el &lt;strong&gt;27 de mayo del 2021&lt;/strong&gt; al que acudí representando al &lt;a href=&quot;http://www.gulag.org.mx&quot;&gt;Grupo de Usuarios de GNU/Linux de La Laguna&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Thu, 27 May 2021 01:00:00 -0500</pubDate>
+      <dc:date>2021-05-27T01:00:00-05:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Una gran colaboración</title>
       <link>https://salazarysanchez.github.io/entradas/2021-05-01-Bits-Libres-Una-gran-colaboracion.html</link>
       <description>
@@ -88,20 +99,6 @@
       <author>Osvaldo</author>
       <pubDate>Thu, 01 Apr 2021 08:00:00 -0600</pubDate>
       <dc:date>2021-04-01T08:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Estamos en el meetup &quot;GNU Linux Latino&quot;</title>
-      <link>https://salazarysanchez.github.io/entradas/2021-03-26-GNU-Linux-Latino-40.html</link>
-      <description>
-&lt;p&gt;En esta ocasión participé en la edición 40 del meetup “GNU Linux Latino” con el tema “Promoción y divulgación de Software Libre”.&lt;/p&gt;
-
-&lt;center&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Aju0ZVPrWAA&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/center&gt;
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Fri, 26 Mar 2021 21:30:00 -0600</pubDate>
-      <dc:date>2021-03-26T21:30:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
