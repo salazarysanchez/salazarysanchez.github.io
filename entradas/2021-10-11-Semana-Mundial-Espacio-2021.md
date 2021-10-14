@@ -7,9 +7,13 @@ Categorías: Astronomía, Semana Mundial del Espacio, Durango
 
 El [Grupo Astronómico Gómez Palacio](https://www.facebook.com/Grupo-Astron%C3%B3mico-G%C3%B3mez-Palacio-114277575272066) participó desde el **4 al 10 de octubre del 2021** en la **[Semana Mundial del Espacio](http://sme-mexico.space)** en su edición [2021](http://sme-mexico.space/2021/sedeIn.php?clave=55) el cual se celebró de manera virtual.
 
-**Evento dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públicos, entusiastas y público en general.**
+<center>
+<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2021-10-11-Semana-Mundial-Espacio-2021/SME-GAGP2021.png" alt="Semana Mundial del Espacio 2021" width="425" height="350">
+</center>
 
 <!-- break -->
+
+**Evento dirigido a todo tipo de público: estudiantes, académicos, empresarios, trabajadores, funcionarios públicos, entusiastas y público en general.**
 
 La programación consistió en:
 
