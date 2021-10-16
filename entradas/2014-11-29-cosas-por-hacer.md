@@ -17,10 +17,9 @@ Una frase que repito en mis conferencias es de George Bernard Shaw: "Si tú tien
 
 Dicho lo anterior compartiré algunas de las cosas que quiero hacer, o tener. Si quieren ayudar a cumplir uno de estos objetivos (ya sea: que lo hagamos entre los dos, que me ayuden a hacerlo, que me oriente como hacerlo al corto, mediano o largo plazo, o bien, con porras :-) ), de antemano se los agradezco.
 
-* Casarme.
 * Viajar a Chiapas.
-* Dar, por lo menos, una conferencia sobre [Software Libre](https://es.wikipedia.org/wiki/Software_libre) en cada estado de México. Hasta el momento he estado en [Coahuila](http://www.salazarysanchez.com/categorias/coahuila.html), [Durango](http://www.salazarysanchez.com/categorias/durango.html), [San Luis Potosí](http://www.salazarysanchez.com/categorias/san_luis_potosi.html) y [Puebla](http://www.salazarysanchez.com/categorias/puebla.html).
-* Dar, por lo menos, una conferencia sobre Software Libre fuera del país.
+* Dar, por lo menos, una conferencia sobre [Software Libre](https://es.wikipedia.org/wiki/Software_libre) en cada estado de México. Hasta el momento lo he hecho en [Coahuila](http://www.salazarysanchez.com/categorias/coahuila.html), [Durango](http://www.salazarysanchez.com/categorias/durango.html), [San Luis Potosí](http://www.salazarysanchez.com/categorias/san_luis_potosi.html) y [Puebla](http://www.salazarysanchez.com/categorias/puebla.html).
+* Dar, por lo menos, una conferencia sobre Software Libre fuera del país. Hasta el momento lo he hecho en [Colombia](https://www.salazarysanchez.com/categorias/colombia.html).
 * Hacer una Maestría.
 * Hacer un Doctorado.
 * Poner mi propia empresa.
@@ -48,4 +47,3 @@ Dicho lo anterior compartiré algunas de las cosas que quiero hacer, o tener. Si
 Ésta lista puede crecer el día de mañana, pero trataré que no disminuya.
 
 Si quieren hacer alguno de estos objetivos junto conmigo, son bienvenidas y bienvenidos :-)  :-D
-
