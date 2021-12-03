@@ -55,3 +55,4 @@ El programa de la presentación de la Ruta Eclipse 2023–2024 es la siguiente:
 #### Notas de prensa
 
 * [ABC Noticias](https://abcnoticias.mx/local/2021/10/29/presentara-sociedad-astronomica-de-nuevo-leon-ruta-eclipse-2023-2024-149909.html)
+* [Milenio](https://www.milenio.com/estados/coahuila-mapimi-vera-eclipse-sol-en-2024-)
