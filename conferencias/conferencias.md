@@ -25,6 +25,7 @@ Tengo un repertorio de [conferencias](http://www.salazarysanchez.com/categorias/
 * Edición de audio con Software Libre
 * Compartiendo código con Git y Github
 * Envío cifrado de e-mails
+* Animación básica con Blender
 
 Mucho del material está en mi [repositorio](https://github.com/chicoxxx). Puedes revisar algunas [conferencias](http://www.salazarysanchez.com/categorias/conferencias.html) y [talleres](http://www.salazarysanchez.com/categorias/talleres.html) que he dado con anterioridad.
 
@@ -32,6 +33,7 @@ Si a tu escuela o empresa les interesa algún taller o conferencia, [avísame](h
 
 Si necesitas sobre otro tema, relacionado con el Software Libre, [dime](http://www.salazarysanchez.com/contacto/index.html), para confirmarte si puedo desarrollarlo.
 
-[Preguntame](http://www.salazarysanchez.com/contacto/index.html) por costos, pero siempre considera el cubrir mis viáticos (y sí, el café es parte de ello).
+[Pregúntame](http://www.salazarysanchez.com/contacto/index.html) por costos, pero siempre considera el cubrir mis viáticos (y sí, el café es parte de ello).
 
-Algunos compañeros del [Grupo de Usuarios de GNU/Linux de La Laguna](http://www.gulag.org.mx/) también dan conferencias y/o talleres: contactalos :-)
+Algunos compañeros del [Grupo de Usuarios de GNU/Linux de La Laguna](http://www.gulag.org.mx/) también dan conferencias y/o talleres: contáctalos :-)
+
