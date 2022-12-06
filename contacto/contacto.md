@@ -19,7 +19,7 @@ Escribanme a ![osvaldo at cryptolab dot net](contacto/Correo02.png) y mucho mejo
 
 ### Redes libres
 
-I [Diaspora*](https://poddery.com/people/77a27da593d0e844) I [Mastodon](https://mastodon.social/@chicoxxx) I [PeerTube](https://video.hardlimit.com/accounts/chico) I [Fediverse.tv](https://fediverse.tv/accounts/chico/video-channels) I
+I [Diaspora*](https://poddery.com/people/77a27da593d0e844) I [Mastodon](https://mastodon.social/@chicoxxx) I [PeerTube](https://video.hardlimit.com/accounts/chico) I [Fediverse.tv](https://fediverse.tv/accounts/chico/video-channels) I [Telegram](https://t.me/joinchat/AhKXM0m4OTrdeN2x2yz1VQ) I
 
 ### Redes no tan libres
 
