@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Bits Libres - Iniciar inteligentemente</title>
+      <link>https://salazarysanchez.github.io/entradas/2023-01-01-Bits-Libres-Iniciar-inteligentemente.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.mx/version-impresa/&quot;&gt;Entretodos&lt;/a&gt;, en enero del 2023&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sun, 01 Jan 2023 08:00:00 -0600</pubDate>
+      <dc:date>2023-01-01T08:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Comunidad</title>
       <link>https://salazarysanchez.github.io/entradas/2022-12-01-Bits-Libres-Comunidad.html</link>
       <description>
@@ -84,17 +95,6 @@
       <author>Osvaldo</author>
       <pubDate>Wed, 01 Jun 2022 08:00:00 -0500</pubDate>
       <dc:date>2022-06-01T08:00:00-05:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - El futuro de la educación</title>
-      <link>https://salazarysanchez.github.io/entradas/2022-05-01-Bits-Libres-El-futuro-de-la-educacion.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.mx/version-impresa/&quot;&gt;Entretodos&lt;/a&gt;, en mayo del 2022&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Sun, 01 May 2022 08:00:00 -0500</pubDate>
-      <dc:date>2022-05-01T08:00:00-05:00</dc:date>
     </item>
   </channel>
 </rss>
