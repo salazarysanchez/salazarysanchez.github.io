@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Bits Libres - Defender el cifrado</title>
+      <link>https://salazarysanchez.github.io/entradas/2023-06-01-Bits-Libres-Defender-el-cifrado.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.mx/version-impresa/&quot;&gt;Entretodos&lt;/a&gt;, en junio del 2023&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Thu, 01 Jun 2023 08:00:00 -0600</pubDate>
+      <dc:date>2023-06-01T08:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Más ciencia ficción</title>
       <link>https://salazarysanchez.github.io/entradas/2023-05-01-Bits-Libres-Mas-ciencia-ficcion.html</link>
       <description>
@@ -84,17 +95,6 @@
       <author>Osvaldo</author>
       <pubDate>Thu, 10 Nov 2022 23:00:00 -0600</pubDate>
       <dc:date>2022-11-10T23:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Libertad</title>
-      <link>https://salazarysanchez.github.io/entradas/2022-11-01-Bits-Libres-Libertad.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.mx/version-impresa/&quot;&gt;Entretodos&lt;/a&gt;, en noviembre del 2022&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Tue, 01 Nov 2022 08:00:00 -0600</pubDate>
-      <dc:date>2022-11-01T08:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
