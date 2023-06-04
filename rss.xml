@@ -31,6 +31,17 @@
       <dc:date>2023-05-01T08:00:00-06:00</dc:date>
     </item>
     <item>
+      <title>Flisol 2023</title>
+      <link>https://salazarysanchez.github.io/entradas/2023-04-11-flisol-2023.html</link>
+      <description>
+&lt;p&gt;En abril se celebró el &lt;strong&gt;&lt;a href=&quot;https://flisol.info/FLISOL2023/&quot;&gt;Festival Latinoamericano de Instalación de Software Libre&lt;/a&gt;&lt;/strong&gt; y tuve participaciones en la modalidad &lt;strong&gt;on line&lt;/strong&gt; en diversas sedes.&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Tue, 11 Apr 2023 15:00:00 -0600</pubDate>
+      <dc:date>2023-04-11T15:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Compra efímera</title>
       <link>https://salazarysanchez.github.io/entradas/2023-04-01-Bits-Libres-Compra-efimera.html</link>
       <description>
@@ -84,17 +95,6 @@
       <author>Osvaldo</author>
       <pubDate>Thu, 01 Dec 2022 08:00:00 -0600</pubDate>
       <dc:date>2022-12-01T08:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Congreso Internacional Académico 2022</title>
-      <link>https://salazarysanchez.github.io/entradas/2022-11-10-Congreso-Internacional-academico-blender.html</link>
-      <description>
-&lt;p&gt;En el mes de noviembre del 2022 participé en el &lt;strong&gt;Congreso Internacional Académico 2022&lt;/strong&gt; organizado por el &lt;strong&gt;Tecnológico Nacional de México Campus &lt;a href=&quot;https://matehuala.tecnm.mx/&quot;&gt;Instituto Tecnológico de Matehuala&lt;/a&gt;&lt;/strong&gt;, en Matehuala, San Luis Potosí, con un taller de &lt;a href=&quot;https://www.blender.org/&quot;&gt;Blender&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Thu, 10 Nov 2022 23:00:00 -0600</pubDate>
-      <dc:date>2022-11-10T23:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
