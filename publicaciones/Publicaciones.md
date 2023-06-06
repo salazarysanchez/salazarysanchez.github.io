@@ -11,6 +11,13 @@ Me gusta escribir y promover el Software Libre; y para muestra, un botón:
 
 ### [Columna Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html)
 
+<!--
+Sobre la sección Bits Libres
+10 May 2016
+Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un medio impreso, en el periódico Entretodos con la sección Bits Libres.
+http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
+ -->
+
 **Junio 2023** [Defender el cifrado](https://www.salazarysanchez.com/entradas/2023-06-01-Bits-Libres-Defender-el-cifrado.html)
 
 **Mayo 2023** [Más ciencia ficción](https://www.salazarysanchez.com/entradas/2023-05-01-Bits-Libres-Mas-ciencia-ficcion.html)
@@ -75,11 +82,11 @@ Me gusta escribir y promover el Software Libre; y para muestra, un botón:
 
 <!-- Faltan de subir al site
 **Noviembre 2020** [Noviembre-2020](https://www.salazarysanchez.com/entradas/2020-12-01-Bits-Libres-Noviembre-2020.html)
-
-**Octubre 2020** [Octubre-2020](https://www.salazarysanchez.com/entradas/2020-12-01-Bits-Libres-Octubre-2020.html)
-
-**Septiembre 2020** [Septiembre-2020](https://www.salazarysanchez.com/entradas/2020-12-01-Bits-Libres-Septiembre-2020.html)
 -->
+
+**Octubre 2020** [¿Cuáles son tus referentes?](https://www.salazarysanchez.com/entradas/2020-10-01-Bits-Libres-Cuales-son-tus-referentes.html)
+
+**Septiembre 2020** [XV aniversario On Line](https://www.salazarysanchez.com/entradas/2020-09-01-Bits-Libres-XV-aniversario-On-Line.html)
 
 **Agosto 2020** [¿Internet mató la industria del cine o de la música?](https://www.salazarysanchez.com/entradas/2020-08-01-Bits-Libres-Internet-mato-industria-cine-musica.html)
 
