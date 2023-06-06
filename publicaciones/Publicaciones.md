@@ -11,43 +11,151 @@ Me gusta escribir y promover el Software Libre; y para muestra, un botón:
 
 ### [Columna Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html)
 
-**Enero 2019** [Trabajemos con transparencia](http://www.gulag.org.mx/entradas/2019-01-01-Bits-Libres-Trabajemos-con-transparencia.html)
+**Junio 2023** [Defender el cifrado](https://www.salazarysanchez.com/entradas/2023-06-01-Bits-Libres-Defender-el-cifrado.html)
 
-**Diciembre 2018** [Compartiendo lo mejor de nosotros](http://www.gulag.org.mx/entradas/2018-12-01-Bits-Libres-Compartiendo-lo-mejor-de-nosotros.html)
+**Mayo 2023** [Más ciencia ficción](https://www.salazarysanchez.com/entradas/2023-05-01-Bits-Libres-Mas-ciencia-ficcion.html)
+
+**Abril 2023** [Compra efímera](https://www.salazarysanchez.com/entradas/2023-04-01-Bits-Libres-Compra-efimera.html)
+
+**Marzo 2023** [DevOps](https://www.salazarysanchez.com/entradas/2023-03-01-Bits-Libres-DevOps.html)
+
+**Febrero 2023** [A mis amigos](https://www.salazarysanchez.com/entradas/2023-02-01-Bits-Libres-A-mis-amigos.html)
+
+**Enero 2023** [Iniciar inteligentemente](https://www.salazarysanchez.com/entradas/2023-01-01-Bits-Libres-Iniciar-inteligentemente.html)
+
+**Diciembre 2022** [Comunidad](https://www.salazarysanchez.com/entradas/2022-12-01-Bits-Libres-Comunidad.html)
+
+**Noviembre 2022** [Libertad](https://www.salazarysanchez.com/entradas/2022-11-01-Bits-Libres-Libertad.html)
+
+**Octubre 2022** [Más allá del abc](https://www.salazarysanchez.com/entradas/2022-10-01-Bits-Libres-Mas-alla-del-abc.html)
+
+**Septiembre 2022** [Estabilidad](https://www.salazarysanchez.com/entradas/2022-09-01-Bits-Libres-Estabilidad.html)
+
+**Agosto 2022** [Eventos híbridos](https://www.salazarysanchez.com/entradas/2022-08-01-Bits-Libres-Eventos-hibridos.html)
+
+**Julio 2022** [Gracias por corregirme](https://www.salazarysanchez.com/entradas/2022-07-01-Bits-Libres-Gracias-por-corregirme.html)
+
+**Junio 2022** [Gratis != Libre](https://www.salazarysanchez.com/entradas/2022-06-01-Bits-Libres-Gratis-Libre.html)
+
+**Mayo 2022** [El futuro de la educación](https://www.salazarysanchez.com/entradas/2022-05-01-Bits-Libres-El-futuro-de-la-educacion.html)
+
+**Abril 2022** [¡Vayamos al festival!](https://www.salazarysanchez.com/entradas/2022-04-01-Bits-Libres-Vayamos-al-festival.html)
+
+**Marzo 2022** [Dominio público](https://www.salazarysanchez.com/entradas/2022-03-01-Bits-Libres-Dominio-publico.html)
+
+**Febrero 2022** [Dar amor al Software Libre](https://www.salazarysanchez.com/entradas/2022-02-01-Bits-Libres-Dar-amor-al-Software-Libre.html)
+
+**Enero 2022** [Dinero Público, Código Público](https://www.salazarysanchez.com/entradas/2022-01-01-Bits-Libres-Dinero-Publico-Codigo-Publico.html)
+
+**Diciembre 2021** [Inspiración](https://www.salazarysanchez.com/entradas/2021-12-01-Bits-Libres-Inspiracion.html)
+
+**Noviembre 2021** [Redes Sociales Federadas](https://www.salazarysanchez.com/entradas/2021-11-01-Bits-Libres-Redes-Sociales-Federadas.html)
+
+**Octubre 2021** [Unión](https://www.salazarysanchez.com/entradas/2021-10-01-Bits-Libres-Union.html)
+
+**Septiembre 2021** [Hacer a un lado la terminal](https://www.salazarysanchez.com/entradas/2021-09-01-Bits-Libres-Hacer-de-lado-la-terminal.html)
+
+**Agosto 2021** [Más fierros para la nueva ventana](https://www.salazarysanchez.com/entradas/2021-08-01-Bits-Libres-Mas-fierros-para-la-nueva-ventana.html)
+
+**Julio 2021** [La Laguna cuenta con personal especializado en TIC](https://www.salazarysanchez.com/entradas/2021-07-01-Bits-Libres-La-Laguna-con-personal-especializado-TIC.html)
+
+**Junio 2021** [Normalidad](https://www.salazarysanchez.com/entradas/2021-06-01-Bits-Libres-Normalidad.html)
+
+**Mayo 2021** [Una gran colaboración](https://www.salazarysanchez.com/entradas/2021-05-01-Bits-Libres-Una-gran-colaboracion.html)
+
+**Abril 2021** [Instalemos Software Libre](https://www.salazarysanchez.com/entradas/2021-04-01-Bits-Libres-Instalemos-Software-Libre.html)
+
+**Marzo 2021** [Ciudadanía programadora](https://www.salazarysanchez.com/entradas/2021-03-01-Bits-Libres-Ciudadania-programadora.html)
+
+**Febrero 2021** [Leer y entender antes de aceptar](https://www.salazarysanchez.com/entradas/2021-02-01-Bits-Libres-Leer-y-entender-antes-de-aceptar.html)
+
+<!-- No se escribió Enero 2021 -->
+
+**Diciembre 2020** [Un año complejo](https://www.salazarysanchez.com/entradas/2020-12-01-Bits-Libres-Un-ano-complejo.html)
+
+<!-- Faltan de subir al site
+**Noviembre 2020** [Noviembre-2020](https://www.salazarysanchez.com/entradas/2020-12-01-Bits-Libres-Noviembre-2020.html)
+
+**Octubre 2020** [Octubre-2020](https://www.salazarysanchez.com/entradas/2020-12-01-Bits-Libres-Octubre-2020.html)
+
+**Septiembre 2020** [Septiembre-2020](https://www.salazarysanchez.com/entradas/2020-12-01-Bits-Libres-Septiembre-2020.html)
+-->
+
+**Agosto 2020** [¿Internet mató la industria del cine o de la música?](https://www.salazarysanchez.com/entradas/2020-08-01-Bits-Libres-Internet-mato-industria-cine-musica.html)
+
+**Julio 2020** [Debemos interesarnos en la política](https://www.salazarysanchez.com/entradas/2020-07-01-Bits-Libres-Debemos-interesarnos-en-la-politica.html)
+
+**Junio 2020** [Lo aprendido ante la pandemia](https://www.salazarysanchez.com/entradas/2020-06-01-Bits-Libres-Lo-aprendido-ante-la-pandemia.html)
+
+**Mayo 2020** [Brecha digital](https://www.salazarysanchez.com/entradas/2020-05-01-Bits-Libres-Brecha-digital.html)
+
+**Abril 2020** [Home Office](https://www.salazarysanchez.com/entradas/2020-04-01-Bits-Libres-Home-Office.html)
+
+**Marzo 2020** [Salvemos internet](https://www.salazarysanchez.com/entradas/2020-03-01-Bits-Libres-Salvemos-internet.html)
+
+**Febrero 2020** [Tecnología de Todos y Para Todos](https://www.salazarysanchez.com/entradas/2020-02-01-Bits-Libres-Tecnologia-de-Todos-y-Para-Todos.html)
+
+**Enero 2020** [Hack Yourself](https://www.salazarysanchez.com/entradas/2020-01-01-Bits-Libres-Hack-Yourself.html)
+
+**Diciembre 2019** [A los amigos](https://www.salazarysanchez.com/entradas/2019-12-01-Bits-Libres-A-los-amigos.html)
+
+**Noviembre 2019** [ITS San Pedro Contest](https://www.salazarysanchez.com/entradas/2019-11-01-Bits-Libres-ITS-San-Pedro-Contest.html)
+
+**Octubre 2019** [La importancia de datos abiertos](https://www.salazarysanchez.com/entradas/2019-10-01-Bits-Libres-La-importancia-de-datos-abiertos.html)
+
+**Septiembre 2019** [Festejando con los amigos](https://www.salazarysanchez.com/entradas/2019-09-01-Bits-Libres-Festejando-con-los-amigos.html)
+
+**Agosto 2019** [Leer antes de aceptar](https://www.salazarysanchez.com/entradas/2019-08-01-Bits-Libres-Leer-antes-de-aceptar.html)
+
+**Julio 2019** [Aprender, siempre aprender](https://www.salazarysanchez.com/entradas/2019-07-01-Bits-Libres-Aprender-siempre-aprender.html)
+
+**Junio 2019** [Libertad para elegir](https://www.salazarysanchez.com/entradas/2019-06-01-Bits-Libres-Libertad-para-elegir.html)
+
+**Mayo 2019** [Cámara de eco](https://www.salazarysanchez.com/entradas/2019-05-01-Bits-Libres-Camara-de-eco.html)
+
+**Abril 2019** [Festival Latinoamericano de Instalación de Software Libre](https://www.salazarysanchez.com/entradas/2019-04-01-Bits-Libres-Festival-Latinoamericano-de-Instalacion-de-Software-Libre.html)
+
+**Marzo 2019** [Mujer y la Niña en la Ciencia](https://www.salazarysanchez.com/entradas/2019-03-01-Bits-Libres-Mujer-y-la-Nina-en-la-Ciencia.html)
+
+**Febrero 2019** [De eso se trata](https://www.salazarysanchez.com/entradas/2019-02-01-Bits-Libres-De-eso-se-trata.html)
+
+**Enero 2019** [Trabajemos con transparencia](https://www.salazarysanchez.com/entradas/2019-01-01-Bits-Libres-Trabajemos-con-transparencia.html)
+
+**Diciembre 2018** [Compartiendo lo mejor de nosotros](https://www.salazarysanchez.com/entradas/2018-12-01-Bits-Libres-Compartiendo-lo-mejor-de-nosotros.html)
 
 **Noviembre 2018** [Resistencia al cambio](http://www.salazarysanchez.com/entradas/2018-11-01-Bits-Libres-Resistencia-al-cambio.html)
 
-**Octubre 2018** [Más mujeres en TICs](http://www.salazarysanchez.com/entradas/2018-10-01-Bits-Libres-Mas-Mujeres-en-TICs.html)
+**Octubre 2018** [Más mujeres en TICs](https://www.salazarysanchez.com/entradas/2018-10-01-Bits-Libres-Mas-Mujeres-en-TICs.html)
 
-**Septiembre 2018** [Feliz cumpleaños](http://www.salazarysanchez.com/entradas/2018-09-01-Bits-Libres-Feliz-Cumpleanos.html)
+**Septiembre 2018** [Feliz cumpleaños](https://www.salazarysanchez.com/entradas/2018-09-01-Bits-Libres-Feliz-Cumpleanos.html)
 
-**Agosto 2018** [Migración](http://www.gulag.org.mx/entradas/2018-08-01-Bits-Libres-Migracion.html)
+**Agosto 2018** [Migración](https://www.salazarysanchez.com/entradas/2018-08-01-Bits-Libres-Migracion.html)
 
-**Julio 2018** [Vamos ganando, pero...](http://www.gulag.org.mx/entradas/2018-07-01-Bits-Libres-Vamos-ganando-pero.html)
+**Julio 2018** [Vamos ganando, pero...](https://www.salazarysanchez.com/entradas/2018-07-01-Bits-Libres-Vamos-ganando-pero.html)
 
-**Junio 2018** [Interesarnos en la política](http://www.gulag.org.mx/entradas/2018-06-02-Bits-Libres-Interesarnos-en-la-politica.html)
+**Junio 2018** [Interesarnos en la política](https://www.salazarysanchez.com/entradas/2018-06-02-Bits-Libres-Interesarnos-en-la-politica.html)
 
-**Mayo 2018** [Sistemas de votación](http://www.gulag.org.mx/entradas/2018-05-03-Bits-Libres-Sistemas-de-votacion.html)
+**Mayo 2018** [Sistemas de votación](https://www.salazarysanchez.com/entradas/2018-05-03-Bits-Libres-Sistemas-de-votacion.html)
 
-**Abril 2018** [Documento libre](http://www.gulag.org.mx/entradas/2018-04-02-Bits-Libres-Documento-libre.html)
+**Abril 2018** [Documento libre](https://www.salazarysanchez.com/entradas/2018-04-02-Bits-Libres-Documento-libre.html)
 
-**Marzo 2018** [Datos personales por un peso](http://www.gulag.org.mx/entradas/2018-03-04-Bits-Libres-datos-personales-por-un-peso.html)
+**Marzo 2018** [Datos personales por un peso](https://www.salazarysanchez.com/entradas/2018-03-04-Bits-Libres-datos-personales-por-un-peso.html)
 
-**Febrero 2018** [Mantener la confianza](http://www.gulag.org.mx/entradas/2018-02-03-Bits-Libres-Mantener-la-confianza.html)
+**Febrero 2018** [Mantener la confianza](https://www.salazarysanchez.com/entradas/2018-02-03-Bits-Libres-Mantener-la-confianza.html)
 
-**Enero 2018** [Adaptarse al cambio](http://www.gulag.org.mx/entradas/2018-01-03-Bits-Libres-Adaptarse-al-cambio.html)
+**Enero 2018** [Adaptarse al cambio](https://www.salazarysanchez.com/entradas/2018-01-03-Bits-Libres-Adaptarse-al-cambio.html)
 
-**Diciembre 2017** [Tiempos de compartir](http://www.gulag.org.mx/entradas/2017-12-03-Bits-Libres-Tiempos-de-compartir.html)
+**Diciembre 2017** [Tiempos de compartir](https://www.salazarysanchez.com/entradas/2017-12-03-Bits-Libres-Tiempos-de-compartir.html)
 
-**Noviembre 2017** [Ahora es más fácil](http://www.gulag.org.mx/entradas/2017-11-02-Bits-Libres-Ahora-es-mas-facil.html)
+**Noviembre 2017** [Ahora es más fácil](https://www.salazarysanchez.com/entradas/2017-11-01-Bits-Libres-Ahora-es-mas-facil.html)
 
-**Octubre 2017** [Más transparencia, por favor](http://www.gulag.org.mx/entradas/2017-10-01-Bits-Libres-Mas-transparencia-por-favor.html)
+**Octubre 2017** [Más transparencia, por favor](https://www.salazarysanchez.com/entradas/2017-10-01-Bits-Libres-Mas-transparencia-por-favor.html)
 
-**Septiembre 2017** [Beneficios de compartir](http://www.gulag.org.mx/entradas/2017-09-01-Bits-Libres-Beneficios-de-compartir.html)
+**Septiembre 2017** [Beneficios de compartir](https://www.salazarysanchez.com/entradas/2017-09-01-Bits-Libres-Beneficios-de-compartir.html)
 
-**Agosto 2017** [Sobre la Neutralidad de la Red](http://www.gulag.org.mx/entradas/2017-08-01-Bits-Libres-Sobre-la-Neutralidad-de-la-Red.html)
+**Agosto 2017** [Sobre la Neutralidad de la Red](https://www.salazarysanchez.com/entradas/2017-08-09-Bits-Libres-Sobre-la-Neutralidad-de-la-Red.html)
 
-**Julio 2017** [Lean los contratos](http://www.gulag.org.mx/entradas/2017-07-08-Bits-Libres-Lean-Los-Contratos.html)
+**Julio 2017** [Lean los contratos](https://www.salazarysanchez.com/entradas/2017-07-08-Bits-Libres-Lean-Los-Contratos.html)
 
 **Junio 2017** [[Re]Conociendo nuestros derechos: Derecho a cifrar](https://salazarysanchez.github.io/entradas/2017-06-11-Bits-Libres-Derecho-A-Cifrar.html)
 
