@@ -80,9 +80,7 @@ http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
 
 **Diciembre 2020** [Un año complejo](https://www.salazarysanchez.com/entradas/2020-12-01-Bits-Libres-Un-ano-complejo.html)
 
-<!-- Faltan de subir al site
-**Noviembre 2020** [Noviembre-2020](https://www.salazarysanchez.com/entradas/2020-12-01-Bits-Libres-Noviembre-2020.html)
--->
+**Noviembre 2020** [Poseer una película](https://www.salazarysanchez.com/entradas/2020-11-01-Bits-Libres-Poseer-una-pelicula.html)
 
 **Octubre 2020** [¿Cuáles son tus referentes?](https://www.salazarysanchez.com/entradas/2020-10-01-Bits-Libres-Cuales-son-tus-referentes.html)
 
