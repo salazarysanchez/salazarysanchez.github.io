@@ -18,7 +18,7 @@ Una frase que repito en mis conferencias es de George Bernard Shaw: "Si tú tien
 Dicho lo anterior compartiré algunas de las cosas que quiero hacer, o tener. Si quieren ayudar a cumplir uno de estos objetivos (ya sea: que lo hagamos entre los dos, que me ayuden a hacerlo, que me oriente como hacerlo al corto, mediano o largo plazo, o bien, con porras :-) ), de antemano se los agradezco.
 
 * Viajar a Chiapas.
-* Dar, por lo menos, una conferencia sobre [Software Libre](https://es.wikipedia.org/wiki/Software_libre) en cada estado de México. Hasta el momento lo he hecho en [Coahuila](http://www.salazarysanchez.com/categorias/coahuila.html), [Durango](http://www.salazarysanchez.com/categorias/durango.html), [San Luis Potosí](http://www.salazarysanchez.com/categorias/san_luis_potosi.html) y [Puebla](http://www.salazarysanchez.com/categorias/puebla.html).
+* Dar, por lo menos, una conferencia sobre [Software Libre](https://es.wikipedia.org/wiki/Software_libre) en cada estado de México. Hasta el momento lo he hecho en [Coahuila](http://www.salazarysanchez.com/categorias/coahuila.html), [Durango](http://www.salazarysanchez.com/categorias/durango.html), [San Luis Potosí](http://www.salazarysanchez.com/categorias/san_luis_potosi.html), [Puebla](http://www.salazarysanchez.com/categorias/puebla.html) y [Michoacán](http://www.salazarysanchez.com/categorias/michoacan.html).
 * Dar, por lo menos, una conferencia sobre Software Libre fuera del país. Hasta el momento lo he hecho en [Ecuador](https://www.salazarysanchez.com/categorias/ecuador.html) y [Colombia](https://www.salazarysanchez.com/categorias/colombia.html).
 * Dar una conferencia en LibrePlanet.
 * Dar una conferencia en FOSDEM.
