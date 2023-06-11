@@ -27,7 +27,7 @@ Tengo un repertorio de [conferencias](http://www.salazarysanchez.com/categorias/
 * Envío cifrado de e-mails
 * Animación básica con Blender
 
-Mucho del material está en mi [repositorio](https://github.com/chicoxxx). Puedes revisar algunas [conferencias](http://www.salazarysanchez.com/categorias/conferencias.html) y [talleres](http://www.salazarysanchez.com/categorias/talleres.html) que he dado con anterioridad.
+Mucho del material está en mi [repositorio](https://github.com/chicoxxx). Puedes revisar algunas [conferencias](http://www.salazarysanchez.com/categorias/conferencias.html) y [talleres](http://www.salazarysanchez.com/categorias/talleres.html) que he dado con anterioridad. Algunas de mis [publicaciones](https://www.salazarysanchez.com/publicaciones/index.html) también las puedo desarrollar como conferencia.
 
 Si a tu escuela o empresa les interesa algún taller o conferencia, [avísame](http://www.salazarysanchez.com/contacto/index.html) cual es la seleccionada. 
 
