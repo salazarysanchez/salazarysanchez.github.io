@@ -27,7 +27,7 @@ Felices fiestas :-)
 
 <br />
 <center>
-<a class="img-responsive" href="http://www.gulag.org.mx/entradas/2018-09-08-resumen-congreso-2018/Gulag-Final.jpg"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="http://www.gulag.org.mx/entradas/2018-09-08-resumen-congreso-2018/Gulag-Final.jpg" alt="Foto final en Congreso Software Libre 2018" width="325" height="250"></a>
+<a class="img-responsive" href="http://www.gulag.org.mx/2018-09-08-resumen-congreso-2018/Gulag-Final.jpg"><img class="img-responsive" style="width:70%;height:auto;margin-right:12px;" src="http://www.gulag.org.mx/2018-09-08-resumen-congreso-2018/Gulag-Final.jpg" alt="Foto final en Congreso Software Libre 2018" width="325" height="250"></a>
 <i>Foto final en Congreso Software Libre 2018.</i>
 </center>
 <br />
