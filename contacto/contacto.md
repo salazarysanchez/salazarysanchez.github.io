@@ -19,13 +19,21 @@ Escribanme a ![osvaldo at cryptolab dot net](contacto/Correo02.png) y mucho mejo
 
 ### Redes libres
 
-I [Diaspora*](https://poddery.com/people/77a27da593d0e844) I [Mastodon](https://mastodon.social/@chicoxxx) I [PeerTube](https://video.hardlimit.com/accounts/chico) I [Fediverse.tv](https://fediverse.tv/accounts/chico/video-channels) I [Telegram](https://t.me/joinchat/AhKXM0m4OTrdeN2x2yz1VQ) I
+|:----------|:----------:|:----------:|:----------|
+| [Telegram](https://t.me/joinchat/AhKXM0m4OTrdeN2x2yz1VQ) | | | [Mastodon](https://mastodon.social/@chicoxxx) |
+| [Diaspora*](https://poddery.com/people/77a27da593d0e844) | | | |
+| [PeerTube](https://video.hardlimit.com/accounts/chico) | | | [Fediverse.tv](https://fediverse.tv/accounts/chico/video-channels) |
 
 ### Redes no tan libres
 
-I [Twitter](https://twitter.com/osvaldo_salazar) I [Instagram](https://www.instagram.com/osvaldorsalazar/) I [medium](https://medium.com/@chicoxxx) I [Linkedin](https://www.linkedin.com/in/osvaldosalazar/) I [youtube](https://www.youtube.com/osvaldosalazar) I 
+|:----------|:----------:|:----------:|:----------|
+| [Twitter](https://twitter.com/osvaldo_salazar) | | | [Instagram](https://www.instagram.com/osvaldorsalazar/) |
+| [Linkedin](https://www.linkedin.com/in/osvaldosalazar/) | | | [youtube](https://www.youtube.com/osvaldosalazar) |
+| [medium](https://medium.com/@chicoxxx) | | | |
 
 ### Repositorios
 
-I [GitHub](https://github.com/ChicoXXX) I [GitLab](https://gitlab.com/ChicoXXX) I 
+|:----------|:----------:|:----------:|:----------|
+| [GitHub](https://github.com/ChicoXXX) | | | [GitLab](https://gitlab.com/ChicoXXX) |
+
 
