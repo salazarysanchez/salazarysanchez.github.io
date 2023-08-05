@@ -9,7 +9,7 @@ Me gusta escribir y promover el Software Libre; y para muestra, un botón:
 
 ## Entretodos
 
-### [Columna Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html)
+### [Columna Bits Libres](http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html)
 
 <!--
 Sobre la sección Bits Libres
@@ -17,6 +17,10 @@ Sobre la sección Bits Libres
 Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un medio impreso, en el periódico Entretodos con la sección Bits Libres.
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
+
+**Agosto 2023** [Más colaboradores](https://www.salazarysanchez.com/entradas/2023-08-01-Bits-Libres-Mas-colaboradores.html)
+
+**Julio 2023** [Museos](https://www.salazarysanchez.com/entradas/2023-07-01-Bits-Libres-Museos.html)
 
 **Junio 2023** [Defender el cifrado](https://www.salazarysanchez.com/entradas/2023-06-01-Bits-Libres-Defender-el-cifrado.html)
 
