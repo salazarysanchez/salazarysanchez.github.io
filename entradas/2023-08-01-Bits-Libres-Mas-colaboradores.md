@@ -5,7 +5,7 @@ Fecha: 2023-08-01 8:00
 Autor: Osvaldo
 Categorías: Publicaciones, Bits Libres
 
-_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html) del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en agosto del 2023_
+_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html) del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en agosto del 2023_
 
 <!-- break -->
 
