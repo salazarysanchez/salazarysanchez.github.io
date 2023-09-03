@@ -18,7 +18,7 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
 
-**Septiembre 2023** [Más colaboradores](https://www.salazarysanchez.com/entradas/2023-09-01-Bits-Libres-Congreso-2023.html)
+**Septiembre 2023** [Congreso 2023](https://www.salazarysanchez.com/entradas/2023-09-01-Bits-Libres-Congreso-2023.html)
 
 **Agosto 2023** [Más colaboradores](https://www.salazarysanchez.com/entradas/2023-08-01-Bits-Libres-Mas-colaboradores.html)
 
