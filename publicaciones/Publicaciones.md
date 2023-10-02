@@ -7,6 +7,14 @@ Categorías: Publicaciones
 
 Me gusta escribir y promover el Software Libre; y para muestra, un botón:
 
+## Capítulos de libros
+
+### ["Lonxe da terra: Gerardo Moscoso y Caamaño"](https://isbnmexico.indautor.cerlalc.org/catalogo.php?mode=detalle&nt=364721)
+
+**Capítulo "Apuntes desde el Teatro Salvador Novo"**
+
+<br />
+
 ## Entretodos
 
 ### [Columna Bits Libres](http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html)
