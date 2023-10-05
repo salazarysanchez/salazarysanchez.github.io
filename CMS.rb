@@ -64,6 +64,7 @@ class CMS < Imprenta
         @menu_principal.agregar('Entradas',       'entradas/index.html')
         @menu_principal.agregar('Publicaciones',  'publicaciones/index.html')
         @menu_principal.agregar('Conferencias',   'conferencias/index.html')
+        @menu_principal.agregar('Linktree',       'https://linktr.ee/osvaldosalazar')
         @menu_principal.agregar('Contacto',       'contacto/index.html')
         @menu_principal.agregar_derecha('GitHub', 'https://github.com/ChicoXXX')
 #        @menu_principal.agregar_derecha('RSS',    'http://gulag.org.mx/rss.xml')
