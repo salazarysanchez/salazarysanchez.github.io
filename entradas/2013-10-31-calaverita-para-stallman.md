@@ -3,9 +3,9 @@ Calaverita para Stallman
 
 Fecha: 2013-10-31 17:43
 Autor: Osvaldo
-Categorías: Richard Stallman
+Categorías: Richard Stallman, Calaveritas
 
-En muchas partes del mundo se recuerda a los difuntos de una manera u otra; en México se tiene la tradición del [día de los muertos](http://es.wikipedia.org/wiki/D%C3%ADa_de_Muertos) (festividad declarada por la UNESCO [Patrimonio Cultural Inmaterial de la Humanidad](http://www.unesco.org/culture/ich/es/RL/00054)), en donde se levantan altares dedicados a determinada persona ya fallecida y la creación de calaveritas a personas (por lo general) vivas. Éstas últimas, [las calaveritas](http://es.wikipedia.org/wiki/Calavera_literaria), son versos a modo de epitafio burlesco y como modo de expresar ideas o sentimientos que en otras oportunidades sería difícil decir.
+En muchas partes del mundo se recuerda a los difuntos de una manera u otra; en México se tiene la tradición del [día de los muertos](http://es.wikipedia.org/wiki/D%C3%ADa_de_Muertos) (festividad declarada por la UNESCO [Patrimonio Cultural Inmaterial de la Humanidad](https://www.unesco.org/es/articles/el-dia-de-muertos-el-regreso-de-lo-querido)), en donde se levantan altares dedicados a determinada persona ya fallecida y la creación de calaveritas a personas (por lo general) vivas. Éstas últimas, [las calaveritas](http://es.wikipedia.org/wiki/Calavera_literaria), son versos a modo de epitafio burlesco y como modo de expresar ideas o sentimientos que en otras oportunidades sería difícil decir.
 
 <!-- break -->
 
