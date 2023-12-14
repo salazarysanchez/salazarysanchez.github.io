@@ -3,7 +3,7 @@ Traducción al español de diagrama (Gobierno Abierto)
 
 Fecha: 2015-07-11 22:45
 Autor: Osvaldo
-Categorías: Traducción, Gobierno Abierto, Creative Commons, Inkscape, Wikimedia
+Categorías: Traducción, Gobierno Abierto, Creative Commons, Inkscape, Wikimedia, Diseño Gráfico, Wikipedia
 
 Existen muchas formas de colaborar en los proyectos de código libre, uno de ellos es traduciendo.
 
@@ -48,7 +48,7 @@ También use el archivo fuente ([SVG](https://es.wikipedia.org/wiki/Scalable_Vec
 ###Mi traducción al español:
 
 <center>
-<a href="2015-07-11-traduccion-infografia-gobierno-abierto/Open_government_-_spanish_1.png">
+<a href="https://commons.wikimedia.org/wiki/File:Open_government_-_spanish.svg">
 <img class="img-responsive" style="width:60%;height:auto;margin-right:12px;" src="2015-07-11-traduccion-infografia-gobierno-abierto/Open_government_-_spanish_1.png" alt="GobiernoAbiertoEspañol" width="525" height="450">
 </a>
 </center>
@@ -61,6 +61,7 @@ Dejo también el link al <a href="2015-07-11-traduccion-infografia-gobierno-abie
 
 ###Actualización:
 
-Pueden encontrar estos archivos en Wikimedia, en [PNG](https://commons.wikimedia.org/wiki/File:Open_government_-_spanish_1.png) y en [SVG](https://commons.wikimedia.org/wiki/File:Open_government_-_spanish.svg).
+Pueden encontrar estos archivos en [Wikimedia](https://commons.wikimedia.org/), en [PNG](https://commons.wikimedia.org/wiki/File:Open_government_-_spanish_1.png) y en [SVG](https://commons.wikimedia.org/wiki/File:Open_government_-_spanish.svg) como parte del articulo [Gobierno abierto](https://es.wikipedia.org/wiki/Gobierno_abierto) de [Wikipedia](https://es.wikipedia.org/).
 
 <br />
+
