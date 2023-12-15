@@ -3,7 +3,7 @@ Semana Academica XX.4
 
 Fecha: 2014-10-16 22:00
 Autor: Osvaldo
-Categorías: Conferencias, Talleres, Software Libre, Coahuila
+Categorías: Conferencias, Talleres, Software Libre, Coahuila, Diseño Gráfico, Inkscape, Gimp
 
 Una vez más fui invitado a dar una conferencia y un taller en la Escuela de Sistemas de la [U.A. de C.](http://www.uadec.mx/) Unidad Torreón, todo relacionado con el software libre y siempre representando al [GULAG](http://gulag.org.mx/).
 

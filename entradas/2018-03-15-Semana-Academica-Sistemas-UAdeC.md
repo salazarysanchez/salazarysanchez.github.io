@@ -3,7 +3,7 @@ Semana Académica en Escuela de Sistemas U.T. - UAdeC
 
 Fecha: 2018-03-15 22:00
 Autor: Osvaldo
-Categorías: Conferencias, Talleres, Software Libre, Free Software, Coahuila
+Categorías: Conferencias, Talleres, Software Libre, Free Software, Coahuila, Diseño Gráfico, Inkscape, Gimp
 
 Atendiendo a la invitación, acudí a dar un taller y una conferencia en la XXVIII Semana Académica celebrada por la [Escuela de Sistemas, Unidad Torreón](http://www.sistemastorreon.uadec.mx/sistemas/) de la [Univeridad Autónoma de Coahuila](http://www.uadec.mx/), como siempre representando al [GULAG](http://gulag.org.mx/).
 

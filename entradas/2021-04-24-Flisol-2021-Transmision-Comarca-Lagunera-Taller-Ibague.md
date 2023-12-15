@@ -3,7 +3,7 @@ Flisol 2021: Transmisión desde la Comarca Lagunera y Taller en Ibagué
 
 Fecha: 2021-04-24 15:00
 Autor: Osvaldo
-Categorías: FLISOL, Conferencias, Talleres, Software Libre, Free Software, Colombia, Ibagué
+Categorías: FLISOL, Conferencias, Talleres, Software Libre, Free Software, Colombia, Ibagué, Diseño Gráfico, Inkscape, Gimp
 
 
 El 24 de abril celebramos el **[Festival Latinoamericano de Instalación de Software Libre](https://flisol.info/FLISOL2021/Mexico/Torreon?highlight=%28%5CbCategoryCity%5Cb%29)** desde la Comarca Lagunera en modalidad **on line**.

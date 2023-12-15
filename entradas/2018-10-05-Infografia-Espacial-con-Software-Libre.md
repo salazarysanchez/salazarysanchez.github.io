@@ -3,7 +3,7 @@ Taller Infografía Espacial con Software Libre
 
 Fecha: 2018-10-05 13:00
 Autor: Osvaldo
-Categorías: Talleres, GULAG, Astronomía, Semana Mundial del Espacio, Durango
+Categorías: Talleres, GULAG, Astronomía, Semana Mundial del Espacio, Durango, Diseño Gráfico, Inkscape, Gimp
 
 Con motivo de la celebración de la [Semana Mundial del Espacio](https://haciaelespacio.aem.gob.mx/sme-mexico/2018/) y con el [Grupo Astronómico de Gómez Palacio](https://facebook.com/pages/Grupo-Astron%C3%B3mico-G%C3%B3mez-Palacio/114277575272066/) como sede en Gómez Palacio, Dgo., impartí, representando al [GULAG](http://www.gulag.org.mx/), el taller _"Infografía Espacial con Software Libre"_ en el Centro Mexicano-Francés del Conalep de Gómez Palacio.
 
