@@ -53,6 +53,22 @@
 
 <header><h1>Inicio</h1></header>
 <section>
+  <h3><a href="entradas/2017-08-09-Convertir-xls-a-csv-libreoffice-terminal-linux.html">Convertir de .xls a .csv en Libreoffice desde terminal en GNU/Linux</a></h3>
+
+<p>Hace unos días <a href="https://twitter.com/guabyboy">Guabyboy</a> y un servidor, mientras disfrutábamos de un café, hablábamos de <a href="https://es.wikipedia.org/wiki/Software_libre">Software Libre</a> (para variar): como hacer cálculos estadísticos con <a href="https://www.gnu.org/software/pspp/">PSPP</a>. Para ello usamos <a href="https://es.wikipedia.org/wiki/Datos_abiertos">datos abiertos</a> que proporciona el gobierno, y nos encontramos que los proporcionan en .xls, y no en <a href="https://es.wikipedia.org/wiki/CSV">.CSV</a> que sería lo ideal.</p>
+
+<p>El archivo en cuestión tenía miles de registros (filas y columnas) y al abrirlo en <a href="http://www.libreoffice.org/">Libreoffice</a> para convertirlo a CSV se tardaba mucho, y se tardaba mucho más después de aplicar la orden “Guardar como…” se tardaba aún más… en eso recordé que en <a href="https://salazarysanchez.github.io/entradas/2014-04-28-Convertir-odt-ods-en-pdf-con-LibreOffice-desde-terminal.html">LibreOffice también se puede usar la terminal</a>, por lo que leí la ayuda de LibreOffice desde terminal de mi <a href="http://www.debian.org/">Debian</a> y encontré que usando:</p>
+
+<pre><code>$ libreofficeX.X --headless --convert-to csv Archivo_con_miles_de datos.xls</code></pre>
+
+<pre><code>donde X.X es la versión de LibreOffice instalada</code></pre>
+
+<p>se puede crear el respectivo archivo .csv en un tiempo mucho menor.</p>
+
+<p>Espero les sea de utilidad como lo fue para nosotros :-D</p>
+
+</section>
+<section>
   <h3><a href="entradas/2017-08-09-Bits-Libres-Sobre-la-Neutralidad-de-la-Red.html">Bits Libres - Sobre la Neutralidad de la Red</a></h3>
   <blockquote>
 
@@ -122,20 +138,6 @@
   </blockquote>
   <button class="btn btn-default btn-sm btn-publicacion-completa" type="button" onclick="location.href='entradas/2017-03-25-dia-mundial-del-teatro-2017.html'">Publicación completa...</button>
 </section>
-<section>
-  <h3><a href="entradas/2017-03-08-Taller-Git-Github-UAdeC.html">Taller de git y github en la Escuela de Sistemas U.T. de la UAdeC</a></h3>
-  <blockquote>
-
-<p>Atendiendo a la invitación, acudí el 7 de marzo a dar el taller <strong>“Compartiendo código con Git y Github”</strong> en la Semana Académica celebrada por la <strong><a href="http://www.sistemastorreon.uadec.mx/sistemas/">Escuela de Sistemas, Unidad Torreón</a> de la <a href="http://www.uadec.mx/">Univeridad Autónoma de Coahuila</a></strong>, como siempre representando al <a href="http://gulag.org.mx/">GULAG</a>.</p>
-
-<center>
-<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="entradas/2017-03-08-Taller-Git-Github-UAdeC/git-github.png" alt="Git-Github" width="425" height="350" />
-</center>
-
-
-  </blockquote>
-  <button class="btn btn-default btn-sm btn-publicacion-completa" type="button" onclick="location.href='entradas/2017-03-08-Taller-Git-Github-UAdeC.html'">Publicación completa...</button>
-</section>
 <ul class="pagination">
   <li><a href="index-14.html">&laquo;</a></li>
   <li><a href="index.html">1</a></li>
@@ -173,7 +175,7 @@
   <li class="list-group-item"><a href="categorias/aaron_swartz.html">Aaron Swartz</a><span class="badge">1</span></li>
   <li class="list-group-item"><a href="categorias/argentina.html">Argentina</a><span class="badge">1</span></li>
   <li class="list-group-item"><a href="categorias/astronomia.html">Astronomía</a><span class="badge">10</span></li>
-  <li class="list-group-item"><a href="categorias/bits_libres.html">Bits Libres</a><span class="badge">92</span></li>
+  <li class="list-group-item"><a href="categorias/bits_libres.html">Bits Libres</a><span class="badge">93</span></li>
   <li class="list-group-item"><a href="categorias/blender.html">Blender</a><span class="badge">1</span></li>
   <li class="list-group-item"><a href="categorias/bytes_libres.html">Bytes Libres</a><span class="badge">5</span></li>
   <li class="list-group-item"><a href="categorias/calaveritas.html">Calaveritas</a><span class="badge">2</span></li>
@@ -220,7 +222,7 @@
   <li class="list-group-item"><a href="categorias/osm.html">OSM</a><span class="badge">1</span></li>
   <li class="list-group-item"><a href="categorias/openstreetmap.html">OpenStreetMap</a><span class="badge">1</span></li>
   <li class="list-group-item"><a href="categorias/poetas_y_poesia.html">Poetas y poesía</a><span class="badge">7</span></li>
-  <li class="list-group-item"><a href="categorias/publicaciones.html">Publicaciones</a><span class="badge">98</span></li>
+  <li class="list-group-item"><a href="categorias/publicaciones.html">Publicaciones</a><span class="badge">99</span></li>
   <li class="list-group-item"><a href="categorias/puebla.html">Puebla</a><span class="badge">2</span></li>
   <li class="list-group-item"><a href="categorias/patzcuaro.html">Pátzcuaro</a><span class="badge">1</span></li>
   <li class="list-group-item"><a href="categorias/r.html">R</a><span class="badge">1</span></li>
@@ -244,13 +246,14 @@
   Autores
 </div>
 <ul class="list-group">
-  <li class="list-group-item"><a href="autores/osvaldo.html">Osvaldo</a><span class="badge">174</span></li>
+  <li class="list-group-item"><a href="autores/osvaldo.html">Osvaldo</a><span class="badge">175</span></li>
 </ul>
 </div><div class="panel panel-default menu-secundario">
 <div class="panel-heading">
   Últimas publicaciones
 </div>
 <ul class="list-group">
+  <li class="list-group-item"><a href="entradas/2024-02-01-Bits-Libres-Quince-segundos.html">Bits Libres - Quince segundos</a></li>
   <li class="list-group-item"><a href="entradas/2024-01-01-Bits-Libres-Nuevas-aventuras.html">Bits Libres - Nuevas aventuras</a></li>
   <li class="list-group-item"><a href="entradas/2023-12-25-Listado-osm-mx.html">Listado de sitios con OSM en México</a></li>
   <li class="list-group-item"><a href="entradas/2023-12-01-Bits-Libres-A-los-amigos-del-Software-Libre.html">Bits Libres - A los amigos del Software Libre</a></li>
@@ -258,7 +261,6 @@
   <li class="list-group-item"><a href="entradas/2023-10-31-Calaverita-2023.html">Calaverita 2023</a></li>
   <li class="list-group-item"><a href="entradas/2023-10-01-Bits-Libres-Inteligencia-Artificial-en-el-aula.html">Bits Libres - Inteligencia Artificial en el aula</a></li>
   <li class="list-group-item"><a href="entradas/2023-09-01-Bits-Libres-Congreso-2023.html">Bits Libres - Congreso 2023</a></li>
-  <li class="list-group-item"><a href="entradas/2023-08-01-Bits-Libres-Mas-colaboradores.html">Bits Libres - Más colaboradores</a></li>
 </ul>
 </div>
         </aside>
