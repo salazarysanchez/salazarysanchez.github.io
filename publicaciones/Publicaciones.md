@@ -26,6 +26,8 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
 
+**Febrero 2024** [Quince segundos](https://www.salazarysanchez.com/entradas/2024-02-01-Bits-Libres-Quince-segundos.html)
+
 **Enero 2024** [Nuevas aventuras](https://www.salazarysanchez.com/entradas/2024-01-01-Bits-Libres-Nuevas-aventuras.html)
 
 **Diciembre 2023** [A los amigos del Software Libre](https://www.salazarysanchez.com/entradas/2023-12-01-Bits-Libres-A-los-amigos-del-Software-Libre.html)
