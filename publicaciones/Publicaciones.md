@@ -26,6 +26,13 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
 
+
+**Mayo 2024** [Tecnología futura](https://www.salazarysanchez.com/entradas/2024-05-01-Bits-Libres-Tecnologia-futura.html)
+
+**Abril 2024** [Festival por toda la Comarca](https://www.salazarysanchez.com/entradas/2024-04-01-Bits-Libres-Festival-por-toda-la-Comarca.html)
+
+**Marzo 2024** [Liberar Datos](https://www.salazarysanchez.com/entradas/2024-03-01-Bits-Libres-Liberar-Datos.html)
+
 **Febrero 2024** [Quince segundos](https://www.salazarysanchez.com/entradas/2024-02-01-Bits-Libres-Quince-segundos.html)
 
 **Enero 2024** [Nuevas aventuras](https://www.salazarysanchez.com/entradas/2024-01-01-Bits-Libres-Nuevas-aventuras.html)
