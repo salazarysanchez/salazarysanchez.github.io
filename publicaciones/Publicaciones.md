@@ -26,6 +26,7 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
 
+**Junio 2024** [Aprender de los errores](https://www.salazarysanchez.com/entradas/2024-06-01-Bits-Libres-Aprender-de-los-errores.html)
 
 **Mayo 2024** [Tecnología futura](https://www.salazarysanchez.com/entradas/2024-05-01-Bits-Libres-Tecnologia-futura.html)
 
