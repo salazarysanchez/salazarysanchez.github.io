@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Bits Libres - Aprender de los errores</title>
+      <link>https://salazarysanchez.github.io/entradas/2024-06-01-Bits-Libres-Aprender-de-los-errores.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.mx/version-impresa/&quot;&gt;Entretodos&lt;/a&gt;, en junio del 2024&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sat, 01 Jun 2024 08:00:00 -0600</pubDate>
+      <dc:date>2024-06-01T08:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Tecnología futura</title>
       <link>https://salazarysanchez.github.io/entradas/2024-05-01-Bits-Libres-Tecnologia-futura.html</link>
       <description>
@@ -92,17 +103,6 @@
       <author>Osvaldo</author>
       <pubDate>Fri, 01 Dec 2023 08:00:00 -0600</pubDate>
       <dc:date>2023-12-01T08:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Hiperconectados</title>
-      <link>https://salazarysanchez.github.io/entradas/2023-11-01-Bits-Libres-Hiperconectados.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.mx/version-impresa/&quot;&gt;Entretodos&lt;/a&gt;, en noviembre del 2023&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Wed, 01 Nov 2023 08:00:00 -0600</pubDate>
-      <dc:date>2023-11-01T08:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
