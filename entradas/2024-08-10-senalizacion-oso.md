@@ -5,7 +5,7 @@ Fecha: 2024-08-10 08:45
 Autor: Osvaldo
 Categorías: Creative Commons, Wikimedia, OSM, OpenStreetMap
 
-La fotografía, que ya se encuentra en [Wikimedia](https://commons.wikimedia.org/wiki/File:Se%C3%B1al_de_tr%C3%A1fico_de_paso_de_osos.jpg) con una [licencia CC0](https://creativecommons.org/public-domain/cc0/), la tomé mientras viajabamos rumbo a Matehuala a dar conferencias de GNU/Linux y Software Libre.
+La fotografía, que ya se encuentra en [Wikimedia](https://commons.wikimedia.org/wiki/File:Se%C3%B1al_de_tr%C3%A1fico_de_paso_de_osos.jpg) con una [licencia CC0](https://creativecommons.org/public-domain/cc0/), la tomé mientras viajabamos rumbo a [Matehuala](https://www.salazarysanchez.com/entradas/2023-10-25-Congreso-Internacional-academico.html) a dar conferencias de GNU/Linux y Software Libre.
 
 <!-- break -->
 
