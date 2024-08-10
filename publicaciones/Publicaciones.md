@@ -26,6 +26,8 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
 
+**Agosto 2024** [Sistemas críticos](https://www.salazarysanchez.com/entradas/2024-08-01-Bits-Libres-Sistemas-criticos.html)
+
 **Julio 2024** [¡Libres!](https://www.salazarysanchez.com/entradas/2024-07-01-Bits-Libres-Libres.html)
 
 **Junio 2024** [Aprender de los errores](https://www.salazarysanchez.com/entradas/2024-06-01-Bits-Libres-Aprender-de-los-errores.html)
