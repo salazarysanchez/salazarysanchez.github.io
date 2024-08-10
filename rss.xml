@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Bits Libres - Sistemas críticos</title>
+      <link>https://salazarysanchez.github.io/entradas/2024-08-01-Bits-Libres-Sistemas-criticos.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.mx/version-impresa/&quot;&gt;Entretodos&lt;/a&gt;, en agosto del 2024&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Thu, 01 Aug 2024 08:00:00 -0600</pubDate>
+      <dc:date>2024-08-01T08:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - ¡Libres!</title>
       <link>https://salazarysanchez.github.io/entradas/2024-07-01-Bits-Libres-Libres.html</link>
       <description>
@@ -84,25 +95,6 @@
       <author>Osvaldo</author>
       <pubDate>Mon, 01 Jan 2024 08:00:00 -0600</pubDate>
       <dc:date>2024-01-01T08:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Listado de sitios con OSM en México</title>
-      <link>https://salazarysanchez.github.io/entradas/2023-12-25-Listado-osm-mx.html</link>
-      <description>
-&lt;p&gt;&lt;a href=&quot;https://www.openstreetmap.org/&quot;&gt;OpenStreetMap (OSM)&lt;/a&gt; es un proyecto colaborativo para crear mapas editables y libres.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;center&gt;
-&lt;a href=&quot;https://www.openstreetmap.org/&quot;&gt;
-&lt;img class=&quot;img-responsive&quot; style=&quot;width:50%;height:auto;margin-right:12px;&quot; src=&quot;2023-12-25-Listado-osm-mx/Openstreetmap_logo.png&quot; alt=&quot;OSM&quot; width=&quot;250&quot; height=&quot;325&quot; /&gt;
-&lt;/a&gt;
-&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Mon, 25 Dec 2023 11:00:00 -0600</pubDate>
-      <dc:date>2023-12-25T11:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
