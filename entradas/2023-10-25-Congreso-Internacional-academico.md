@@ -3,7 +3,7 @@ Congreso Internacional Académico 2023
 
 Fecha: 2023-10-25 23:00
 Autor: Osvaldo
-Categorías: Talleres, Software Libre, Free Software, San Luis Potosí, GNU/Linux
+Categorías: Conferencias, Talleres, Software Libre, Free Software, San Luis Potosí, GNU/Linux
 
 En el mes de octubre del 2023 participé en el **Congreso Internacional Académico 2023** organizado por el **Tecnológico Nacional de México Campus [Instituto Tecnológico de Matehuala](https://matehuala.tecnm.mx/)**, en Matehuala, San Luis Potosí, con un taller y una conferencia.
 
