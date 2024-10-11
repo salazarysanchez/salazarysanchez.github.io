@@ -3,7 +3,7 @@ Taller "Modelado de Cambio Climático con Software Libre"
 
 Fecha: 2024-10-09 13:00
 Autor: Osvaldo
-Categorías: Talleres, GULAG, Astronomía, Semana Mundial del Espacio, Durango, Cambio Climático, Python
+Categorías: Talleres, GULAG, Astronomía, Semana Mundial del Espacio, Durango, Cambio Climático, Datos Abiertos, Python
 
 Con motivo de la celebración de la [Semana Mundial del Espacio](http://sme-mexico.space/2024/) y con el [Grupo Astronómico de Gómez Palacio](https://linktr.ee/grupoastronomicogp) como sede en Gómez Palacio, Dgo., impartí, representando al [GULAG](http://www.gulag.org.mx/), el taller _"Modelado de Cambio Climático con Software Libre"_ en el Centro Mexicano-Francés del Conalep de Gómez Palacio.
 
@@ -23,11 +23,11 @@ Con motivo de la celebración de la [Semana Mundial del Espacio](http://sme-mexi
 
 Se inició mostrando las virtudes del [Software Libre](https://es.wikipedia.org/wiki/Software_libre) y se explicaron las [4 libertades](https://es.wikipedia.org/wiki/Software_libre#Las_cuatro_libertades_del_software_libre) que se tienen.
 
-Después se utilizaron [Python](https://www.python.org/), [Jupyter Notebook](https://jupyter.org/) y datos abiertos de la [NASA](https://data.giss.nasa.gov/gistemp) se enseñó como procesar esa información para obtener imagen de como está la temperatura en la Tierra y, más en concreto, en México.
+Después se utilizaron [Python](https://www.python.org/), [Jupyter Notebook](https://jupyter.org/) y datos abiertos de la [NASA](https://data.giss.nasa.gov/gistemp) para enseñarles como procesar esa información para obtener una imagen de como está la temperatura en la Tierra y, más en concreto, en México.
 
 Para terminar se usó [ffmpeg](https://ffmpeg.org/), junto con lo anterior, para obtener video y analizar como ha cambiado la temperatura en México desde el siglo pasado hasta hoy. 
 
-Al terminar, junto con el reconocimiento y la foto grupal, me regalaron un astronauta hecho por [el equipo de robótica](https://frc-events.firstinspires.org/team/9513) con su impresora 3D.
+Al terminar, junto con el reconocimiento y la foto grupal, me regalaron un astronauta hecho por su [equipo de robótica](https://frc-events.firstinspires.org/team/9513) con su impresora 3D.
 
 <br />
 <center>
