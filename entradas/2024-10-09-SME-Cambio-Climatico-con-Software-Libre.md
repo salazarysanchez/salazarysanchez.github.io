@@ -25,6 +25,13 @@ Se inició mostrando las virtudes del [Software Libre](https://es.wikipedia.org/
 
 Después se utilizaron [Python](https://www.python.org/), [Jupyter Notebook](https://jupyter.org/) y datos abiertos de la [NASA](https://data.giss.nasa.gov/gistemp) para enseñarles como procesar esa información para obtener una imagen de como está la temperatura en la Tierra y, más en concreto, en México.
 
+<center>
+<a href="https://github.com/ChicoXXX/CambioClimaticoConSoftwareLibre/blob/main/mx.png?raw=true">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="https://github.com/ChicoXXX/CambioClimaticoConSoftwareLibre/blob/main/mx.png?raw=true" alt="Temperatura MX 2024" width="250" height="325">
+</a>
+<br />
+</center>
+
 Para terminar se usó [ffmpeg](https://ffmpeg.org/), junto con lo anterior, para obtener video y analizar como ha cambiado la temperatura en México desde el siglo pasado hasta hoy. 
 
 Al terminar, junto con el reconocimiento y la foto grupal, me regalaron un astronauta hecho por su [equipo de robótica](https://frc-events.firstinspires.org/team/9513) con su impresora 3D.
