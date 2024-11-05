@@ -26,6 +26,8 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
 
+**Noviembre 2024** [Software Libre en todas partes](https://www.salazarysanchez.com/entradas/2024-11-01-Bits-Libres-Software-Libre-en-todas-partes.html)
+
 **Octubre 2024** [Descentralización](https://www.salazarysanchez.com/entradas/2024-10-01-Bits-Libres-Descentralizacion.html)
 
 **Septiembre 2024** [Re-Aprender](https://www.salazarysanchez.com/entradas/2024-09-01-Bits-Libres-Re-aprender.html)
