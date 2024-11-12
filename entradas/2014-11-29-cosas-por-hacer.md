@@ -18,7 +18,7 @@ Una frase que repito en mis conferencias es de George Bernard Shaw: "Si tú tien
 Dicho lo anterior compartiré algunas de las cosas que quiero hacer, o tener. Si quieren ayudar a cumplir uno de estos objetivos (ya sea: que lo hagamos entre los dos, que me ayuden a hacerlo, que me oriente como hacerlo al corto, mediano o largo plazo, o bien, con porras :-) ), de antemano se los agradezco.
 
 * Viajar a Chiapas.
-* Dar, por lo menos, una conferencia sobre [Software Libre](https://es.wikipedia.org/wiki/Software_libre) en cada estado de México. Hasta el momento lo he hecho en [Coahuila](http://www.salazarysanchez.com/categorias/coahuila.html), [Durango](http://www.salazarysanchez.com/categorias/durango.html), [San Luis Potosí](http://www.salazarysanchez.com/categorias/san_luis_potosi.html), [Puebla](http://www.salazarysanchez.com/categorias/puebla.html) y [Michoacán](http://www.salazarysanchez.com/categorias/michoacan.html).
+* Dar, por lo menos, una conferencia sobre [Software Libre](https://es.wikipedia.org/wiki/Software_libre) en cada estado de México. Hasta el momento lo he hecho en [Coahuila](http://www.salazarysanchez.com/categorias/coahuila.html), [Durango](http://www.salazarysanchez.com/categorias/durango.html), [San Luis Potosí](http://www.salazarysanchez.com/categorias/san_luis_potosi.html), [Puebla](http://www.salazarysanchez.com/categorias/puebla.html), [Michoacán](http://www.salazarysanchez.com/categorias/michoacan.html) y [CDMX](http://www.salazarysanchez.com/categorias/cdmx.html).
 * Dar, por lo menos, una conferencia sobre Software Libre fuera del país. Hasta el momento lo he hecho en [Ecuador](https://www.salazarysanchez.com/categorias/ecuador.html) y [Colombia](https://www.salazarysanchez.com/categorias/colombia.html).
 * Dar una conferencia en LibrePlanet.
 * Dar una conferencia en FOSDEM.
@@ -36,15 +36,17 @@ Dicho lo anterior compartiré algunas de las cosas que quiero hacer, o tener. Si
 * Actuar fuera del país.
 * Escalar por lo menos dos montañas.
 * Aprender Náhuatl.
-* Aprender Zapoteco.
 * Montar un mirror de una distribución de GNU/Linux en mi estado.
 * Tomar curso con ZK.
 * Escribir una obra de teatro.
 * Ayudar a que se retire la vigilancia de la Ley de Telecomunicaciones (Artículo 190).
+* Lograr que tengamos nuevamente [Datos Abiertos en Torreón](https://x.com/Osvaldo_Salazar/status/1820968854798872612?s=19).
 * Ayudar a que se autorice la Ley de Software Libre en Torreón.
 * Ayudar a que se autorice la Ley de Software Libre en Coahuila.
 * Ayudar a que se autorice la Ley de Software Libre en México.
 * Ver las pinturas y grabados de la Cueva de Altamira.
+* <strike> Participar en Nerdearla </strike>
+* Participar nuevamente en Nerdearla.
 
 Ésta lista puede crecer el día de mañana, pero trataré que no disminuya.
 
