@@ -26,6 +26,8 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
 
+**Enero 2025** [Más dominio público](https://www.salazarysanchez.com/entradas/2025-01-01-Bits-Libres-Mas-dominio-publico.html)
+
 **Diciembre 2024** [Nos acercamos a la meta](https://www.salazarysanchez.com/entradas/2024-12-01-Bits-Libres-Nos-acercamos-a-la-meta.html)
 
 **Noviembre 2024** [Software Libre en todas partes](https://www.salazarysanchez.com/entradas/2024-11-01-Bits-Libres-Software-Libre-en-todas-partes.html)
