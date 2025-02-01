@@ -3,7 +3,7 @@ Bits Libres - Mapeando ando
 
 Fecha: 2025-02-01 8:00
 Autor: Osvaldo
-Categorías: Publicaciones, Bits Libres
+Categorías: Publicaciones, Bits Libres, OSM, OpenStreetMap
 
 _Publicado en la sección [Bits Libres](http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html) del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en febrero del 2025_
 
