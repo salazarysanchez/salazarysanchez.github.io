@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="utf-8">
-  <title>salazarysanchez - Bits Libres - Eventos híbridos</title>
+  <title>salazarysanchez - Crear gif a partir de un video con ffmpeg</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="Osvaldo">
@@ -53,37 +53,38 @@
 
 <article>
   <header>
-    <h1>Bits Libres - Eventos híbridos</h1>
-    <p class="autor-fecha">Por Osvaldo, 2022-08-01 8:00</p>
+    <h1>Crear gif a partir de un video con ffmpeg</h1>
+    <p class="autor-fecha">Por Osvaldo, 2025-02-01 11:30</p>
   </header>
 
-<p><em>Publicado en la sección <a href="http://www.gulag.org.mx/revista/2016-05-10-Bits-Libres.html">Bits Libres</a> del periódico <a href="http://periodicoentretodos.mx/version-impresa/">Entretodos</a>, en agosto del 2022</em></p>
+<p>He contiuado editando en OpenStreetMap y quise crear un video con lo que agregué en este mes, pero después decidí hacerlo en gif.</p>
 
-<h3 id="eventos-hbridos">Eventos híbridos</h3>
+<p>Para ello entre a ver la versión en 3D en <a href="https://demo.f4map.com/">f4map</a> del área que quiero mostrar. Después usé <a href="https://www.maartenbaert.be/simplescreenrecorder/">SimpleScreenRecorder</a> para grabar unos segundos del área. Como también me grabó audio usé el siguiente comando en la terminal para extraer solo el video:</p>
 
-<p>Con el inicio de la presente pandemia de covid-19 muchas instituciones educativas empezaron a usar educación a distancia los que la tenían y las que no, educación de emergencia.</p>
+<pre><code>ffmpeg -i Mapeo-Enero-2025-2025-01-31_12.08.19.mkv -an -c:v copy Mapeo-Enero-2025.mp4</code></pre>
 
-<p>Junto con esto llegó el auge de los eventos a distancia: congresos, talleres, charlas, etcétera.</p>
+<p>Una vez obtenido solamente el video lo último fue usar el siguiente comando para obtener el archivo gif.</p>
 
-<p>Para bien de todos se trabajó en una vacuna de la cual la mayoría ya goza. Esperemos en un futuro cercano, sean todos.</p>
+<pre><code>ffmpeg -i Mapeo-Enero-2025.mp4 Mapeo-Enero-2025.gif</code></pre>
 
-<p>Con lo anterior se han empezado a generar eventos en modalidad presencial y, aunque está bien , es también recomendable no olvidar ni dejar de lado el terreno ganado con la modalidad a distancia.</p>
+<p>Y así es como obtuve el siguiente gif:</p>
 
-<p>Ahora que las instituciones educativas mantuvieron sus funciones y, algunas, con gente más allá de su región, más allá de su estado, más allá de su país, mi recomendación sigue siendo (pueden revisar columnas anteriores) trabajar el modelo híbrido para incrementar el servicio a personas que les interese.</p>
+<p><br /></p>
+<center>
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2025-02-01-Crear_gif_de_video_con_ffmpeg/Mapeo-Enero-2025.gif" alt="CursosBlender Calaverita" width="250" height="325" />
+</center>
+<p><br /></p>
 
-<p>Lo mismo con los eventos (congresos, talleres, charlas, etcétera) pueden llegar a personas de cualquier parte del mundo, si lo organizan bien, y tener mayor cantidad de impactos.</p>
+<p>Al verlo terminado vi que… pude haberlo hecho solo con el segundo comando… ya que no pasa el audio al gif…</p>
 
-<p>Un evento híbrido es aquel que se realiza en un espacio físico y al que también asiste la audiencia on line. Algunas de las ventajas son el llegar a audiencias mucho más amplias, reducción de costos, mayor trazabilidad del comportamiento de los asistentes, feedback en tiempo real y una mayor perdurabilidad del contenido, que puede <a href="https://www.youtube.com/osvaldosalazar">quedar registrado</a> y <a href="https://www.youtube.com/channel/UCTDFuE72U4L1NknVbsXH32g">disponible on line</a>, con la consiguiente amplificación de la audiencia.</p>
+<p>jejeje ¡ups! XD</p>
 
-<p>Lo mismo aplica para los sectores empresarial, gubernamental, de salud, etcétera.</p>
 
   <footer>
     <div class="btn-group">
-<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/publicaciones.html'">Publicaciones</button>
-<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/bits_libres.html'">Bits Libres</button>
-<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/gulag.html'">GULAG</button>
-<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/software_libre.html'">Software Libre</button>
-<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/free_software.html'">Free Software</button>
+<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/ffmpeg.html'">ffmpeg</button>
+<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/osm.html'">OSM</button>
+<button class="btn btn-default btn-group-sm btn-categoria" type="buttom" onclick="location.href='../categorias/openstreetmap.html'">OpenStreetMap</button>
     </div>
   </footer>
 </article>

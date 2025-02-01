@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Crear gif a partir de un video con ffmpeg</title>
+      <link>https://salazarysanchez.github.io/entradas/2025-02-01-Crear_gif_de_video_con_ffmpeg.html</link>
+      <description>
+&lt;p&gt;He contiuado editando en OpenStreetMap y quise crear un video con lo que agregué en este mes, pero después decidí hacerlo en gif.&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sat, 01 Feb 2025 11:30:00 -0600</pubDate>
+      <dc:date>2025-02-01T11:30:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - Mapeando ando</title>
       <link>https://salazarysanchez.github.io/entradas/2025-02-01-Bits-Libres-Mapeando-ando.html</link>
       <description>
@@ -92,17 +103,6 @@
       <author>Osvaldo</author>
       <pubDate>Wed, 09 Oct 2024 13:00:00 -0600</pubDate>
       <dc:date>2024-10-09T13:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Descentralización</title>
-      <link>https://salazarysanchez.github.io/entradas/2024-10-01-Bits-Libres-Descentralizacion.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.mx/version-impresa/&quot;&gt;Entretodos&lt;/a&gt;, en octubre del 2024&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Tue, 01 Oct 2024 08:00:00 -0600</pubDate>
-      <dc:date>2024-10-01T08:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
