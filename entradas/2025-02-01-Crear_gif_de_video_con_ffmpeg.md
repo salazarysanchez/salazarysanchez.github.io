@@ -5,7 +5,7 @@ Fecha: 2025-02-01 11:30
 Autor: Osvaldo
 Categorías: ffmpeg, OSM, OpenStreetMap
 
-He contiuado editando en OpenStreetMap y quise crear un video con lo que agregué en este mes, pero después decidí hacerlo en gif.
+He contiuado editando en [OpenStreetMap (OSM)](https://www.openstreetmap.org/) y quise crear un video con lo que agregué en este mes, pero después decidí hacerlo en gif.
 
 <!-- break -->
 
@@ -21,7 +21,9 @@ Y así es como obtuve el siguiente gif:
 
 <br />
 <center>
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2025-02-01-Crear_gif_de_video_con_ffmpeg/Mapeo-Enero-2025.gif" alt="CursosBlender Calaverita" width="250" height="325">
+<a ref="2025-02-01-Crear_gif_de_video_con_ffmpeg/Mapeo-Enero-2025.gif">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2025-02-01-Crear_gif_de_video_con_ffmpeg/Mapeo-Enero-2025.gif" alt="CursosBlender Calaverita" width="350" height="425">
+</a>
 </center>
 <br />
 

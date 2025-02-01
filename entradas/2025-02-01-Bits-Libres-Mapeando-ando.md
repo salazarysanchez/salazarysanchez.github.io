@@ -1,7 +1,7 @@
 Bits Libres - Mapeando ando
 ==================================
 
-Fecha: 2025-02-01 8:00
+Fecha: 2025-02-01 08:00
 Autor: Osvaldo
 Categorías: Publicaciones, Bits Libres, OSM, OpenStreetMap
 
