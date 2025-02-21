@@ -3,7 +3,7 @@ Foro Académico Nacional 2014
 
 Fecha: 2014-10-24 22:00
 Autor: Osvaldo
-Categorías: Conferencias, Software Libre, Coahuila
+Categorías: Conferencias, Software Libre, Privacidad, Coahuila
 
 Una conferencia que impartí gustó tanto que fui invitado a darla en el [Instituto Tecnólogico de La Laguna](http://www.itlalaguna.edu.mx/), y como siempre, representando al [GULAG](http://gulag.org.mx/).
 

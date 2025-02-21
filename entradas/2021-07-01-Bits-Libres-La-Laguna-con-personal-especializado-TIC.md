@@ -31,12 +31,13 @@ __¿Qué hay detrás de esa pantalla para que todo funcione?__
 
 * Y no olvidemos a aquellos especialistas que están evaluando y testeando lo que viene en TICs para los próximos años.
 
-Como podemos ver se necesita más de una persona en cada empresa, pero las empresas contratan a una sola persona para que haga todo lo arriba mencionado, por dos veces el salario mínimo en la mayoría de los casos … y en el mejor de los casos.  Es como si quisieran un médico cirujano de todas las especialidades con disponibilidad 24/7 y con sueldo de residente.
+Como podemos ver se necesita más de una persona en cada empresa, pero las empresas contratan a una sola persona para que haga todo lo arriba mencionado, por dos veces el salario mínimo en la mayoría de los casos... y en el mejor de los casos.  Es como si quisieran un médico cirujano de todas las especialidades con disponibilidad 24/7 y con sueldo de residente.
 
 ¿Qué es lo que hace el especialista de cada una de las líneas de trabajo arriba listadas al ver esos niveles de remuneración? Busca mejores opciones. Y las encuentra o fuera de la Comarca Lagunera o fuera del país.
 
-Y algo curioso sucede cuando las empresas buscan especialistas en TICs fuera de La Comarca: No les niegan salarios altos a quienes vienen de otros estados… y en ocasiones se han traído a un Lagunero que se fue a ese estado de la República. ¡Los giros de la vida!. Si van a dar un salario alto a quienes vienen de otras partes ¿por qué no ofrecerlo a los de la Comarca?
+Y algo curioso sucede cuando las empresas [buscan especialistas en TICs fuera de La Comarca](https://www.elsiglodetorreon.com.mx/noticia/2021/carece-la-laguna-de-personal-especializado-en-tecnologias-de-la-informacion.html): No les niegan salarios altos a quienes vienen de otros estados... y en ocasiones se han traído a un Lagunero que se fue a ese estado de la República. ¡Los giros de la vida!. Si van a dar un salario alto a quienes vienen de otras partes ¿por qué no ofrecerlo a los de la Comarca?
 
 En el punto de los planes de estudio, las empresas dicen lo que necesita y los alumnos se especializan en ello y después la empresa ya no necesita más y los alumnos enfrentan de nuevo a una desactualización. Contadas empresas actualizan debidamente a sus especialistas en TICs.
 
 En la Comarca Lagunera se cuenta con el [Grupo de Usuarios de GNU/Linux de La Laguna (GULAG)](http://www.gulag.org.mx) el cual tiene entre sus integrantes especialistas para diferentes áreas de TICs y de ello pueden dar testimonio muchos de ellos que se encuentran fuera de la Comarca, fuera del país.
+
