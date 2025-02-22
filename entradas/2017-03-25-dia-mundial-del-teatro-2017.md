@@ -25,7 +25,7 @@ En años anteriores hemos celebrado el Día Mundial del Teatro con la puesta en 
 
 El __lunes 27 de marzo del 2017, a las 19:00 horas, en el Teatro Salvador Novo (C. Galeana y prolongación Colón, en Torreón)__, celebraremos el día Mundial del Teatro con la puesta en escena __"La Culebra (Espectáculo Globalifóbico)"__ dramaturgia y dirección de Gerardo Moscoso C. donde verán a un servidor como asistente de Dirección y a 20 actores en escena.
 
-El Mensaje con motivo del Día Internacional del Teatro de este año, 2017, es redactado por [Isabelle Huppert](https://en.wikipedia.org/wiki/Isabelle_Huppert). El [mensaje](https://www.world-theatre-day.org/pdfs/WTD_Huppert_2017_EN.pdf) es el siguiente:
+El Mensaje con motivo del Día Internacional del Teatro de este año, [2017](https://www.world-theatre-day.org/isabelle_huppert.html), es redactado por [Isabelle Huppert](https://en.wikipedia.org/wiki/Isabelle_Huppert). El [mensaje](https://www.world-theatre-day.org/pdfs/WTD_Huppert_2017_EN.pdf) es el siguiente:
 
 <br />
 
