@@ -15,7 +15,7 @@ El [Día Mundial del Teatro](https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_del_
 
 Desde entonces, cada año el 27 de marzo, el Día Mundial del Teatro se celebra en muchas y variadas formas por los Centros Nacionales del ITI de los cuales en la actualidad hay casi 100 en todo el mundo. Cada año, una figura sobresaliente en el teatro o una persona excepcional en corazón y espíritu de otro campo, es invitada a compartir sus reflexiones sobre el teatro y la armonía internacional. Lo que se conoce como el Mensaje Internacional se traduce en más de 20 idiomas, leído por decenas de miles de espectadores antes de las presentaciones en teatros de todo el mundo.
 
-El Mensaje con motivo del [Día Internacional del Teatro](https://www.world-theatre-day.org/messageauthor.html) de este año, 2023, es redactado por [Samiha Ayoub](https://en.wikipedia.org/wiki/Samiha_Ayoub). El mensaje es el siguiente ([inglés](https://www.world-theatre-day.org/pdfs/WTD2023_SamihaAYOUB_Message_EN.pdf)/[español](https://www.world-theatre-day.org/pdfs/WTD2023_SamihaAYOUB_Message_Spanish.pdf)):
+El Mensaje con motivo del [Día Internacional del Teatro](https://www.world-theatre-day.org/messageauthor.html) de este año, [2023](https://www.world-theatre-day.org/samiha_ayoub.html), es redactado por [Samiha Ayoub](https://en.wikipedia.org/wiki/Samiha_Ayoub). El mensaje es el siguiente ([inglés](https://www.world-theatre-day.org/pdfs/WTD2023_SamihaAYOUB_Message_EN.pdf)/[español](https://www.world-theatre-day.org/pdfs/WTD2023_SamihaAYOUB_Message_Spanish.pdf)):
 
 <br />
 
