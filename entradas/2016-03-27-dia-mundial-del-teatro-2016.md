@@ -15,7 +15,7 @@ El Día Mundial del Teatro fue creado en 1961 por el [Instituto Internacional de
 
 Desde entonces, cada año el 27 de marzo, el Día Mundial del Teatro se celebra en muchas y variadas formas por los Centros Nacionales del ITI de los cuales en la actualidad hay casi 100 en todo el mundo. Cada año, una figura sobresaliente en el teatro o una persona excepcional en corazón y espíritu de otro campo, es invitada a compartir sus reflexiones sobre el teatro y la armonía internacional. Lo que se conoce como el Mensaje Internacional se traduce en más de 20 idiomas, leído por decenas de miles de espectadores antes de las presentaciones en teatros de todo el mundo.
 
-El Mensaje con motivo del Día Internacional del Teatro de este año, 2016, es redactado por [Anatoli Vassiliev](https://en.wikipedia.org/wiki/Anatoli_Vassiliev): director de teatro, director de la _Escuela de Arte Dramático_ de Moscoú. El [mensaje](http://www.world-theatre-day.org/message.html) es el siguiente:
+El Mensaje con motivo del Día Internacional del Teatro de este año, 2016, es redactado por [Anatoli Vassiliev](https://en.wikipedia.org/wiki/Anatoly_Vasiliev_(theatre_director)): director de teatro, director de la _Escuela de Arte Dramático_ de Moscoú. El [mensaje](https://www.world-theatre-day.org/anatoly_vasiliev.html) es el siguiente:
 
 <br />
 
