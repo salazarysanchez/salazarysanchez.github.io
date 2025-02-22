@@ -19,7 +19,7 @@ Con "El viaje de los cantores" hemos celebramos el Día Mundial del Teatro en el
 
 Con 30 actores en escena, un servidor tanto como asistente de Dirección como actor, todos bajo la dirección de Gerardo Moscoso C. celebraremos el día Mundial del Teatro el 27 de marzo a las 19:00 horas en el Teatro Salvador Novo (C. Galeana y prolongación Colón, En Torreón).
 
-El Mensaje con motivo del Día Internacional del Teatro de este año, 2013, es redactado por [Brett Bailey](https://en.wikipedia.org/wiki/Brett_Bailey): dramaturgo, diseñador, director de escena y artista plástico Sudafricano y director artístico de _Third World Bunfight_. El [mensaje](http://www.world-theatre-day.org/en/message.html) es el siguiente:
+El Mensaje con motivo del Día Internacional del Teatro de este año, 2014, es redactado por [Brett Bailey](https://en.wikipedia.org/wiki/Brett_Bailey): dramaturgo, diseñador, director de escena y artista plástico Sudafricano y director artístico de _Third World Bunfight_. El [mensaje](https://www.world-theatre-day.org/brett_bailey.html) es el siguiente:
 
 ###"Donde quiera que haya una sociedad humana el incontenible espíritu de la actuación se manifiesta.
 
