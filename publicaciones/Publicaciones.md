@@ -26,6 +26,8 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
 
+**Marzo 2025** [Manchar el plumaje](https://www.salazarysanchez.com/entradas/2025-03-01-Bits-Libres-Manchar-el-plumaje.html)
+
 **Febrero 2025** [Mapeando ando](https://www.salazarysanchez.com/entradas/2025-02-01-Bits-Libres-Mapeando-ando.html)
 
 **Enero 2025** [Más dominio público](https://www.salazarysanchez.com/entradas/2025-01-01-Bits-Libres-Mas-dominio-publico.html)
