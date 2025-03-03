@@ -14,16 +14,12 @@ Con motivo del [Open Data Day](https://opendataday.org/es_es/) de este año esta
 <a href="https://opendataday.org/">
 <img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2025-03-03-OpenDataDay-OSM/ODD-logo-portrait-full.png" alt="ODD" width="425" height="350">
 </a>
-<br />
-<a href="https://wiki.openstreetmap.org/wiki/ES:M%C3%A9xico">
-<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2023-12-25-Listado-osm-mx/OpenStreetMap-Mexico.png" alt="OSM mx" width="250" height="325">
-</a>
 </center>
 <br />
 
 El taller "Mapeando tu escuela" lo impartiré en:
 
-* Universidad Autónoma de la Laguna, el 5 de Marzo.
+* [Universidad Autónoma de la Laguna](https://opendataday.org/es_es/events/2025/#mapeando-tu-escuela), el [5 de Marzo](https://osmcal.org/event/3580/).
 
 Espero pronto agregar más universidades a este evento.
 
