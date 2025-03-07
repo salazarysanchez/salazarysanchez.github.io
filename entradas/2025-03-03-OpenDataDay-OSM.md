@@ -20,6 +20,7 @@ Con motivo del [Open Data Day](https://opendataday.org/es_es/) de este año esta
 El taller "Mapeando tu escuela" lo impartiré en:
 
 * [Universidad Autónoma de la Laguna](https://opendataday.org/es_es/events/2025/#mapeando-tu-escuela), el [5 de Marzo](https://osmcal.org/event/3580/).
+* [Universidad Tecnológica de La Laguna de Durango](https://opendataday.org/es_es/events/2025/), el [7 de Marzo](https://osmcal.org/event/3589/).
 
 Espero pronto agregar más universidades a este evento.
 
