@@ -28,7 +28,7 @@ Tengo un repertorio de [conferencias](http://www.salazarysanchez.com/categorias/
 * [Compartiendo código con Git y Github](https://www.salazarysanchez.com/entradas/2017-03-08-Taller-Git-Github-UAdeC.html)
 * Envío cifrado de e-mails
 * [Animación básica con Blender](https://www.salazarysanchez.com/entradas/2022-11-10-Congreso-Internacional-academico-blender.html)
-* Mapeo básico con OpenStreetMap
+* [Mapeo básico con OpenStreetMap](https://www.salazarysanchez.com/entradas/2025-03-03-OpenDataDay-OSM.html)
 * [Programar en Blender](https://www.salazarysanchez.com/entradas/2024-11-09-Nerdearla-MX-2024-orbita-planeta-blender-python.html)
 * [Clasificando galaxias en proyecto de Ciencia Ciudadana](https://www.salazarysanchez.com/entradas/2025-02-19-Clasificando-galaxias-Ciencia-Ciudadana-ZooUniverse.html)
 
