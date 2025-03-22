@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Blender Básico en UTLD</title>
+      <link>https://salazarysanchez.github.io/entradas/2025-03-19-UTLD-Blender-basico.html</link>
+      <description>
+&lt;p&gt;El 19 de marzo del 2025, representando al &lt;a href=&quot;http://www.gulag.org.mx/&quot;&gt;Grupo de Usuarios de GNU/Linux de La Laguna&lt;/a&gt; participé en la &lt;strong&gt;&lt;a href=&quot;https://www.utlagunadurango.edu.mx/&quot;&gt;Universidad Tecnológica de La Laguna Durango&lt;/a&gt;&lt;/strong&gt; con un taller de &lt;a href=&quot;https://www.blender.org/&quot;&gt;Blender&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Wed, 19 Mar 2025 10:30:00 -0600</pubDate>
+      <dc:date>2025-03-19T10:30:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Open Data Day 2025</title>
       <link>https://salazarysanchez.github.io/entradas/2025-03-03-OpenDataDay-OSM.html</link>
       <description>
@@ -84,19 +95,6 @@
       <author>Osvaldo</author>
       <pubDate>Sun, 01 Dec 2024 08:00:00 -0600</pubDate>
       <dc:date>2024-12-01T08:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Nerdearla México 2024</title>
-      <link>https://salazarysanchez.github.io/entradas/2024-11-09-Nerdearla-MX-2024-orbita-planeta-blender-python.html</link>
-      <description>
-&lt;p&gt;¡Logro desbloqueado!&lt;/p&gt;
-
-&lt;p&gt;El 9 de noviembre participé en &lt;a href=&quot;https://nerdear.la/es/&quot;&gt;Nerdearla&lt;/a&gt; en su edición para &lt;a href=&quot;https://nerdearla.mx/es/&quot;&gt;México 2024&lt;/a&gt;&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Sat, 09 Nov 2024 16:00:00 -0600</pubDate>
-      <dc:date>2024-11-09T16:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
