@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Bits Libres - “Solamente presencial”</title>
+      <link>https://salazarysanchez.github.io/entradas/2025-04-01-Bits-Libres-Solamente-presencial.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.mx/version-impresa/&quot;&gt;Entretodos&lt;/a&gt;, en abril del 2025&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Tue, 01 Apr 2025 08:00:00 -0600</pubDate>
+      <dc:date>2025-04-01T08:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Blender Básico en UTLD</title>
       <link>https://salazarysanchez.github.io/entradas/2025-03-19-UTLD-Blender-basico.html</link>
       <description>
@@ -84,17 +95,6 @@
       <author>Osvaldo</author>
       <pubDate>Wed, 01 Jan 2025 08:00:00 -0600</pubDate>
       <dc:date>2025-01-01T08:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Nos acercamos a la meta</title>
-      <link>https://salazarysanchez.github.io/entradas/2024-12-01-Bits-Libres-Nos-acercamos-a-la-meta.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.mx/version-impresa/&quot;&gt;Entretodos&lt;/a&gt;, en diciembre del 2024&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Sun, 01 Dec 2024 08:00:00 -0600</pubDate>
-      <dc:date>2024-12-01T08:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
