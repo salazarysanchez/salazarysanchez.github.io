@@ -26,4 +26,6 @@ Espero más universidades se sumen a este evento el siguiente año.
 
 La presentación se puede descargar [aquí](2025-03-03-OpenDataDay-OSM/ODD-2025.pdf).
 
+Resultados y fotos en el sitio del [Grupo de Usuarios de GNU/Linux de La Laguna](http://www.gulag.org.mx/open-data-day-2025.html)
+
 
