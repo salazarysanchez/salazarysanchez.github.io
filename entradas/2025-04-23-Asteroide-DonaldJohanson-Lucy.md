@@ -1,4 +1,4 @@
-Imagen en sterografía del asteroide DonaldJohanson
+Imagen estereoscópica del asteroide DonaldJohanson
 ===========
 
 Fecha: 2025-04-23 16:00
