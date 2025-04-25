@@ -3,7 +3,7 @@ Open Data Day 2025
 
 Fecha: 2025-03-03 09:00
 Autor: Osvaldo
-Categorías: Talleres, Open Data Day, OSM, OpenStreetMap, Coahuila, Durango
+Categorías: Talleres, Open Data Day, OSM, OpenStreetMap, Coahuila, Durango, Ciencia Ciudadana
 
 Con motivo del [Open Data Day](https://opendataday.org/es_es/) de este año estaré dando talleres de mapeo básico en diferentes instituciones educativas de la Comarca Lagunera entre el 1 y el 7 de marzo.
 
