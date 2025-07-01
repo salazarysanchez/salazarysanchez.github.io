@@ -26,9 +26,11 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
 
-**Junio 2025** [“GenAI en el trabajo”](https://www.salazarysanchez.com/entradas/2025-06-01-Bits-Libres-GenAI-en-el-trabajo.html)
+**Julio 2025** [< Vacaciones />](https://www.salazarysanchez.com/entradas/2025-07-01-Bits-Libres-Vacaciones.html)
 
-**Mayo 2025** [“Red flags de influencers”](https://www.salazarysanchez.com/entradas/2025-05-01-Bits-Libres-Red-flags-de-influencers.html)
+**Junio 2025** [GenAI en el trabajo](https://www.salazarysanchez.com/entradas/2025-06-01-Bits-Libres-GenAI-en-el-trabajo.html)
+
+**Mayo 2025** [Red flags de influencers](https://www.salazarysanchez.com/entradas/2025-05-01-Bits-Libres-Red-flags-de-influencers.html)
 
 **Abril 2025** [“Solamente presencial”](https://www.salazarysanchez.com/entradas/2025-04-01-Bits-Libres-Solamente-presencial.html)
 
