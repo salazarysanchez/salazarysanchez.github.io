@@ -26,6 +26,8 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
 
+**Agosto 2025** [La caverna de la IA](https://www.salazarysanchez.com/entradas/2025-08-01-Bits-Libres-La-caverna-de-la-IA.html)
+
 **Julio 2025** [< Vacaciones />](https://www.salazarysanchez.com/entradas/2025-07-01-Bits-Libres-Vacaciones.html)
 
 **Junio 2025** [GenAI en el trabajo](https://www.salazarysanchez.com/entradas/2025-06-01-Bits-Libres-GenAI-en-el-trabajo.html)
