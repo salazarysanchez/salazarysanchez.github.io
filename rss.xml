@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Bits Libres - XX Aniversario</title>
+      <link>https://salazarysanchez.github.io/entradas/2025-09-01-Bits-Libres-XX-Aniversario.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.mx/version-impresa/&quot;&gt;Entretodos&lt;/a&gt;, en septiembre del 2025&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Mon, 01 Sep 2025 08:00:00 -0600</pubDate>
+      <dc:date>2025-09-01T08:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - La caverna de la IA</title>
       <link>https://salazarysanchez.github.io/entradas/2025-08-01-Bits-Libres-La-caverna-de-la-IA.html</link>
       <description>
@@ -16,8 +27,8 @@
 
 </description>
       <author>Osvaldo</author>
-      <pubDate>Mon, 01 Sep 2025 08:00:00 -0600</pubDate>
-      <dc:date>2025-09-01T08:00:00-06:00</dc:date>
+      <pubDate>Fri, 01 Aug 2025 08:00:00 -0600</pubDate>
+      <dc:date>2025-08-01T08:00:00-06:00</dc:date>
     </item>
     <item>
       <title>Bits Libres - &lt; Vacaciones /&gt;</title>
@@ -84,17 +95,6 @@
       <author>Osvaldo</author>
       <pubDate>Wed, 19 Mar 2025 10:30:00 -0600</pubDate>
       <dc:date>2025-03-19T10:30:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Open Data Day 2025</title>
-      <link>https://salazarysanchez.github.io/entradas/2025-03-03-OpenDataDay-OSM.html</link>
-      <description>
-&lt;p&gt;Con motivo del &lt;a href=&quot;https://opendataday.org/es_es/&quot;&gt;Open Data Day&lt;/a&gt; de este año estaré dando talleres de mapeo básico en diferentes instituciones educativas de la Comarca Lagunera entre el 1 y el 7 de marzo.&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Mon, 03 Mar 2025 09:00:00 -0600</pubDate>
-      <dc:date>2025-03-03T09:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 Bits Libres - La caverna de la IA
 ==================================
 
-Fecha: 2025-09-01 08:00
+Fecha: 2025-08-01 08:00
 Autor: Osvaldo
 Categorías: Publicaciones, Bits Libres
 
