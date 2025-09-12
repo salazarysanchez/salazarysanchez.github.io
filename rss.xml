@@ -9,6 +9,17 @@
     <link>https://salazarysanchez.github.io</link>
     <description>Mejoremos el mundo y nuestras vidas un Hack a la vez.</description>
     <item>
+      <title>Congreso de Software Libre 2025</title>
+      <link>https://salazarysanchez.github.io/entradas/2025-09-12-Congreso-Software-Libre-2025.html</link>
+      <description>
+&lt;p&gt;Hemos llegado a este momento especial y me gustaría todos fueran parte de él: el XX aniversario del &lt;a href=&quot;http://www.gulag.org.mx/&quot;&gt;Grupo de Usuarios de GNU/Linux de La Laguna&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Fri, 12 Sep 2025 08:00:00 -0600</pubDate>
+      <dc:date>2025-09-12T08:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - XX Aniversario</title>
       <link>https://salazarysanchez.github.io/entradas/2025-09-01-Bits-Libres-XX-Aniversario.html</link>
       <description>
@@ -84,17 +95,6 @@
       <author>Osvaldo</author>
       <pubDate>Wed, 23 Apr 2025 16:00:00 -0600</pubDate>
       <dc:date>2025-04-23T16:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - “Solamente presencial”</title>
-      <link>https://salazarysanchez.github.io/entradas/2025-04-01-Bits-Libres-Solamente-presencial.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.mx/version-impresa/&quot;&gt;Entretodos&lt;/a&gt;, en abril del 2025&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Tue, 01 Apr 2025 08:00:00 -0600</pubDate>
-      <dc:date>2025-04-01T08:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
