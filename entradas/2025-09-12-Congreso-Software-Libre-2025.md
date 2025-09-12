@@ -3,7 +3,7 @@ Congreso de Software Libre 2025
 
 Fecha: 2025-09-12 08:00
 Autor: Osvaldo
-Categorías: OpenStreetMap, OSM, Software Libre, Free Software, Talleres
+Categorías: OpenStreetMap, OSM, Software Libre, Free Software, Talleres, Coahuila
 
 Hemos llegado a este momento especial y me gustaría todos fueran parte de él: el XX aniversario del [Grupo de Usuarios de GNU/Linux de La Laguna](http://www.gulag.org.mx/).
 
