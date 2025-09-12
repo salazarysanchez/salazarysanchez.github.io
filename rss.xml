@@ -20,6 +20,17 @@
       <dc:date>2025-09-01T08:00:00-06:00</dc:date>
     </item>
     <item>
+      <title>Mapatón Nacional de México 2025</title>
+      <link>https://salazarysanchez.github.io/entradas/2025-08-19-Mapaton-Nacional-Mexico-2025.html</link>
+      <description>
+&lt;p&gt;¡El Mapatón Nacional de México 2025 está por arrancar! Este es un ejemplo de cómo la movilización digital de cientos de personas mapeadoras puede cerrar vacíos de datos críticos en los territorios más vulnerables del país.&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Tue, 19 Aug 2025 08:00:00 -0600</pubDate>
+      <dc:date>2025-08-19T08:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>Bits Libres - La caverna de la IA</title>
       <link>https://salazarysanchez.github.io/entradas/2025-08-01-Bits-Libres-La-caverna-de-la-IA.html</link>
       <description>
@@ -84,17 +95,6 @@
       <author>Osvaldo</author>
       <pubDate>Tue, 01 Apr 2025 08:00:00 -0600</pubDate>
       <dc:date>2025-04-01T08:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Blender Básico en UTLD</title>
-      <link>https://salazarysanchez.github.io/entradas/2025-03-19-UTLD-Blender-basico.html</link>
-      <description>
-&lt;p&gt;El 19 de marzo del 2025, representando al &lt;a href=&quot;http://www.gulag.org.mx/&quot;&gt;Grupo de Usuarios de GNU/Linux de La Laguna&lt;/a&gt; participé en la &lt;strong&gt;&lt;a href=&quot;https://www.utlagunadurango.edu.mx/&quot;&gt;Universidad Tecnológica de La Laguna Durango&lt;/a&gt;&lt;/strong&gt; con un taller de &lt;a href=&quot;https://www.blender.org/&quot;&gt;Blender&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Wed, 19 Mar 2025 10:30:00 -0600</pubDate>
-      <dc:date>2025-03-19T10:30:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
