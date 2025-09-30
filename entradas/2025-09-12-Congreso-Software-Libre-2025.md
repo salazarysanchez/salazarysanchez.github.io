@@ -37,3 +37,16 @@ Espero que todas las personas que conozcan y les interese el Software Libre nos 
 
 Recuerden: 😃🐧 ¡La entrada es Libre! 😃🐧
 
+### Update del Taller de mapeo
+
+Se celebró el taller con jovenes entusiastas, aquí una muestra de lo que lograron en esas horas:
+
+<br />
+<center>
+<a href="https://stats.now.ohsome.org/dashboard#hashtag=LUGLaguna&start=2025-09-19T06:00:00Z&end=2025-09-20T20:45:00Z&interval=P1D&active_topic=building&countries=MEX&topics=building">
+<img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2025-09-12-Congreso-Software-Libre-2025/Taller_OSM_Resultados.jpg" alt="Stats Taller Mapeo Congreso 2025" width="500" height="600"></a>
+</center>
+<br />
+
+Fotos y más información en el sitio del [GULag](http://www.gulag.org.mx/resumen-del-congreso-de-software-libre-2025.html).
+
