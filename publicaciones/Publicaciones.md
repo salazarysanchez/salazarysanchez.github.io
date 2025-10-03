@@ -26,6 +26,8 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
 
+**Octubre 2025** [Estafeta](https://www.salazarysanchez.com/entradas/2025-10-01-Bits-Libres-Estafeta.html)
+
 **Septiembre 2025** [XX Aniversario](https://www.salazarysanchez.com/entradas/2025-09-01-Bits-Libres-XX-Aniversario.html)
 
 **Agosto 2025** [La caverna de la IA](https://www.salazarysanchez.com/entradas/2025-08-01-Bits-Libres-La-caverna-de-la-IA.html)
