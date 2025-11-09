@@ -19,7 +19,7 @@ El 5 de noviembre impartiré el taller __"[Mapeo Básico con OpenStreetMap](http
 
 ### Descarga
 
-Próximamente.
+* [Presentación de la conferencia](2025-11-05-Congreso-Internacional-Academico-2025/Conociendo_el_Software_Libre.pdf).
 
 Gracias por la invitación :-)
 
