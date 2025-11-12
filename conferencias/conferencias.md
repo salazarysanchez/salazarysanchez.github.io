@@ -10,7 +10,7 @@ Tengo un repertorio de [conferencias](http://www.salazarysanchez.com/categorias/
 
 ### Conferencias:
 
-* Conociendo el Software Libre
+* [Conociendo el Software Libre](https://www.salazarysanchez.com/entradas/2025-11-05-Congreso-Internacional-Academico-2025.html)
 * [Derecho a la privacidad en la era digital](https://www.salazarysanchez.com/entradas/2016-10-27-Semana-Academica-Tec-SP.html)
 * [Software libre, educación libre](https://www.salazarysanchez.com/entradas/2021-08-06-SL-educacion-libre.html)
 * [El software libre como aliado de la legalidad en tu empresa](https://www.salazarysanchez.com/entradas/2020-08-14-SL-legalidad.html)
