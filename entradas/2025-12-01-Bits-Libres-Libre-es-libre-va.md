@@ -141,3 +141,35 @@ y un buen moka se alzará.
 
 🎶❄️🎶
 
+
+### Update: A cantar
+
+Un amigo le puso música y canto a este texto, lo cual era la idea ;-)
+
+Pueden escuchar las diferentes versiones aquí:
+
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XkCc8RlUKUw?si=Qcnj8SHoZEk0pxrO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br />
+
+🎶❄️🎶
+
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BaucSftkYrQ?si=ibNK6IwSR4eaowVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br />
+
+🎶❄️🎶
+
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mDmdPUnSjx4?si=oUWXqeln0eyKnacT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br />
+
+🎶❄️🎶
+
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kKlIscUrUd8?si=mHqv4toTjIYdPBV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br />
+
+🎶❄️🎶
+
+
