@@ -26,6 +26,8 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
 
+**Febrero 2026** [Carta abierta a los amigos](https://www.salazarysanchez.com/entradas/2026-02-01-Bits-Libres-Carta-abierta-a-los-amigos.html)
+
 **Enero 2026** [Tips para egresados](https://www.salazarysanchez.com/entradas/2026-01-01-Bits-Libres-Tips-para-egresados.html)
 
 **Diciembre 2025** [Libre es, libre va](https://www.salazarysanchez.com/entradas/2025-12-01-Bits-Libres-Libre-es-libre-va.html)
