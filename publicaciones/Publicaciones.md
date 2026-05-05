@@ -26,6 +26,8 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
 
+**Mayo 2026** [La ilusión de conexión](https://www.salazarysanchez.com/entradas/2026-05-01-Bits-Libres-La-ilusion-de-conexion.html)
+
 **Abril 2026** [Brechas](https://www.salazarysanchez.com/entradas/2026-04-01-Bits-Libres-Brechas.html)
 
 **Marzo 2026** [Más mujeres en las Ciencias [Computacionales]](https://www.salazarysanchez.com/entradas/2026-03-01-Bits-Libres-Mas-mujeres-en-las-Ciencias-Computacionales.html)
