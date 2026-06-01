@@ -1,11 +1,11 @@
 Bits Libres - La ilusión de conexión
 ==================================
 
-Fecha: 2026-04-01 08:00
+Fecha: 2026-05-01 08:00
 Autor: Osvaldo
 Categorías: Publicaciones, Bits Libres
 
-_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html) del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en abril del 2026_
+_Publicado en la sección [Bits Libres](http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html) del periódico [Entretodos](http://periodicoentretodos.mx/version-impresa/), en mayo del 2026_
 
 <!-- break -->
 
