@@ -26,6 +26,8 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
 
+**Junio 2026** [Ser nuestros propios Project Manager](https://www.salazarysanchez.com/entradas/2026-06-01-Bits-Libres-Ser-nuestros-propios-Project-Manager.html)
+
 **Mayo 2026** [La ilusión de conexión](https://www.salazarysanchez.com/entradas/2026-05-01-Bits-Libres-La-ilusion-de-conexion.html)
 
 **Abril 2026** [Brechas](https://www.salazarysanchez.com/entradas/2026-04-01-Bits-Libres-Brechas.html)
