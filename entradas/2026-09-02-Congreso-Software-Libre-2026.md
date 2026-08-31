@@ -5,7 +5,7 @@ Fecha: 2026-09-02 08:00
 Autor: Osvaldo
 Categorías: OpenStreetMap, OSM, Software Libre, Free Software, Conferencias, Talleres, Coahuila
 
-En breve celebraremos un aniversario más del [Grupo de Usuarios de GNU/Linux de La Laguna](http://www.gulag.org.mx/).
+En breve celebraremos un aniversario más del [Grupo de Usuarios de GNU/Linux de La Laguna](http://www.gulag.org.mx/), y estaré participando con conferencia y taller de OpenStreetMap.
 
 <!-- break -->
 
@@ -18,7 +18,7 @@ En breve celebraremos un aniversario más del [Grupo de Usuarios de GNU/Linux de
 
 Lo celebraremos en la __Universidad Tecnológica de Torreón__ el __25 de septiembre__ desde las __9:00 horas__ con conferencias y talleres.
 
-Toda la información la encontrarás en el sitio web del GULag [http://www.gulag.org.mx/proximamente-congreso-2025.html](http://www.gulag.org.mx/proximamente-congreso-2025.html)
+Toda la información la encontrarás en el sitio web del GULag [http://www.gulag.org.mx/](http://www.gulag.org.mx/)
 
 <br />
 <center>
