@@ -26,6 +26,8 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
 
+**Septiembre 2026** [Habilidades](https://www.salazarysanchez.com/entradas/2026-09-01-Bits-Libres-Habilidades.html)
+
 **Agosto 2026** [Masas Libres](https://www.salazarysanchez.com/entradas/2026-08-01-Bits-Libres-Masas-Libres.html)
 
 **Julio 2026** [Nuestros bugs y legacy bugs](https://www.salazarysanchez.com/entradas/2026-07-01-Bits-Libres-Nuestros-bugs-y-legacy-bugs.html)
