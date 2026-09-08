@@ -1,4 +1,4 @@
-Congreso de Software Libre 2026
+Congreso Internacional de Software Libre 2026
 ==================================
 
 Fecha: 2026-09-02 08:00
