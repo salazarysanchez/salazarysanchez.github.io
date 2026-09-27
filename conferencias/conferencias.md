@@ -10,6 +10,7 @@ Tengo un repertorio de [conferencias](http://www.salazarysanchez.com/categorias/
 
 ### Conferencias:
 
+* [OpenStreetMap: Datos abiertos y más](https://www.salazarysanchez.com/entradas/2026-09-02-Congreso-Software-Libre-2026.html)
 * [Conociendo el Software Libre](https://www.salazarysanchez.com/entradas/2025-11-05-Congreso-Internacional-Academico-2025.html)
 * [Smart City](https://www.salazarysanchez.com/entradas/2025-06-11-SmartCity.html)
 * [Derecho a la privacidad en la era digital](https://www.salazarysanchez.com/entradas/2016-10-27-Semana-Academica-Tec-SP.html)

@@ -33,18 +33,48 @@ Yo estaré dando una conferencia y un taller relacionados con OpenStreetMap.
 
 ### La Conferencia
 
-En la conferencia __[OpenStreetMap: Datos abiertos y más](https://osmcal.org/event/5149/)__ se enseñará al público asistente qué es OpenStreetMap (OSM), qué son los datos abiertos y cómo y por qué usar ambos ya sea en nuestros trabajos, en nuestra comunidad y, principalmente, en nuestra vida diaria.
+<br />
+<center>
+<a href="2026-09-02-Congreso-Software-Libre-2026/conferencia.jpg">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2026-09-02-Congreso-Software-Libre-2026/conferencia.jpg" alt="Conferencia OSM" width="250" height="325">
+</a>
+</center>
+<br />
+
+En la conferencia __[OpenStreetMap: Datos abiertos y más](https://osmcal.org/event/5149/)__ se enseñó al público asistente qué es OpenStreetMap (OSM), qué son los datos abiertos y cómo y por qué usar ambos ya sea en nuestros trabajos, en nuestra comunidad y, principalmente, en nuestra vida diaria.
 
 ### El Taller de mapeo
 
-En el taller __[Mapeando mi entorno](https://osmcal.org/event/5150/)__ se enseñará al público asistente a usar OpenStreetMap (OSM) para que puedan agregar a un mapa libre elementos que pueden enriquecer el mapa para todos quienes lo usamos.
+<br />
+<center>
+<a href="2026-09-02-Congreso-Software-Libre-2026/taller.jpg">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2026-09-02-Congreso-Software-Libre-2026/taller.jpg" alt="Taller Mapeo OSM" width="250" height="325">
+</a>
+</center>
+<br />
+
+En el taller __[Mapeando mi entorno](https://osmcal.org/event/5150/)__ se enseñó al público asistente a usar OpenStreetMap (OSM) para que puedan agregar a un mapa libre elementos que pueden enriquecer el mapa para todos quienes lo usamos.
 
 <br />
-Espero que todas las personas que conozcan y les interese el Software Libre nos puedan acompañar el __25 de septiembre__ desde las __9:00 horas__.
+<center>
+<a href="https://ohsome-now.heigit.org/dashboard#hashtag=LUGLaguna&start=2026-09-25T06:00:00Z&end=2026-09-26T06:00:00Z&interval=P1D&active_topic=contributor&countries=MEX&topics=amenity,building,contributor,education,poi,road,commercial,edit&osm_user=115612">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2026-09-02-Congreso-Software-Libre-2026/Mapeo_LUGLaguna.png" alt="Estadísticas LUGLaguna" width="250" height="325">
+</a>
+</center>
+<br />
 
 <br />
-Recuerden: 😃🐧 ¡La entrada es Libre! 😃🐧
+<center>
+<a href="https://ohsome-now.heigit.org/dashboard#hashtag=UTTorre%25C3%25B3n&start=2026-09-25T06:00:00Z&end=2026-09-26T06:00:00Z&interval=P1D&active_topic=contributor&countries=MEX&topics=contributor,edit,building,road,amenity,commercial,education,poi&osm_user=115612">
+<img class="img-responsive" style="width:50%;height:auto;margin-right:12px;" src="2026-09-02-Congreso-Software-Libre-2026/Mapeo_UTTorreon.png" alt="Estadísticas UTTorreón" width="250" height="325">
+</a>
+</center>
+<br />
 
 
 Fotos y más información en el sitio del [GULag](http://www.gulag.org.mx/).
+
+### Descarga
+
+* [Presentación de la conferencia](2026-09-02-Congreso-Software-Libre-2026/Conferencia_OpenStreetMap_datos_abiertos_y_mas.pdf).
 
