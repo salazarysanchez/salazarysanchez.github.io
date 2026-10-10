@@ -15,7 +15,11 @@ Estoy a su servicio si requieren una asesoría, plática, [conferencia](https://
 
 ### e-mail
 
-Escribanme a ![osvaldo at cryptolab dot net](contacto/Correo02.png) y mucho mejor si me escriben usando mi [llave pública](contacto/0xA9FA005C.asc).
+Escribanme a : orodolfo [.] salazars [@] gmail [.] com .
+
+### Redes sociales
+
+Puedes ver todas mis redes sociales en [linktr.ee](https://linktr.ee/osvaldosalazar), o puedes checarlas a continuación:
 
 ### Redes libres
 
