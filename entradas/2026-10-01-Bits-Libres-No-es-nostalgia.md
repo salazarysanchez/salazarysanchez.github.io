@@ -28,10 +28,11 @@ Sufre también el medio ambiente, con más residuos electrónicos y la sociedad 
 
 Naves como la [Voyager 1](https://en.wikipedia.org/wiki/Voyager_1), que se lanzó en 1977, sigue funcionando y su memoria no pasa de los 69 kilobytes, __¿cuánta memoria tiene tu celular?__
 
+<!--
 <br />
 <center>
 <a href="2026-10-01-Bits-Libres-No-es-nostalgia/Entretodos-Octubre-2026.pdf">
 <img class="img-responsive" style="width:40%;height:auto;margin-right:12px;" src="2026-10-01-Bits-Libres-No-es-nostalgia/PortadaEtOct2026.png" alt="Entretodos Octubre 2026" width="500" height="600"></a>
 </center>
 <br />
-
+-->
