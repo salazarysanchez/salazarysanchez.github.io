@@ -26,6 +26,34 @@
       <dc:date>2026-11-02T19:00:00-06:00</dc:date>
     </item>
     <item>
+      <title>Bits Libres - Una antigua cadena</title>
+      <link>https://salazarysanchez.github.io/entradas/2026-11-01-Bits-Libres-Una-antigua-cadena.html</link>
+      <description>
+&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.mx/version-impresa/&quot;&gt;Entretodos&lt;/a&gt;, en noviembre del 2026&lt;/em&gt;&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sun, 01 Nov 2026 08:00:00 -0600</pubDate>
+      <dc:date>2026-11-01T08:00:00-06:00</dc:date>
+    </item>
+    <item>
+      <title>Calaverita 2026</title>
+      <link>https://salazarysanchez.github.io/entradas/2026-11-01-Calaverita-2026.html</link>
+      <description>
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;center&gt;
+&lt;a href=&quot;https://cursosblender.com/&quot;&gt;
+&lt;img class=&quot;img-responsive&quot; style=&quot;width:50%;height:auto;margin-right:12px;&quot; src=&quot;2023-10-31-Calaverita-2023/Cursos-Blender-Calaverita.jpg&quot; alt=&quot;CursosBlender Calaverita&quot; width=&quot;250&quot; height=&quot;325&quot; /&gt;
+&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+</description>
+      <author>Osvaldo</author>
+      <pubDate>Sun, 01 Nov 2026 07:00:00 -0600</pubDate>
+      <dc:date>2026-11-01T07:00:00-06:00</dc:date>
+    </item>
+    <item>
       <title>State of the Map Latam 2026</title>
       <link>https://salazarysanchez.github.io/entradas/2026-10-14-State-of-the-Map-Latam-2026.html</link>
       <description>
@@ -79,28 +107,6 @@
       <author>Osvaldo</author>
       <pubDate>Sat, 01 Aug 2026 08:00:00 -0600</pubDate>
       <dc:date>2026-08-01T08:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Bits Libres - Nuestros bugs y legacy bugs</title>
-      <link>https://salazarysanchez.github.io/entradas/2026-07-01-Bits-Libres-Nuestros-bugs-y-legacy-bugs.html</link>
-      <description>
-&lt;p&gt;&lt;em&gt;Publicado en la sección &lt;a href=&quot;http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html&quot;&gt;Bits Libres&lt;/a&gt; del periódico &lt;a href=&quot;http://periodicoentretodos.mx/version-impresa/&quot;&gt;Entretodos&lt;/a&gt;, en julio del 2026&lt;/em&gt;&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Wed, 01 Jul 2026 08:00:00 -0600</pubDate>
-      <dc:date>2026-07-01T08:00:00-06:00</dc:date>
-    </item>
-    <item>
-      <title>Traducción en OAE</title>
-      <link>https://salazarysanchez.github.io/entradas/2026-06-30-Traduccion-OAE.html</link>
-      <description>
-&lt;p&gt;Con la novedad que su servidor está colaborando con traducción en la &lt;a href=&quot;https://astro4edu.org/&quot;&gt;Office of Astronomy for Education&lt;/a&gt;, una oficina de la &lt;a href=&quot;https://www.iau.org/&quot;&gt;International Astronomical Union&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-      <author>Osvaldo</author>
-      <pubDate>Tue, 30 Jun 2026 15:00:00 -0600</pubDate>
-      <dc:date>2026-06-30T15:00:00-06:00</dc:date>
     </item>
   </channel>
 </rss>
