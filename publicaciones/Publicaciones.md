@@ -26,6 +26,8 @@ Inicia el mes de mayo del 2016 y artículos de la GULAG aparecen de nuevo en un 
 http://www.gulag.org.mx/sobre-la-seccion-bits-libres.html
  -->
 
+**Noviembre 2026** [Una antigua cadena](https://www.salazarysanchez.com/entradas/2026-11-01-Bits-Libres-Una-antigua-cadena.html)
+
 **Octubre 2026** [No es nostalgia](https://www.salazarysanchez.com/entradas/2026-10-01-Bits-Libres-No-es-nostalgia.html)
 
 **Septiembre 2026** [Habilidades](https://www.salazarysanchez.com/entradas/2026-09-01-Bits-Libres-Habilidades.html)
