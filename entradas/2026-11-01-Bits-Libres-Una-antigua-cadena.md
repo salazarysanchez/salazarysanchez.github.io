@@ -19,7 +19,7 @@ Hoy disponemos de más información y mejores herramientas para estudiar los pro
 
 Las tecnologías libres no harán llover ni crearán agua potable por sí mismos, pero pueden ayudarnos a administrar mejor la que tenemos y a tomar decisiones basadas en evidencias; a responder a aquella advertencia con algo más que preocupación: mapas abiertos, mediciones confiables, sensores, análisis reproducibles y comunidades capaces de compartir conocimiento y datos abiertos.
 
-<!-- -->
+<!--
 <br />
 <center>
 <a href="https://www.salazarysanchez.com/entradas/2026-11-01-Bits-Libres-Una-antigua-cadena/Entretodos_Noviembre_2026.pdf">
@@ -27,5 +27,5 @@ Las tecnologías libres no harán llover ni crearán agua potable por sí mismos
 </a>
 </center>
 <br />
-<!-- -->
+-->
 
